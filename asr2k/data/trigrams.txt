@@ -1,0 +1,8440 @@
+zəhənəi	1
+zəhənəi zəbai	1
+zəhənəi zəbai ɡanalazəŋ	1
+meisan	2
+meisan haʋa	1
+meisan haʋa kʰamani	1
+meisan haʋakʰauzəŋga	1
+meisan haʋakʰauzəŋga aɾa	1
+liŋkʰənaidoŋo	1
+liŋkʰənaidoŋo watsaʋu	1
+liŋkʰənaidoŋo watsaʋu vaɾ	1
+deninɡɾani	1
+deninɡɾani tʰəɾəm	1
+deninɡɾani tʰəɾəm tʰanəi	1
+pʰaɾne	3
+pʰaɾne kʰoɾoni	1
+pʰaɾne kʰoɾoni tʰahati	1
+pʰaɾne kʰəɾni	1
+pʰaɾne kʰəɾni pʰɾai	1
+pʰaɾne kʰoɾon	1
+pʰaɾne kʰoɾon tʰahatʰi	1
+mezaie	1
+mezaie </s>	1
+nikʰid	1
+nikʰid nibue	1
+nikʰid nibue inkizaɡən	1
+dau	1
+dau kʰoɾesə	1
+dau kʰoɾesə nəŋtʰəmona	1
+iva	1
+iva ikual	1
+iva ikual tu	1
+tʰauɾa	1
+tʰauɾa </s>	1
+pʰəgən	1
+pʰəgən haʋa	1
+pʰəgən haʋa maupʰuŋnai	1
+aɾanligoɾanma	1
+aɾanligoɾanma kʰom	1
+aɾanligoɾanma kʰom mibaŋe	1
+ɡəzeula	1
+ɡəzeula </s>	1
+eisəŋ	1
+eisəŋ kontʰaini	1
+eisəŋ kontʰaini zəŋga	1
+enoijaɾ	1
+enoijaɾ da	1
+enoijaɾ da mu	1
+daiɾekli	3
+daiɾekli pɾopoɾsənəl	1
+daiɾekli pɾopoɾsənəl tu	1
+daiɾekli tʰauɾa	1
+daiɾekli tʰauɾa </s>	1
+daiɾekli prəpoɾsənel	1
+daiɾekli prəpoɾsənel el	1
+zeŋboa	1
+zeŋboa mənse	1
+zeŋboa mənse zega	1
+nəsə	1
+nəsə elektɾon	1
+nəsə elektɾon uan	1
+səsse	1
+səsse zaman	1
+səsse zaman ma	1
+oŋa	1
+oŋa lasun	1
+oŋa lasun laŋəla	1
+dabe	1
+dabe si	1
+dabe si manema	1
+ɾeŋen	1
+ɾeŋen ɡaneɡezizəzəm	1
+ɾeŋen ɡaneɡezizəzəm ʋa	1
+pʰoɾesi	1
+pʰoɾesi nətʰəŋmona	1
+pʰoɾesi nətʰəŋmona mumuzi	1
+mola	1
+mola nətʰəŋ	1
+mola nətʰəŋ mona	1
+kʰə	3
+kʰə lana	1
+kʰə lana akəlaŋzəʋai	1
+kʰə maʋait	1
+kʰə maʋait nəŋtʰəŋəze	1
+kʰə nəŋtʰəmənə	1
+kʰə nəŋtʰəmənə ʋeso	1
+diegɾam	1
+diegɾam akʰinila	1
+diegɾam akʰinila piksaɾ	1
+məzə	2
+məzə moni	1
+məzə moni bizəŋ	1
+məzə tʰoa	1
+məzə tʰoa aɾə	1
+nambaɾ	1
+nambaɾ nəŋtʰəmənə	1
+nambaɾ nəŋtʰəmənə nənəmənə	1
+səbse	1
+səbse zəlamna	1
+səbse zəlamna nəŋtʰəmona	1
+balbazəŋ	1
+balbazəŋ naga	1
+balbazəŋ naga naga	1
+lədə	1
+lədə mədəŋ	1
+lədə mədəŋ dʰattu	1
+nənəmədəŋ	1
+nənəmədəŋ </s>	1
+ŋənai	1
+ŋənai </s>	1
+suissega	1
+suissega </s>	1
+zeŋɡa	1
+zeŋɡa revaiti	1
+zeŋɡa revaiti ednaɾ	1
+ɾeʋaiti	8
+ɾeʋaiti dapʰuɾ	1
+ɾeʋaiti dapʰuɾ okʰul	1
+ɾeʋaiti pʰaɾse	1
+ɾeʋaiti pʰaɾse lakʰiɡən	1
+ɾeʋaiti aɡteatʰiŋ	1
+ɾeʋaiti aɡteatʰiŋ ɾeʋaiti	1
+ɾeʋaiti zəŋɡakʰinadaŋ	1
+ɾeʋaiti zəŋɡakʰinadaŋ zeblazəŋsaɾkʰit	1
+ɾeʋaiti lina	1
+ɾeʋaiti lina naia	1
+ɾeʋaiti heŋtʰa	1
+ɾeʋaiti heŋtʰa kʰo	1
+ɾeʋaiti ikuəsən	1
+ɾeʋaiti ikuəsən vi	1
+ɾeʋaiti simbozəŋditʰənəizə	1
+ɾeʋaiti simbozəŋditʰənəizə ʋekʰənəŋtʰəmənə	1
+kʰalanəŋ	1
+kʰalanəŋ ze	1
+kʰalanəŋ ze ase	1
+manei	1
+manei </s>	1
+nəŋboadəŋ	1
+nəŋboadəŋ mobapəɾni	1
+nəŋboadəŋ mobapəɾni akʰutʰaini	1
+kolsae	2
+kolsae aɾa	1
+kolsae aɾa habanə	1
+kolsae aɾə	1
+kolsae aɾə saɾsni	1
+kolomənə	1
+kolomənə aɾa	1
+kolomənə aɾa nəŋtʰəməna	1
+bisim	1
+bisim muɹtʰeklam	1
+bisim muɹtʰeklam mahɔɹmae	1
+baŋ	1
+baŋ niɡemeŋtʰəiza	1
+baŋ niɡemeŋtʰəiza menipʰɾai	1
+zəŋai	1
+zəŋai pʰi	1
+zəŋai pʰi ikual	1
+biə	1
+biə zəŋɡa	1
+biə zəŋɡa minit	1
+piɔhai	1
+piɔhai niŋtʰənona	1
+piɔhai niŋtʰənona nunamənən	1
+sauɾai	1
+sauɾai ɡənta	1
+sauɾai ɡənta mənse	1
+kʰaneikʰələmnə	1
+kʰaneikʰələmnə voltmtaɾda	1
+kʰaneikʰələmnə voltmtaɾda auɾəilitʰəɡə	1
+beisən	1
+beisən kontʰaini	1
+beisən kontʰaini ezizə	1
+leɹisuɹuŋ	1
+leɹisuɹuŋ kɔnfiuza	1
+leɹisuɹuŋ kɔnfiuza mɔblib	1
+empieɾ	2
+empieɾ obla	1
+empieɾ obla dedinɡɾani	1
+empieɾ </s>	1
+manne	1
+manne pʰoza	1
+manne pʰoza naini	1
+zi	1
+zi mininsuŋni	1
+zi mininsuŋni tʰaŋai	1
+<s>	207
+<s> dau	1
+<s> dau kʰoɾesə	1
+<s> manne	1
+<s> manne pʰoza	1
+<s> zainigezizəŋ	1
+<s> zainigezizəŋ tʰaŋai	1
+<s> tʰəŋzəŋ	1
+<s> tʰəŋzəŋ bluzu	1
+<s> lasun	1
+<s> lasun boŋɡa	1
+<s> zeʋla	1
+<s> zeʋla beʋai	1
+<s> suisuba	1
+<s> suisuba olanebi	1
+<s> si	1
+<s> si kaɾen	1
+<s> minit	1
+<s> minit tʰaila	1
+<s> mets	1
+<s> mets sains	1
+<s> beizə	1
+<s> beizə saɾsəkʰəl	1
+<s> me	1
+<s> me empijaɾ	1
+<s> ʋellausiŋsi	1
+<s> ʋellausiŋsi kʰuzəŋɡa	1
+<s> zudibekʰubakʰai	1
+<s> zudibekʰubakʰai eba	1
+<s> pʰi	1
+<s> pʰi tʰahati	1
+<s> bekʰunəŋtʰəməna	1
+<s> bekʰunəŋtʰəməna ius	1
+<s> obla	1
+<s> obla meʋama	1
+<s> invərsli	1
+<s> invərsli pɾopoɾsənel	1
+<s> biezaʋai	1
+<s> biezaʋai musei	1
+<s> so	2
+<s> so nəŋtuŋmənai	1
+<s> so ʋenifɾai	1
+<s> ta	1
+<s> ta mikʰiziŋi	1
+<s> zinei	1
+<s> zinei dusumi	1
+<s> beisiman	1
+<s> beisiman zən	1
+<s> ŋəŋtʰa	1
+<s> ŋəŋtʰa mona	1
+<s> nəŋtʰəmənə	1
+<s> nəŋtʰəmənə nəio	1
+<s> e	2
+<s> e ʋatdahaɾ	1
+<s> e ɡezeɾao	1
+<s> zudi	2
+<s> zudi zəŋga	1
+<s> zudi mənse	1
+<s> be	1
+<s> be baɾkʰuzənəngai	1
+<s> saŋkʰontʰai	1
+<s> saŋkʰontʰai tʰamitba	1
+<s> mili	1
+<s> mili empijaɾ	1
+<s> benipʰɾai	1
+<s> benipʰɾai omni	1
+<s> boɡʰe	1
+<s> boɡʰe ʋa	1
+<s> sisiɾ	1
+<s> sisiɾ impoɾten	1
+<s> indiksiŋ	1
+<s> indiksiŋ niɡezizəŋ	1
+<s> amaro	1
+<s> amaro misi	1
+<s> betɾi	1
+<s> betɾi naŋsaɾgan	1
+<s> tʰaimnəŋɡən	1
+<s> tʰaimnəŋɡən somnəŋɡen	1
+<s> mənipʰɾai	1
+<s> mənipʰɾai zəŋɡasəŋ	1
+<s> həŋənalonio	1
+<s> həŋənalonio boŋse	1
+<s> səŋ	1
+<s> səŋ kʰantipuɾkʰə	1
+<s> moblib	7
+<s> moblib dahaɾ	3
+<s> moblib ʋe	1
+<s> moblib sati	1
+<s> moblib sel	1
+<s> moblib batʰi	1
+<s> bekʰunumuŋ	1
+<s> bekʰunumuŋ muŋnəzəda	1
+<s> doblaitʰi	1
+<s> doblaitʰi mane	1
+<s> zəŋzahao	1
+<s> zəŋzahao mani	1
+<s> za	1
+<s> za lama	1
+<s> ensəɾkʰəmona	1
+<s> ensəɾkʰəmona haɡən	1
+<s> tuelf	1
+<s> tuelf volt	1
+<s> ʋiʋaitʰai	1
+<s> ʋiʋaitʰai se	1
+<s> em	1
+<s> em ese	1
+<s> pʰobla	1
+<s> pʰobla aiaɡo	1
+<s> zeikʰize	1
+<s> zeikʰize balbanə	1
+<s> aɾo	1
+<s> aɾo sabi	1
+<s> mablababna	1
+<s> mablababna mablaʋa	1
+<s> nimə	1
+<s> nimə nisəsəŋ	1
+<s> inəizəŋ	1
+<s> inəizəŋ ʋe	1
+<s> zəŋa	1
+<s> zəŋa tʰahati	1
+<s> bekʰubuzibainaŋ	1
+<s> bekʰubuzibainaŋ asahalamnai	1
+<s> vaŋsumau	1
+<s> vaŋsumau mane	1
+<s> saos	1
+<s> saos sənaɾo	1
+<s> ane	1
+<s> ane zəŋ	1
+<s> kaɾen	2
+<s> kaɾen həŋa	1
+<s> kaɾen əɾədəŋa	1
+<s> da	19
+<s> da piɔhai	1
+<s> da nətʰəŋmona	1
+<s> da be	2
+<s> da gəɹli	1
+<s> da moblib	2
+<s> da mitʰaŋnifai	1
+<s> da ɡiəmakʰələmnə	1
+<s> da entʰaŋ	1
+<s> da ɡəmi	1
+<s> da nəŋtʰəməna	1
+<s> da besən	1
+<s> da zəŋɡi	1
+<s> da zəŋ	1
+<s> da besauʋaɾi	1
+<s> da vezewai	1
+<s> da pastʰaona	1
+<s> da bikʰəŋ	1
+<s> ai	2
+<s> ai ikual	1
+<s> ai intu	1
+<s> dəŋsə	1
+<s> dəŋsə naikɾom	1
+<s> menupʰɾai	2
+<s> menupʰɾai lednamenanə	1
+<s> menupʰɾai nəŋtʰəmənə	1
+<s> pʰaɾo	1
+<s> pʰaɾo dʰatu	1
+<s> zəŋga	3
+<s> zəŋga munsi	1
+<s> zəŋga ɾenigezizo	1
+<s> zəŋga meʋai	1
+<s> ʋe	3
+<s> ʋe nimuaza	1
+<s> ʋe nəŋtʰəŋməna	1
+<s> ʋe simbol	1
+<s> nəŋtʰəməna	3
+<s> nəŋtʰəməna kelkuleson	1
+<s> nəŋtʰəməna kiobekʰo	1
+<s> nəŋtʰəməna beʋaiki	1
+<s> aɾni	1
+<s> aɾni bekʰu	1
+<s> menəpʰɾai	1
+<s> menəpʰɾai aɾə	1
+<s> uan	1
+<s> uan maikɾo	1
+<s> tʰəŋɾa	1
+<s> tʰəŋɾa swis	1
+<s> ɡuʋobdaŋkʰ	1
+<s> ɡuʋobdaŋkʰ asaŋ	1
+<s> kiu	2
+<s> kiu manakʰai	1
+<s> kiu ikual	1
+<s> taɾni	1
+<s> taɾni pʰaɾne	1
+<s> kʰuɾmanə	1
+<s> kʰuɾmanə hə	1
+<s> siŋknekʰo	1
+<s> siŋknekʰo laba	1
+<s> foɾmula	1
+<s> foɾmula gazəŋa	1
+<s> gənənətʰəkʰəlaŋa	1
+<s> gənənətʰəkʰəlaŋa buzi	1
+<s> mena	1
+<s> mena ene	1
+<s> aɾa	4
+<s> aɾa zeblanikʰiŋ	1
+<s> aɾa meniuɾ	1
+<s> aɾa biohai	1
+<s> aɾa simbol	1
+<s> pɾoblem	1
+<s> pɾoblem mənəiɡən	1
+<s> çʰiduŋkʰese	1
+<s> çʰiduŋkʰese tʰattanpʰɾəni	1
+<s> heŋtʰa	1
+<s> heŋtʰa maheni	1
+<s> besaŋ	1
+<s> besaŋ kaɾen	1
+<s> zəŋ	2
+<s> zəŋ bɔi	1
+<s> zəŋ neks	1
+<s> iema	1
+<s> iema biosezəŋnamə	1
+<s> amalulaʋa	1
+<s> amalulaʋa meʋai	1
+<s> menipʰɾai	1
+<s> menipʰɾai tʰahati	1
+<s> saolana	1
+<s> saolana nəŋtʰəŋməna	1
+<s> gəso	1
+<s> gəso lakʰi	1
+<s> nəŋtʰəmona	2
+<s> nəŋtʰəmona biohai	1
+<s> nəŋtʰəmona moblib	1
+<s> dabei	1
+<s> dabei kʰənəmu	1
+<s> dazəptʰəi	1
+<s> dazəptʰəi dakʰotʰai	1
+<s> biohai	3
+<s> biohai nəŋtʰənənə	1
+<s> biohai nəŋtʰəmona	1
+<s> biohai manahnei	1
+<s> ɾəŋ	1
+<s> ɾəŋ foɾaima	1
+<s> ze	2
+<s> ze meʋe	1
+<s> ze mane	1
+<s> laopʰaini	1
+<s> laopʰaini sevsənaɡən	1
+<s> ʋan	1
+<s> ʋan e	1
+<s> bewai	1
+<s> bewai nistʰasa	1
+<s> ɾeʋaitis	1
+<s> ɾeʋaitis sena	1
+<s> bekʰlai	1
+<s> bekʰlai ekskʰalamnai	1
+<s> sugan	1
+<s> sugan nigizizizəm	1
+<s> udegazəzi	1
+<s> udegazəzi da	1
+<s> tʰaŋzən	1
+<s> tʰaŋzən ɾəzəze	1
+<s> siks	2
+<s> siks intu	1
+<s> siks nambaɾ	1
+<s> aɾə	7
+<s> aɾə sabse	1
+<s> aɾə zəŋɡa	1
+<s> aɾə bekʰainə	1
+<s> aɾə vol	1
+<s> aɾə bekʰunə	1
+<s> aɾə mənse	1
+<s> aɾə haʋa	1
+<s> batʰahatipʰaɾə	1
+<s> batʰahatipʰaɾə makʰəoŋa	1
+<s> topik	1
+<s> topik ni	1
+<s> kaɹen	1
+<s> kaɹen nɔ	1
+<s> dabi	1
+<s> dabi kaɾen	1
+<s> beai	1
+<s> beai karen	1
+<s> aɾai	1
+<s> aɾai biohai	1
+<s> səŋkʰontʰei	1
+<s> səŋkʰontʰei ligele	1
+<s> ten	1
+<s> ten biə	1
+<s> səlai	1
+<s> səlai səlai	1
+<s> saʋaeʋasʋi	1
+<s> saʋaeʋasʋi sabonkotʰae	1
+<s> zəŋɡa	3
+<s> zəŋɡa t͜səɡənam	1
+<s> zəŋɡa ma	1
+<s> zəŋɡa aɾkʰu	1
+<s> menifɾai	2
+<s> menifɾai aɾanligoɾanma	1
+<s> menifɾai empijaɾ	1
+<s> beni	2
+<s> beni mənsei	1
+<s> beni kʰama	1
+<s> amuŋsən	1
+<s> amuŋsən kontʰe	1
+<s> mənkʰələŋ	1
+<s> mənkʰələŋ kʰəlae	1
+<s> impoɾten	1
+<s> impoɾten </s>	1
+<s> saɾs	3
+<s> saɾs san	1
+<s> saɾs tʰananəzəŋ	1
+<s> saɾs ɡohiŋai	1
+<s> balkʰokʰurmai	1
+<s> balkʰokʰurmai ərə	1
+<s> unni	1
+<s> unni vidio	1
+<s> saintis	1
+<s> saintis bezo	1
+<s> tʰaɾaibazəŋ	1
+<s> tʰaɾaibazəŋ ɡubon	1
+<s> eulibkʰau	1
+<s> eulibkʰau aɾa	1
+<s> sənnaomaɾɡao	1
+<s> sənnaomaɾɡao ikual	1
+<s> johai	2
+<s> johai semləzəŋ	1
+<s> johai ladaŋ	1
+<s> ke	1
+<s> ke mane	1
+<s> tʰanaŋdən	1
+<s> tʰanaŋdən siɾfnaŋzabnaita	1
+<s> itopipʰəɾə	1
+<s> itopipʰəɾə ekʰinənə	1
+<s> mane	1
+<s> mane baɾboəɡan	1
+<s> bezəsas	1
+<s> bezəsas sauaɾi	1
+<s> tʰaɾa	1
+<s> tʰaɾa be	1
+<s> zəŋhai	1
+<s> zəŋhai bisʋisano	1
+<s> siszen	1
+<s> siszen dinçʰiŋeize	1
+<s> seɾnagaŋ	1
+<s> seɾnagaŋ oɾlanegeu	1
+<s> ma	2
+<s> ma mənəzəŋ	1
+<s> ma mənəizəŋ	1
+<s> zaipʰəɾai	1
+<s> zaipʰəɾai nəŋtʰəmona	1
+<s> ba	1
+<s> ba tʰametʋa	1
+<s> saɾkit	1
+<s> saɾkit diaɡɾam	1
+<s> ola	1
+<s> ola nəŋtʰəmona	1
+<s> mevai	1
+<s> mevai bisim	1
+ɡanalazəŋ	1
+ɡanalazəŋ </s>	1
+haʋakʰauzəŋga	1
+haʋakʰauzəŋga aɾa	1
+haʋakʰauzəŋga aɾa </s>	1
+watsaʋu	1
+watsaʋu vaɾ	1
+watsaʋu vaɾ feisbukʋu	1
+tʰəɾəm	1
+tʰəɾəm tʰanəi	1
+tʰəɾəm tʰanəi heŋtʰa	1
+pʰaɾaɡa	3
+pʰaɾaɡa zebla	1
+pʰaɾaɡa zebla mənse	1
+pʰaɾaɡa nimikʰe	1
+pʰaɾaɡa nimikʰe </s>	1
+pʰaɾaɡa uan	1
+pʰaɾaɡa uan om	1
+zainigezizəŋ	1
+zainigezizəŋ tʰaŋai	1
+zainigezizəŋ tʰaŋai moblib	1
+nibue	1
+nibue inkizaɡən	1
+nibue inkizaɡən </s>	1
+kʰoɾesə	1
+kʰoɾesə nəŋtʰəmona	1
+kʰoɾesə nəŋtʰəmona bekʰu	1
+pauvaɾ	2
+pauvaɾ mainas	2
+pauvaɾ mainas tʰɾi	1
+pauvaɾ mainas ait	1
+tʰəŋzəŋ	2
+tʰəŋzəŋ bluzu	1
+tʰəŋzəŋ bluzu tʰieɾə	1
+tʰəŋzəŋ buzdail	1
+tʰəŋzəŋ buzdail tʰaɾazəŋ	1
+maupʰuŋnai	1
+maupʰuŋnai diʋaid	1
+maupʰuŋnai diʋaid bai	1
+kʰom	3
+kʰom mibaŋe	1
+kʰom mibaŋe dahaɾ	1
+kʰom ɾuzutʰaijaɾi	1
+kʰom ɾuzutʰaijaɾi heŋtʰa	1
+kʰom ruztʰaijaɾi	1
+kʰom ruztʰaijaɾi heŋtʰa	1
+aɾkʰu	1
+aɾkʰu ɾeʋaiti	1
+aɾkʰu ɾeʋaiti pʰaɾse	1
+zeʋla	2
+zeʋla saɾs	1
+zeʋla saɾs tʰəŋoɡə	1
+zeʋla beʋai	1
+zeʋla beʋai tie	1
+mu	1
+mu zəŋga	1
+mu zəŋga </s>	1
+pɾopoɾsənəl	1
+pɾopoɾsənəl tu	1
+pɾopoɾsənəl tu ai	1
+zega	1
+zega pʰɾai	1
+zega pʰɾai zəŋga	1
+elektɾon	1
+elektɾon uan	1
+elektɾon uan poin	1
+zaman	2
+zaman ma	1
+zaman ma biɡen	1
+zaman biɡen	1
+zaman biɡen biɾia	1
+lasun	2
+lasun laŋəla	1
+lasun laŋəla </s>	1
+lasun boŋɡa	1
+lasun boŋɡa zesiba	1
+saɾsaɾsi	1
+saɾsaɾsi sanə	1
+saɾsaɾsi sanə behu	1
+ɡaneɡezizəzəm	1
+ɡaneɡezizəzəm ʋa	1
+ɡaneɡezizəzəm ʋa saɾkit	1
+nətʰəŋmona	3
+nətʰəŋmona mumuzi	1
+nətʰəŋmona mumuzi </s>	1
+nətʰəŋmona biohai	1
+nətʰəŋmona biohai aŋ	1
+nətʰəŋmona buŋkoɾola	1
+nətʰəŋmona buŋkoɾola ʋəɾdəŋ	1
+nətʰəŋ	1
+nətʰəŋ mona	1
+nətʰəŋ mona meʋai	1
+akəlaŋzəʋai	1
+akəlaŋzəʋai </s>	1
+akʰinila	1
+akʰinila piksaɾ	1
+akʰinila piksaɾ nəŋinəjizae	1
+moni	1
+moni bizəŋ	1
+moni bizəŋ ukʰeni	1
+nənəmənə	1
+nənəmənə taɾkʰo	1
+nənəmənə taɾkʰo pʰənazəʋalase	1
+zəlamna	1
+zəlamna nəŋtʰəmona	1
+zəlamna nəŋtʰəmona sabse	1
+naga	2
+naga naga	1
+naga naga beu	1
+naga beu	1
+naga beu ohai	1
+mədəŋ	1
+mədəŋ dʰattu	1
+mədəŋ dʰattu aɾə	1
+ʋellausiŋsi	1
+ʋellausiŋsi kʰuzəŋɡa	1
+ʋellausiŋsi kʰuzəŋɡa aɡse	1
+mets	1
+mets sains	1
+mets sains bekʰuɾni	1
+suisuba	1
+suisuba olanebi	1
+suisuba olanebi balba	1
+revaiti	1
+revaiti ednaɾ	1
+revaiti ednaɾ aɾ	1
+dapʰuɾ	1
+dapʰuɾ okʰul	1
+dapʰuɾ okʰul manə	1
+ase	1
+ase aɾəzəŋ	1
+ase aɾəzəŋ oni	1
+si	7
+si manema	1
+si manema zəŋga	1
+si iunit	1
+si iunit kʰəkʰəi	1
+si kaɾen	1
+si kaɾen kʰo	1
+si himalaiɡe	1
+si himalaiɡe beha	1
+si komplit	1
+si komplit saŋ	1
+si diʋaid	1
+si diʋaid bai	1
+si tu	1
+si tu di	1
+mobapəɾni	1
+mobapəɾni akʰutʰaini	1
+mobapəɾni akʰutʰaini sajao	1
+uze	1
+uze mazəŋgən	1
+uze mazəŋgən kulumzəŋ	1
+malabononaŋa	1
+malabononaŋa </s>	1
+muɹtʰeklam	1
+muɹtʰeklam mahɔɹmae	1
+muɹtʰeklam mahɔɹmae </s>	1
+niɡemeŋtʰəiza	1
+niɡemeŋtʰəiza menipʰɾai	1
+niɡemeŋtʰəiza menipʰɾai aɾə	1
+pʰi	2
+pʰi ikual	1
+pʰi ikual tu	1
+pʰi tʰahati	1
+pʰi tʰahati pʰaɾaɡa	1
+minit	2
+minit kʰo	1
+minit kʰo nəŋtʰəmona	1
+minit tʰaila	1
+minit tʰaila te	1
+niŋtʰənona	1
+niŋtʰənona nunamənən	1
+niŋtʰənona nunamənən </s>	1
+ɡənta	1
+ɡənta mənse	1
+ɡənta mənse dedeŋɾani	1
+voltmtaɾda	1
+voltmtaɾda auɾəilitʰəɡə	1
+voltmtaɾda auɾəilitʰəɡə nəŋəzəŋa	1
+ezizə	1
+ezizə moblib	1
+ezizə moblib səɾsə	1
+kɔnfiuza	2
+kɔnfiuza mɔblib	1
+kɔnfiuza mɔblib manema	1
+kɔnfiuza da	1
+kɔnfiuza da elənəzəŋ	1
+tʰeŋtʰai	1
+tʰeŋtʰai zəɡən	1
+tʰeŋtʰai zəɡən uan	1
+pʰoza	1
+pʰoza naini	1
+pʰoza naini lige	1
+mininsuŋni	1
+mininsuŋni tʰaŋai	1
+mininsuŋni tʰaŋai ziɾo	1
+</s>	207
+zudibekʰubakʰai	1
+zudibekʰubakʰai eba	1
+zudibekʰubakʰai eba zəɳnə	1
+beizə	1
+beizə saɾsəkʰəl	1
+beizə saɾsəkʰəl səkʰəluŋ	1
+vaɾ	1
+vaɾ feisbukʋu	1
+vaɾ feisbukʋu liŋkʰəaidoŋo	1
+tʰanəi	1
+tʰanəi heŋtʰa	1
+tʰanəi heŋtʰa zəŋɡa	1
+gubun	1
+gubun mənse	1
+gubun mənse kʰoɾsim	1
+gusununado	1
+gusununado sauʋaɾi	1
+gusununado sauʋaɾi </s>	1
+inkizaɡən	2
+inkizaɡən </s>	1
+inkizaɡən tʰamaʋabaɾi	1
+inkizaɡən tʰamaʋabaɾi laŋɡa	1
+buzəʋai	1
+buzəʋai zamanu	1
+buzəʋai zamanu aŋasəi	1
+tʰɾi	3
+tʰɾi empijaɾ	1
+tʰɾi empijaɾ za	1
+tʰɾi handɾed	1
+tʰɾi handɾed kolum	1
+tʰɾi beni	1
+tʰɾi beni muapʰɾai	1
+bluzu	1
+bluzu tʰieɾə	1
+bluzu tʰieɾə aizə	1
+hala	1
+hala zəŋɡa	1
+hala zəŋɡa ʋe	1
+mibaŋe	1
+mibaŋe dahaɾ	1
+mibaŋe dahaɾ kʰommili	1
+pʰaɾse	1
+pʰaɾse lakʰiɡən	1
+pʰaɾse lakʰiɡən mobla	1
+tʰəŋoɡə	1
+tʰəŋoɡə besaɾs	1
+tʰəŋoɡə besaɾs tʰəŋhanaio	1
+me	1
+me empijaɾ	1
+me empijaɾ karen	1
+zeula	3
+zeula nikʰi	1
+zeula nikʰi ta	1
+zeula tʰahati	2
+zeula tʰahati pʰaɾəŋɡai	1
+zeula tʰahati pʰaɾaɡa	1
+pʰɾai	3
+pʰɾai zəŋga	2
+pʰɾai zəŋga be	1
+pʰɾai zəŋga beni	1
+pʰɾai menpʰɾai	1
+pʰɾai menpʰɾai stakʰələmnənə	1
+poin	10
+poin faiʋ	4
+poin faiʋ empijaɾ	2
+poin faiʋ ie	1
+poin faiʋ empiaɾ	1
+poin uan	3
+poin uan </s>	1
+poin uan ekui	1
+poin uan tebəl	1
+poin ʋan	1
+poin ʋan os	1
+poin siks	1
+poin siks intu	1
+poin tu	1
+poin tu mau	1
+zoɾs	1
+zoɾs saimam	1
+zoɾs saimam om	1
+laŋəla	1
+laŋəla </s>	1
+sanə	1
+sanə behu	1
+sanə behu nəŋtʰəmənə	1
+ʋa	2
+ʋa saɾkit	1
+ʋa saɾkit niɡezizəm	1
+ʋa lamdem	1
+ʋa lamdem ʋekʰu	1
+mumuzi	1
+mumuzi </s>	1
+dibuŋ	2
+dibuŋ puɾlu	1
+dibuŋ puɾlu nagan	1
+dibuŋ puɾluhuli	1
+dibuŋ puɾluhuli nəməi	1
+kʰolana	1
+kʰolana akʰilanzəʋai	1
+kʰolana akʰilanzəʋai aɾə	1
+nəŋinəjizae	1
+nəŋinəjizae tʰaɾazəŋ	1
+nəŋinəjizae tʰaɾazəŋ baɾmaɾsekʰo	1
+bizəŋ	1
+bizəŋ ukʰeni	1
+bizəŋ ukʰeni zəŋga	1
+taɾkʰo	1
+taɾkʰo pʰənazəʋalase	1
+taɾkʰo pʰənazəʋalase baɾsohonnai	1
+sabse	2
+sabse kʰələŋ	2
+sabse kʰələŋ </s>	1
+sabse kʰələŋ nai	1
+beu	1
+beu ohai	1
+beu ohai </s>	1
+dʰattu	1
+dʰattu aɾə	1
+dʰattu aɾə ɡolai	1
+kʰuzəŋɡa	1
+kʰuzəŋɡa aɡse	1
+kʰuzəŋɡa aɡse aptʰənəmədəŋ	1
+sains	1
+sains bekʰuɾni	1
+sains bekʰuɾni sən	1
+olanebi	1
+olanebi balba	1
+olanebi balba zəŋga	1
+ednaɾ	1
+ednaɾ aɾ	1
+ednaɾ aɾ iz	1
+okʰul	1
+okʰul manə	1
+okʰul manə zaie	1
+aɾəzəŋ	2
+aɾəzəŋ oni	1
+aɾəzəŋ oni ʋidio	1
+aɾəzəŋ be	1
+aɾəzəŋ be mənnei	1
+kʰo	4
+kʰo məzəŋ	1
+kʰo məzəŋ sunai	1
+kʰo nəŋtʰəmona	1
+kʰo nəŋtʰəmona konakʰanəm	1
+kʰo </s>	1
+kʰo zəŋɡa	1
+kʰo zəŋɡa mənsəsən	1
+sajao	1
+sajao sanaɾə	1
+sajao sanaɾə məhəɾse	1
+mazəŋgən	1
+mazəŋgən kulumzəŋ	1
+mazəŋgən kulumzəŋ nəŋtʰəməna	1
+kelkuleson	2
+kelkuleson kʰənəŋnənau	1
+kelkuleson kʰənəŋnənau be	1
+kelkuleson nezə	1
+kelkuleson nezə tʰəniu	1
+mahɔɹmae	1
+mahɔɹmae </s>	1
+tun	1
+tun naməɾə	1
+tun naməɾə nəŋtʰəmənə	1
+bekʰunəŋtʰəməna	1
+bekʰunəŋtʰəməna ius	1
+bekʰunəŋtʰəməna ius kʰələŋnəɡan	1
+konakʰanəm	1
+konakʰanəm nələŋa	1
+konakʰanəm nələŋa konwakʰalam	1
+nunamənən	1
+nunamənən </s>	1
+dedeŋɾani	1
+dedeŋɾani heŋtʰai	1
+dedeŋɾani heŋtʰai sənaɾnai	1
+auɾəilitʰəɡə	1
+auɾəilitʰəɡə nəŋəzəŋa	1
+auɾəilitʰəɡə nəŋəzəŋa unni	1
+səɾsə	1
+səɾsə </s>	1
+mɔblib	1
+mɔblib manema	1
+mɔblib manema </s>	1
+zəɡən	1
+zəɡən uan	1
+zəɡən uan om	1
+naini	1
+naini lige	1
+naini lige zeblab	1
+ziɾo	4
+ziɾo poin	4
+ziɾo poin faiʋ	4
+eba	1
+eba zəɳnə	1
+eba zəɳnə be	1
+saɾsəkʰəl	1
+saɾsəkʰəl səkʰəluŋ	1
+saɾsəkʰəl səkʰəluŋ əɾəzə	1
+feisbukʋu	1
+feisbukʋu liŋkʰəaidoŋo	1
+feisbukʋu liŋkʰəaidoŋo meo	1
+sənsəsəŋ	1
+sənsəsəŋ kontʰai	1
+sənsəsəŋ kontʰai mane	1
+kʰoɾsim	1
+kʰoɾsim se	1
+kʰoɾsim se kʰulum	1
+sauʋaɾi	1
+sauʋaɾi </s>	1
+obla	2
+obla meʋama	1
+obla meʋama suman	1
+obla dedinɡɾani	1
+obla dedinɡɾani tʰeŋtʰai	1
+zamanu	1
+zamanu aŋasəi	1
+zamanu aŋasəi haʋa	1
+maikɾo	4
+maikɾo empijaɾə	3
+maikɾo empijaɾə mazəgən	2
+maikɾo empijaɾə tʰəməuan	1
+maikɾo empijaɾ	1
+maikɾo empijaɾ ten	1
+tʰieɾə	1
+tʰieɾə aizə	1
+tʰieɾə aizə tʰəŋzəŋ	1
+simbol	7
+simbol kʰolana	1
+simbol kʰolana akʰilanzəʋai	1
+simbol bəikʰə	1
+simbol bəikʰə nəŋtʰəŋmənə	1
+simbol azaʋai	1
+simbol azaʋai biti	1
+simbol nəŋtʰəmona	1
+simbol nəŋtʰəmona ɡəssə	1
+simbol nəŋtʰəŋməna	1
+simbol nəŋtʰəŋməna be	1
+simbol impoɾten	1
+simbol impoɾten zai	1
+simbol zəŋ	1
+simbol zəŋ zae	1
+kʰommili	1
+kʰommili empijaɾ	1
+kʰommili empijaɾ ʋan	1
+lakʰiɡən	1
+lakʰiɡən mobla	1
+lakʰiɡən mobla zəŋ	1
+besaɾs	1
+besaɾs tʰəŋhanaio	1
+besaɾs tʰəŋhanaio </s>	1
+empijaɾ	17
+empijaɾ </s>	1
+empijaɾ zədəŋ	1
+empijaɾ zədəŋ oblai	1
+empijaɾ za	1
+empijaɾ za aɾa	1
+empijaɾ niçʰam	1
+empijaɾ niçʰam </s>	1
+empijaɾ zəŋga	1
+empijaɾ zəŋga zahanave	1
+empijaɾ zada	1
+empijaɾ zada sek	1
+empijaɾ zə	1
+empijaɾ zə iva	1
+empijaɾ aɾa	2
+empijaɾ aɾa mesaŋ	1
+empijaɾ aɾa bekʰlukʰuzə	1
+empijaɾ tʰaienəŋtʰəmona	1
+empijaɾ tʰaienəŋtʰəmona </s>	1
+empijaɾ biohai	1
+empijaɾ biohai buŋgaizədəŋ	1
+empijaɾ ʋan	1
+empijaɾ ʋan </s>	1
+empijaɾ zəŋ	1
+empijaɾ zəŋ vekʰu	1
+empijaɾ karen	1
+empijaɾ karen ni	1
+empijaɾ ten	1
+empijaɾ ten tu	1
+empijaɾ əzəŋ	1
+empijaɾ əzəŋ emezənzəŋ	1
+empijaɾ ma	1
+empijaɾ ma ənəi	1
+nikʰi	1
+nikʰi ta	1
+nikʰi ta belena	1
+sim	2
+sim labaŋɡaio	1
+sim labaŋɡaio zesibaŋ	1
+sim </s>	1
+pauaɾ	2
+pauaɾ mainas	1
+pauaɾ mainas naintin	1
+pauaɾ inʋəɾs	1
+pauaɾ inʋəɾs saɾla	1
+saimam	1
+saimam om	1
+saimam om sasse	1
+boŋɡa	1
+boŋɡa zesiba	1
+boŋɡa zesiba eɾiasim	1
+behu	1
+behu nəŋtʰəmənə	1
+behu nəŋtʰəmənə linaie	1
+niɡezizəm	1
+niɡezizəm ʋesəʋa	1
+niɡezizəm ʋesəʋa kaɾem	1
+aŋ	1
+aŋ məmse	1
+aŋ məmse biohai	1
+puɾlu	1
+puɾlu nagan	1
+puɾlu nagan moblib	1
+akʰilanzəʋai	1
+akʰilanzəʋai aɾə	1
+akʰilanzəʋai aɾə nibisin	1
+tʰaɾazəŋ	2
+tʰaɾazəŋ baɾmaɾsekʰo	1
+tʰaɾazəŋ baɾmaɾsekʰo zeʋlan	1
+tʰaɾazəŋ bekʰu	1
+tʰaɾazəŋ bekʰu biniza	1
+ukʰeni	1
+ukʰeni zəŋga	1
+ukʰeni zəŋga meizəŋga	1
+pʰənazəʋalase	1
+pʰənazəʋalase baɾsohonnai	1
+pʰənazəʋalase baɾsohonnai moŋale	1
+kʰələŋ	2
+kʰələŋ </s>	1
+kʰələŋ nai	1
+kʰələŋ nai ne	1
+ohai	2
+ohai </s>	1
+ohai nəŋəŋmnəŋ	1
+ohai nəŋəŋmnəŋ tebəl	1
+ɡolai	1
+ɡolai dʰattupʰəɾə	1
+ɡolai dʰattupʰəɾə zəbəd	1
+aɡse	1
+aɡse aptʰənəmədəŋ	1
+aɡse aptʰənəmədəŋ haɾabosusiŋzəŋɡa	1
+bekʰuɾni	1
+bekʰuɾni sən	1
+bekʰuɾni sən mukʰuɾni	1
+balba	1
+balba zəŋga	1
+balba zəŋga naɾa	1
+invərsli	1
+invərsli pɾopoɾsənel	1
+invərsli pɾopoɾsənel tu	1
+manə	1
+manə zaie	1
+manə zaie aɾə	1
+oni	1
+oni ʋidio	1
+oni ʋidio </s>	1
+məzəŋ	3
+məzəŋ sunai	1
+məzəŋ sunai ze	1
+məzəŋ dedeɾma	1
+məzəŋ dedeɾma dʰatupʰəɾəuma	1
+məzəŋ dedinnaijəɾ	1
+məzəŋ dedinnaijəɾ ba	1
+sanaɾə	1
+sanaɾə məhəɾse	1
+sanaɾə məhəɾse tʰatuaɾi	1
+kulumzəŋ	1
+kulumzəŋ nəŋtʰəməna	1
+kulumzəŋ nəŋtʰəməna ʋesolaki	1
+kʰənəŋnənau	1
+kʰənəŋnənau be	1
+kʰənəŋnənau be kelkuleson	1
+ta	2
+ta mikʰiziŋi	1
+ta mikʰiziŋi unni	1
+ta belena	1
+ta belena nəŋtʰəməna	1
+naməɾə	1
+naməɾə nəŋtʰəmənə	1
+naməɾə nəŋtʰəmənə maŋnai	1
+ius	1
+ius kʰələŋnəɡan	1
+ius kʰələŋnəɡan da	1
+nələŋa	1
+nələŋa konwakʰalam	1
+nələŋa konwakʰalam nai	1
+biezaʋai	1
+biezaʋai musei	1
+biezaʋai musei </s>	1
+heŋtʰai	1
+heŋtʰai sənaɾnai	1
+heŋtʰai sənaɾnai zahə	1
+nəŋəzəŋa	1
+nəŋəzəŋa unni	1
+nəŋəzəŋa unni vidio	1
+beisiman	1
+beisiman zən	1
+beisiman zən tʰamainzə	1
+manema	8
+manema </s>	2
+manema eʋaibisin	1
+manema eʋaibisin ɹo	1
+manema tʰahati	1
+manema tʰahati pʰəɾək	1
+manema zəŋga	1
+manema zəŋga ʋe	1
+manema kaɾen	1
+manema kaɾen mənse	1
+manema be	1
+manema be aɾa	1
+manema mai	1
+manema mai ilectrik	1
+sapos	1
+sapos </s>	1
+lige	1
+lige zeblab	1
+lige zeblab pʰonaŋzabnaɡo	1
+faiʋ	4
+faiʋ empijaɾ	2
+faiʋ empijaɾ </s>	1
+faiʋ empijaɾ aɾa	1
+faiʋ ie	1
+faiʋ ie mane	1
+faiʋ empiaɾ	1
+faiʋ empiaɾ aɾə	1
+so	9
+so nəŋtuŋmənai	1
+so nəŋtuŋmənai ɡibio	1
+so ine	1
+so ine bekʰi	1
+so nəŋtʰəməna	1
+so nəŋtʰəməna zeʋai	1
+so ikuesən	1
+so ikuesən nəŋtʰəŋməna	1
+so ʋenifɾai	1
+so ʋenifɾai nekszəŋga	1
+so pʰoɾaisə	1
+so pʰoɾaisə nəŋtʰəməna	1
+so ɾezəʋainəŋtʰəmona	1
+so ɾezəʋainəŋtʰəmona nonamədəŋ	1
+so mopʰaia	1
+so mopʰaia zəŋɡa	1
+so ləɡəɾdinei	1
+so ləɡəɾdinei </s>	1
+zəɳnə	1
+zəɳnə be	1
+zəɳnə be balkʰulla	1
+səkʰəluŋ	1
+səkʰəluŋ əɾəzə	1
+səkʰəluŋ əɾəzə pilims	1
+liŋkʰəaidoŋo	1
+liŋkʰəaidoŋo meo	1
+liŋkʰəaidoŋo meo nəŋtʰəmono	1
+kʰobo	1
+kʰobo haie	1
+kʰobo haie </s>	1
+kʰulum	2
+kʰulum saɾs	1
+kʰulum saɾs tʰaŋanənənəi	1
+kʰulum saz	1
+kʰulum saz zəŋga	1
+zinei	1
+zinei dusumi	1
+zinei dusumi sio	1
+meʋama	1
+meʋama suman	1
+meʋama suman suman	1
+aŋasəi	1
+aŋasəi haʋa	1
+aŋasəi haʋa nəŋtʰəŋmənə	1
+empijaɾə	3
+empijaɾə mazəgən	2
+empijaɾə mazəgən </s>	1
+empijaɾə mazəgən uan	1
+empijaɾə tʰəməuan	1
+empijaɾə tʰəməuan nibisim	1
+aizə	1
+aizə tʰəŋzəŋ	1
+aizə tʰəŋzəŋ buzdail	1
+ɡəssə	1
+ɡəssə olahinəzə	1
+ɡəssə olahinəzə tʰahati	1
+buŋgaizədəŋ	1
+buŋgaizədəŋ da	1
+buŋgaizədəŋ da zeblaŋhi	1
+mobla	4
+mobla zəŋ	1
+mobla zəŋ ʋi	1
+mobla sənsəsəŋ	1
+mobla sənsəsəŋ kontʰai	1
+mobla zəŋɡa	1
+mobla zəŋɡa aɾ	1
+mobla mane	1
+mobla mane dedingɾa	1
+tʰəŋhanaio	1
+tʰəŋhanaio </s>	1
+zahanave	1
+zahanave sasea	1
+zahanave sasea sansini	1
+belena	1
+belena nəŋtʰəməna	1
+belena nəŋtʰəməna mamuzi	1
+labaŋɡaio	1
+labaŋɡaio zesibaŋ	1
+labaŋɡaio zesibaŋ zəŋ	1
+mainas	6
+mainas tʰɾi	1
+mainas tʰɾi empijaɾ	1
+mainas naintin	1
+mainas naintin danakʰ	1
+mainas ait	1
+mainas ait om	1
+mainas uan	2
+mainas uan zəŋɡa	1
+mainas uan aɾə	1
+mainas siks	1
+mainas siks om	1
+om	9
+om sapos	1
+om sapos </s>	1
+om tʰəŋɡa	1
+om tʰəŋɡa mənse	1
+om sasse	1
+om sasse zaman	1
+om mitaɾ	4
+om mitaɾ bekʰu	1
+om mitaɾ nipʰɾai	1
+om mitaɾ sim	1
+om mitaɾ mane	1
+om mənnə	1
+om mənnə aɾə	1
+om ikual	1
+om ikual tu	1
+zesiba	1
+zesiba eɾiasim	1
+zesiba eɾiasim halaɡə	1
+nəŋtʰəmənə	28
+nəŋtʰəmənə aɾabə	1
+nəŋtʰəmənə aɾabə biohai	1
+nəŋtʰəmənə nənəmənə	1
+nəŋtʰəmənə nənəmənə taɾkʰo	1
+nəŋtʰəmənə </s>	2
+nəŋtʰəmənə bekʰə	1
+nəŋtʰəmənə bekʰə nəɡəm	1
+nəŋtʰəmənə linaie	1
+nəŋtʰəmənə linaie aɾə	1
+nəŋtʰəmənə maŋnai	1
+nəŋtʰəmənə maŋnai aɡan	1
+nəŋtʰəmənə besolakʰi	1
+nəŋtʰəmənə besolakʰi aɾə	1
+nəŋtʰəmənə bəpʰəɾ	1
+nəŋtʰəmənə bəpʰəɾ moɡalasai	1
+nəŋtʰəmənə seʋa	1
+nəŋtʰəmənə seʋa meanəi	1
+nəŋtʰəmənə besiŋkʰala	1
+nəŋtʰəmənə besiŋkʰala linə	1
+nəŋtʰəmənə nəio	1
+nəŋtʰəmənə nəio uan	1
+nəŋtʰəmənə biohai	3
+nəŋtʰəmənə biohai mənse	1
+nəŋtʰəmənə biohai mankʰəɾən	1
+nəŋtʰəmənə biohai nənəmədən	1
+nəŋtʰəmənə beguguzə	1
+nəŋtʰəmənə beguguzə səlakʰi	1
+nəŋtʰəmənə ʋeso	1
+nəŋtʰəmənə ʋeso lakʰi	1
+nəŋtʰəmənə besiŋ	1
+nəŋtʰəmənə besiŋ boɾsəɡə	1
+nəŋtʰəmənə pʰoʋai	1
+nəŋtʰəmənə pʰoʋai di	1
+nəŋtʰəmənə ɡossolake	1
+nəŋtʰəmənə ɡossolake </s>	1
+nəŋtʰəmənə mənse	1
+nəŋtʰəmənə mənse dedin	1
+nəŋtʰəmənə mənəmənə	1
+nəŋtʰəmənə mənəmənə aɾə	1
+nəŋtʰəmənə ɡəssəlakʰi	1
+nəŋtʰəmənə ɡəssəlakʰi naza	1
+nəŋtʰəmənə ɡəɾə	1
+nəŋtʰəmənə ɡəɾə lakʰe	1
+nəŋtʰəmənə aɾazəŋ	1
+nəŋtʰəmənə aɾazəŋ mənsi	1
+nəŋtʰəmənə beso	2
+nəŋtʰəmənə beso laɡe	2
+nəŋtʰəmənə gəsəlaɾieza	1
+nəŋtʰəmənə gəsəlaɾieza unni	1
+ʋesəʋa	1
+ʋesəʋa kaɾem	1
+ʋesəʋa kaɾem </s>	1
+məmse	1
+məmse biohai	1
+məmse biohai nətʰəŋmona	1
+nagan	1
+nagan moblib	1
+nagan moblib dahaɾ	1
+nibisin	1
+nibisin akʰinə	1
+nibisin akʰinə bazəŋɡa	1
+baɾmaɾsekʰo	1
+baɾmaɾsekʰo zeʋlan	1
+baɾmaɾsekʰo zeʋlan nəŋtʰəmona	1
+meizəŋga	1
+meizəŋga johai	1
+meizəŋga johai nəŋtʰmona	1
+baɾsohonnai	1
+baɾsohonnai moŋale	1
+baɾsohonnai moŋale be	1
+ne	1
+ne nəŋtʰəmona	1
+ne nəŋtʰəmona na	1
+ŋəŋtʰa	1
+ŋəŋtʰa mona	1
+ŋəŋtʰa mona kaɾen	1
+dʰattupʰəɾə	1
+dʰattupʰəɾə zəbəd	1
+dʰattupʰəɾə zəbəd kʰom	1
+aptʰənəmədəŋ	1
+aptʰənəmədəŋ haɾabosusiŋzəŋɡa	1
+aptʰənəmədəŋ haɾabosusiŋzəŋɡa ɾeʋaiti	1
+sən	1
+sən mukʰuɾni	1
+sən mukʰuɾni phinəi	1
+naɾa	1
+naɾa </s>	1
+pɾopoɾsənel	2
+pɾopoɾsənel tu	1
+pɾopoɾsənel tu el	1
+pɾopoɾsənel be	1
+pɾopoɾsənel be kʰələmla	1
+zaie	1
+zaie aɾə	1
+zaie aɾə tʰoɾse	1
+neks	1
+neks za	1
+neks za atsa	1
+sunai	1
+sunai ze	1
+sunai ze mili	1
+məhəɾse	1
+məhəɾse tʰatuaɾi	1
+məhəɾse tʰatuaɾi dedinɡɾani	1
+ʋesolaki	1
+ʋesolaki nəza	1
+ʋesolaki nəza </s>	1
+nezə	1
+nezə tʰəniu	1
+nezə tʰəniu iunit	1
+mikʰiziŋi	1
+mikʰiziŋi unni	1
+mikʰiziŋi unni vidio	1
+maŋnai	1
+maŋnai aɡan	1
+maŋnai aɡan beni	1
+kʰələŋnəɡan	1
+kʰələŋnəɡan da	1
+kʰələŋnəɡan da biohai	1
+konwakʰalam	1
+konwakʰalam nai	1
+konwakʰalam nai </s>	1
+musei	1
+musei </s>	1
+sənaɾnai	1
+sənaɾnai zahə	1
+sənaɾnai zahə gɾapʰəɾ	1
+solamna	1
+solamna benipʰɾai	1
+solamna benipʰɾai maunəŋtʰənə	1
+zən	1
+zən tʰamainzə	1
+zən tʰamainzə koma	1
+e	7
+e nəŋtʰəmənə	1
+e nəŋtʰəmənə mənəmənə	1
+e ʋatdahaɾ	1
+e ʋatdahaɾ manema	1
+e mitaɾ	1
+e mitaɾ </s>	1
+e utʰa	1
+e utʰa ɾuzutʰai	1
+e bekʰə	1
+e bekʰə nəŋtʰəmənə	1
+e ikual	1
+e ikual tu	1
+e ɡezeɾao	1
+e ɡezeɾao imitaɾ	1
+tʰəŋɡa	2
+tʰəŋɡa mənse	1
+tʰəŋɡa mənse nigezizəŋ	1
+tʰəŋɡa na	1
+tʰəŋɡa na mensə	1
+zeblab	1
+zeblab pʰonaŋzabnaɡo	1
+zeblab pʰonaŋzabnaɡo aɾə	1
+kʰobona	1
+kʰobona lajo	1
+kʰobona lajo lais	1
+nəŋtuŋmənai	1
+nəŋtuŋmənai ɡibio	1
+nəŋtuŋmənai ɡibio nənnunamətaŋ	1
+balkʰulla	1
+balkʰulla mablabapʰius	1
+balkʰulla mablabapʰius tʰaŋnala	1
+əɾəzə	1
+əɾəzə pilims	1
+əɾəzə pilims zəmənənə	1
+nəŋtʰəmono	1
+nəŋtʰəmono zənənai	1
+nəŋtʰəmono zənənai mao	1
+haie	1
+haie </s>	1
+tʰaŋanənənəi	1
+tʰaŋanənənəi se	1
+tʰaŋanənənəi se zul	1
+dusumi	1
+dusumi sio	1
+dusumi sio tonsimetɾi	1
+tʰamaʋabaɾi	1
+tʰamaʋabaɾi laŋɡa	1
+tʰamaʋabaɾi laŋɡa həŋɡa	1
+nəŋtʰəŋmənə	8
+nəŋtʰəŋmənə nənəmədəŋ	1
+nəŋtʰəŋmənə nənəmədəŋ </s>	1
+nəŋtʰəŋmənə bekʰu	2
+nəŋtʰəŋmənə bekʰu nanəŋ	1
+nəŋtʰəŋmənə bekʰu ɾəsə	1
+nəŋtʰəŋmənə gazə	1
+nəŋtʰəŋmənə gazə lakʰim	1
+nəŋtʰəŋmənə ʋe	2
+nəŋtʰəŋmənə ʋe tʰioɾi	1
+nəŋtʰəŋmənə ʋe menipʰɾai	1
+nəŋtʰəŋmənə maukʰaunadəŋ	1
+nəŋtʰəŋmənə maukʰaunadəŋ da	1
+nəŋtʰəŋmənə akʰinə	1
+nəŋtʰəŋmənə akʰinə hae	1
+mazəgən	2
+mazəgən </s>	1
+mazəgən uan	1
+mazəgən uan maikɾo	1
+buzdail	1
+buzdail tʰaɾazəŋ	1
+buzdail tʰaɾazəŋ bekʰu	1
+olahinəzə	1
+olahinəzə tʰahati	1
+olahinəzə tʰahati pʰəɾə	1
+zeblaŋhi	1
+zeblaŋhi mili	1
+zeblaŋhi mili empijaɾ	1
+zəŋmənə	1
+zəŋmənə ʋe	1
+zəŋmənə ʋe pʰoɾmula	1
+zudi	2
+zudi zəŋga	1
+zudi zəŋga mənse	1
+zudi mənse	1
+zudi mənse dediŋɾani	1
+sasea	1
+sasea sansini	1
+sasea sansini muŋnifɾai	1
+mamuzi	1
+mamuzi dəm	1
+mamuzi dəm zeula	1
+zesibaŋ	1
+zesibaŋ zəŋ	1
+zesibaŋ zəŋ kʰamane	1
+naintin	1
+naintin danakʰ	1
+naintin danakʰ tʰai	1
+biɾia	1
+biɾia gehunanam	1
+biɾia gehunanam </s>	1
+eɾiasim	1
+eɾiasim halaɡə	1
+eɾiasim halaɡə bia	1
+linaie	1
+linaie aɾə	1
+linaie aɾə johai	1
+kaɾem	1
+kaɾem </s>	1
+buŋkoɾola	2
+buŋkoɾola ʋəɾdəŋ	1
+buŋkoɾola ʋəɾdəŋ ʋe	1
+buŋkoɾola nətʰəŋmonalenade	1
+buŋkoɾola nətʰəŋmonalenade lana	1
+nesen	1
+nesen tʰanai	1
+nesen tʰanai eʋa	1
+bazəŋɡa	1
+bazəŋɡa se	1
+bazəŋɡa se okʰilaize	1
+zeʋlan	1
+zeʋlan nəŋtʰəmona	1
+zeʋlan nəŋtʰəmona mamaiti	1
+nəŋtʰmona	1
+nəŋtʰmona betaɾi	1
+nəŋtʰmona betaɾi ɾuna	1
+moŋale	1
+moŋale be	1
+moŋale be niʋe	1
+bol	1
+bol aikon	1
+bol aikon zatʰəzəŋ	1
+ni	8
+ni məzəŋ	1
+ni məzəŋ dedeɾma	1
+ni daɾekson	1
+ni daɾekson kaɾen	1
+ni dairekson	1
+ni dairekson kaɾen	1
+ni moblib	1
+ni moblib dahaɾ	1
+ni fɾai	1
+ni fɾai zəŋga	1
+ni vəɾsə	1
+ni vəɾsə aɡaŋsonise	1
+ni tʰaneŋma	1
+ni tʰaneŋma moblib	1
+ni esse	1
+ni esse sanu	1
+zəbəd	1
+zəbəd kʰom	1
+zəbəd kʰom ɾuzutʰaijaɾi	1
+haɾabosusiŋzəŋɡa	1
+haɾabosusiŋzəŋɡa ɾeʋaiti	1
+haɾabosusiŋzəŋɡa ɾeʋaiti aɡteatʰiŋ	1
+mukʰuɾni	1
+mukʰuɾni phinəi	1
+mukʰuɾni phinəi kə	1
+be	37
+be deninɡɾani	1
+be deninɡɾani tʰəɾəm	1
+be zəŋai	1
+be zəŋai pʰi	1
+be </s>	1
+be kelkuleson	1
+be kelkuleson nezə	1
+be balkʰulla	1
+be balkʰulla mablabapʰius	1
+be baɾkʰuzənəngai	1
+be baɾkʰuzənəngai zəŋga	1
+be niʋe	1
+be niʋe mənsi	1
+be osadni	1
+be osadni ɡezezəŋ	1
+be nəŋtʰəŋmunni	1
+be nəŋtʰəŋmunni vizəŋɡa	1
+be uzeŋ	1
+be uzeŋ sauɾəɡən	1
+be nəŋtʰənmə	1
+be nəŋtʰənmə ɡizəzəŋ	1
+be moblib	1
+be moblib dahaɾ	1
+be kʰələmla	1
+be kʰələmla biohai	1
+be ai	1
+be ai ikual	1
+be aɾial	1
+be aɾial hoŋnamuda	1
+be ɾilizioçʰəŋnai	1
+be ɾilizioçʰəŋnai mənəsə	1
+be aɾa	1
+be aɾa zabai	1
+be heŋtʰa	1
+be heŋtʰa ɡɾakʰozzi	1
+be intisin	1
+be intisin bəkʰə	1
+be omni	1
+be omni kʰantʰi	1
+be kʰuliŋnai	1
+be kʰuliŋnai kiu	1
+be salea	1
+be salea sim	1
+be metɾi	1
+be metɾi əls	1
+be mənnei	1
+be mənnei ikuasən	1
+be bindeni	1
+be bindeni moblib	1
+be somman	1
+be somman zinnəi	1
+be tʰahatʰi	1
+be tʰahatʰi pʰaɾak	1
+be laotʰəŋsəzəŋ	1
+be laotʰəŋsəzəŋ bediŋ	1
+be ɾokʰozəŋɡa	1
+be ɾokʰozəŋɡa ɾuzutʰaiɾe	1
+be twel	1
+be twel poin	1
+be bindo	1
+be bindo monne	1
+be moŋsi	1
+be moŋsi kʰandehiki	1
+be gezezəŋ	1
+be gezezəŋ nəŋtʰəŋmona	1
+be muŋni	1
+be muŋni pʰɾai	1
+be dedinɡɾani	1
+be dedinɡɾani hamani	1
+be vai	1
+be vai kiu	1
+be nettezəŋə	1
+be nettezəŋə </s>	1
+nəɡəm	1
+nəɡəm aɾəzə	1
+nəɡəm aɾəzə nəptʰaoɡan	1
+tʰoɾse	1
+tʰoɾse betaɾi	1
+tʰoɾse betaɾi eʋa	1
+atsa	1
+atsa sanəi	1
+atsa sanəi kopi	1
+mili	8
+mili mitəɾ	2
+mili mitəɾ </s>	1
+mili mitəɾ behən	1
+mili mitaɾ	1
+mili mitaɾ </s>	1
+mili empijaɾ	4
+mili empijaɾ biohai	1
+mili empijaɾ zədəŋ	1
+mili empijaɾ əzəŋ	1
+mili empijaɾ zə	1
+mili zoɾs	1
+mili zoɾs saimam	1
+laotʰaini	1
+laotʰaini sɾeŋ	1
+laotʰaini sɾeŋ ɾuzutʰai	1
+nəza	1
+nəza </s>	1
+tʰəniu	1
+tʰəniu iunit	1
+tʰəniu iunit tʰaŋaɾas	1
+bissi	1
+bissi sammɔn	1
+bissi sammɔn </s>	1
+tʰəŋɡə	1
+tʰəŋɡə dasasəoni	1
+tʰəŋɡə dasasəoni doblaitʰini	1
+tʰakʰati	1
+tʰakʰati pʰaɾa	1
+tʰakʰati pʰaɾa ɡanai	1
+tʰaila	1
+tʰaila te	1
+tʰaila te besik	1
+saŋkʰontʰai	1
+saŋkʰontʰai tʰamitba	1
+saŋkʰontʰai tʰamitba mekʰneibei	1
+zahə	1
+zahə gɾapʰəɾ	1
+zahə gɾapʰəɾ </s>	1
+benipʰɾai	3
+benipʰɾai maunəŋtʰənə	1
+benipʰɾai maunəŋtʰənə labodəŋ	1
+benipʰɾai omni	1
+benipʰɾai omni kʰantʰi	1
+benipʰɾai besima	1
+benipʰɾai besima lage	1
+tʰamainzə	1
+tʰamainzə koma	1
+tʰamainzə koma tiuŋədə	1
+ʋatdahaɾ	1
+ʋatdahaɾ manema	1
+ʋatdahaɾ manema eʋaibisin	1
+nigezizəŋ	1
+nigezizəŋ aɾə	1
+nigezizəŋ aɾə johai	1
+pʰonaŋzabnaɡo	1
+pʰonaŋzabnaɡo aɾə	1
+pʰonaŋzabnaɡo aɾə ziŋzei	1
+lajo	1
+lajo lais	1
+lajo lais kontʰa	1
+ɡibio	1
+ɡibio nənnunamətaŋ	1
+ɡibio nənnunamətaŋ ʝohai	1
+mablabapʰius	1
+mablabapʰius tʰaŋnala	1
+mablabapʰius tʰaŋnala baŋkɾain	1
+pilims	1
+pilims zəmənənə	1
+pilims zəmənənə se	1
+zənənai	1
+zənənai mao	1
+zənənai mao məsənŋa	1
+maheni	1
+maheni kuizəhana	1
+maheni kuizəhana zəbai	1
+zul	4
+zul haʋa	1
+zul haʋa maunai	1
+zul base	1
+zul base nəŋtʰəŋmənə	1
+zul haŋaŋ	1
+zul haŋaŋ niʋei	1
+zul kukuɾməinə	1
+zul kukuɾməinə aɾə	1
+sio	1
+sio tonsimetɾi	1
+sio tonsimetɾi bonsi	1
+laŋɡa	1
+laŋɡa həŋɡa	1
+laŋɡa həŋɡa da	1
+tʰioɾi	1
+tʰioɾi kʰəhəzəʋai	1
+tʰioɾi kʰəhəzəʋai mənipʰɾai	1
+tʰəməuan	1
+tʰəməuan nibisim	1
+tʰəməuan nibisim gola	1
+biniza	1
+biniza kulmaeti	1
+biniza kulmaeti bekʰuzəŋɡa	1
+pʰəɾə	2
+pʰəɾə ɡəzəjaipi	1
+pʰəɾə ɡəzəjaipi </s>	1
+pʰəɾə ma	1
+pʰəɾə ma zabod	1
+zədəŋ	6
+zədəŋ </s>	1
+zədəŋ oblai	1
+zədəŋ oblai bia	1
+zədəŋ ʋolt	1
+zədəŋ ʋolt zəŋɡa	1
+zədəŋ voltmitaɾ	1
+zədəŋ voltmitaɾ nəŋtʰəŋməna	1
+zədəŋ na	1
+zədəŋ na kʰoɾəisə	1
+zədəŋ aɾə	1
+zədəŋ aɾə bekʰunə	1
+diaɡɾamni	1
+diaɡɾamni ɡəzərzəŋ	1
+diaɡɾamni ɡəzərzəŋ pʰaɾməina	1
+kʰoɾoni	2
+kʰoɾoni pʰə	1
+kʰoɾoni pʰə mənse	1
+kʰoɾoni tʰahati	1
+kʰoɾoni tʰahati pʰaɾaɡa	1
+sansini	1
+sansini muŋnifɾai	1
+sansini muŋnifɾai ʋe	1
+dəm	1
+dəm zeula	1
+dəm zeula tʰahati	1
+kʰamane	1
+kʰamane maonəɡənə	1
+kʰamane maonəɡənə zaɡən	1
+danakʰ	1
+danakʰ tʰai	1
+danakʰ tʰai saɾs	1
+gehunanam	1
+gehunanam </s>	1
+halaɡə	1
+halaɡə bia	1
+halaɡə bia boa	1
+nəboudəŋ	1
+nəboudəŋ </s>	1
+boɡʰe	1
+boɡʰe ʋa	1
+boɡʰe ʋa lamdem	1
+ʋəɾdəŋ	1
+ʋəɾdəŋ ʋe	1
+ʋəɾdəŋ ʋe buŋkoɾola	1
+tʰanai	2
+tʰanai eʋa	1
+tʰanai eʋa kʰubtʰe	1
+tʰanai monne	1
+tʰanai monne bideni	1
+okʰilaize	1
+okʰilaize mane	1
+okʰilaize mane </s>	1
+mamaiti	1
+mamaiti </s>	1
+betaɾi	2
+betaɾi ɾuna	1
+betaɾi ɾuna mətəŋ	1
+betaɾi eʋa	1
+betaɾi eʋa selpʰoɾni	1
+niʋe	1
+niʋe mənsi	1
+niʋe mənsi taɾ	1
+aikon	1
+aikon zatʰəzəŋ	1
+aikon zatʰəzəŋ nətənekəsəŋ	1
+daɾekson	1
+daɾekson kaɾen	1
+daɾekson kaɾen ni	1
+ɾuzutʰaijaɾi	1
+ɾuzutʰaijaɾi heŋtʰa	1
+ɾuzutʰaijaɾi heŋtʰa ɡona	1
+aɡteatʰiŋ	1
+aɡteatʰiŋ ɾeʋaiti	1
+aɡteatʰiŋ ɾeʋaiti zəŋɡakʰinadaŋ	1
+phinəi	1
+phinəi kə	1
+phinəi kə nəŋtʰəməna	1
+baɾkʰuzənəngai	1
+baɾkʰuzənəngai zəŋga	1
+baɾkʰuzənəngai zəŋga </s>	1
+aɾəzə	1
+aɾəzə nəptʰaoɡan	1
+aɾəzə nəptʰaoɡan zəbla	1
+selpʰoɾni	1
+selpʰoɾni manse	1
+selpʰoɾni manse zətʰai	1
+sanəi	1
+sanəi kopi	1
+sanəi kopi kuɾoɾo	1
+mitəɾ	2
+mitəɾ </s>	1
+mitəɾ behən	1
+mitəɾ behən nəŋtʰəŋməna	1
+sɾeŋ	1
+sɾeŋ ɾuzutʰai	1
+sɾeŋ ɾuzutʰai aɾə	1
+zəŋɡasəŋ	1
+zəŋɡasəŋ kontʰaini	1
+zəŋɡasəŋ kontʰaini zə	1
+iunit	2
+iunit tʰaŋaɾas	1
+iunit tʰaŋaɾas səŋ	1
+iunit kʰəkʰəi	1
+iunit kʰəkʰəi bau	1
+sammɔn	1
+sammɔn </s>	1
+dasasəoni	1
+dasasəoni doblaitʰini	1
+dasasəoni doblaitʰini sənəiəɡən	1
+pʰaɾa	1
+pʰaɾa ɡanai	1
+pʰaɾa ɡanai doa	1
+te	1
+te besik	1
+te besik sandai	1
+tʰamitba	3
+tʰamitba mekʰneibei	1
+tʰamitba mekʰneibei sakiniŋta	1
+tʰamitba bobli	1
+tʰamitba bobli kʰuɾiɾnado	1
+tʰamitba heŋtʰaŋanainə	1
+tʰamitba heŋtʰaŋanainə issi	1
+gɾapʰəɾ	1
+gɾapʰəɾ </s>	1
+maunəŋtʰənə	1
+maunəŋtʰənə labodəŋ	1
+maunəŋtʰənə labodəŋ biohai	1
+koma	1
+koma tiuŋədə	1
+koma tiuŋədə tiukʰənəŋdəzən	1
+eʋaibisin	1
+eʋaibisin ɹo	1
+eʋaibisin ɹo kɔnfiuza	1
+kɯ	1
+kɯ zəŋɡa	1
+kɯ zəŋɡa uan	1
+ziŋzei	1
+ziŋzei kʰizepʰuɾ	1
+ziŋzei kʰizepʰuɾ mitaɾ	1
+lais	1
+lais kontʰa	1
+lais kontʰa poi	1
+nənnunamətaŋ	1
+nənnunamətaŋ ʝohai	1
+nənnunamətaŋ ʝohai </s>	1
+tʰaŋnala	1
+tʰaŋnala baŋkɾain	1
+tʰaŋnala baŋkɾain moblib	1
+zəmənənə	1
+zəmənənə se	1
+zəmənənə se ʋi	1
+mao	1
+mao məsənŋa	1
+mao məsənŋa adaŋ	1
+kuizəhana	1
+kuizəhana zəbai	1
+kuizəhana zəbai boŋəla	1
+maunai	1
+maunai zəjobla	1
+maunai zəjobla bekʰo	1
+tonsimetɾi	1
+tonsimetɾi bonsi	1
+tonsimetɾi bonsi ʋalbonsi	1
+həŋɡa	1
+həŋɡa da	1
+həŋɡa da beʋaiti	1
+kʰəhəzəʋai	1
+kʰəhəzəʋai mənipʰɾai	1
+kʰəhəzəʋai mənipʰɾai zəŋda	1
+nibisim	1
+nibisim gola	1
+nibisim gola beimmizi	1
+kulmaeti	1
+kulmaeti bekʰuzəŋɡa	1
+kulmaeti bekʰuzəŋɡa ɾeʋaiti	1
+ɡəzəjaipi	1
+ɡəzəjaipi </s>	1
+oblai	1
+oblai bia	1
+oblai bia maɾzaia	1
+ɡəzərzəŋ	1
+ɡəzərzəŋ pʰaɾməina	1
+ɡəzərzəŋ pʰaɾməina naiɡidəŋ	1
+pʰə	1
+pʰə mənse	1
+pʰə mənse koɾosen	1
+muŋnifɾai	1
+muŋnifɾai ʋe	1
+muŋnifɾai ʋe fidam	1
+pʰaɾəŋɡai	1
+pʰaɾəŋɡai intizalamnə	1
+pʰaɾəŋɡai intizalamnə nizisəŋ	1
+maonəɡənə	1
+maonəɡənə zaɡən	1
+maonəɡənə zaɡən </s>	1
+tʰai	4
+tʰai saɾs	1
+tʰai saɾs tʰaijo	1
+tʰai mənə	1
+tʰai mənə zəŋga	1
+tʰai mitʰumtʰinaŋɡan	1
+tʰai mitʰumtʰinaŋɡan aɾasəŋzəŋa	1
+tʰai beni	1
+tʰai beni ɡezizəŋ	1
+ɡiəmakʰələmnə	1
+ɡiəmakʰələmnə tʰakuni	1
+ɡiəmakʰələmnə tʰakuni gizəzəŋ	1
+boa	2
+boa mənsi	1
+boa mənsi nua	1
+boa mənse	1
+boa mənse </s>	1
+sisiɾ	1
+sisiɾ impoɾten	1
+sisiɾ impoɾten steiŋ	1
+lamdem	1
+lamdem ʋekʰu	1
+lamdem ʋekʰu zəŋ	1
+nətʰəŋmonalenade	1
+nətʰəŋmonalenade lana	1
+nətʰəŋmonalenade lana aɡən	1
+eʋa	3
+eʋa kʰubtʰe	1
+eʋa kʰubtʰe lamakʰo	1
+eʋa selpʰoɾni	1
+eʋa selpʰoɾni manse	1
+eʋa səm	1
+eʋa səm səman	1
+tʰaimnəŋɡən	1
+tʰaimnəŋɡən somnəŋɡen	1
+tʰaimnəŋɡən somnəŋɡen ʋenahaiŋen	1
+indiksiŋ	1
+indiksiŋ niɡezizəŋ	1
+indiksiŋ niɡezizəŋ ɾesistens	1
+ɾuna	3
+ɾuna mətəŋ	3
+ɾuna mətəŋ moblib	1
+ɾuna mətəŋ emitaɾ	1
+ɾuna mətəŋ </s>	1
+taɾ	1
+taɾ aɾa	1
+taɾ aɾa betaɾtozəŋɡa	1
+zatʰəzəŋ	1
+zatʰəzəŋ nətənekəsəŋ	1
+zatʰəzəŋ nətənekəsəŋ vidio	1
+dairekson	1
+dairekson kaɾen	1
+dairekson kaɾen na	1
+zajani	1
+zajani siməi	1
+zajani siməi ten	1
+zəŋɡakʰinadaŋ	1
+zəŋɡakʰinadaŋ zeblazəŋsaɾkʰit	1
+zəŋɡakʰinadaŋ zeblazəŋsaɾkʰit kʰoakʰi	1
+kə	1
+kə nəŋtʰəməna	1
+kə nəŋtʰəməna be	1
+betɾi	3
+betɾi naŋsaɾgan	1
+betɾi naŋsaɾgan betɾi	1
+betɾi gelazəŋ	1
+betɾi gelazəŋ ge	1
+betɾi impoɾtən	1
+betɾi impoɾtən </s>	1
+nəptʰaoɡan	1
+nəptʰaoɡan zəbla	1
+nəptʰaoɡan zəbla pɾopoɾsənel	1
+zətʰai	1
+zətʰai </s>	1
+kopi	1
+kopi kuɾoɾo	1
+kopi kuɾoɾo be	1
+amaro	1
+amaro misi	1
+amaro misi kaɾen	1
+ɾuzutʰai	2
+ɾuzutʰai aɾə	1
+ɾuzutʰai aɾə tʰəŋɡəɾ	1
+ɾuzutʰai tʰametba	1
+ɾuzutʰai tʰametba zəŋɡa	1
+sauʋaɾizəŋ	1
+sauʋaɾizəŋ zeikizəŋ	1
+sauʋaɾizəŋ zeikizəŋ mənsəsəŋ	1
+tʰaŋaɾas	1
+tʰaŋaɾas səŋ	1
+tʰaŋaɾas səŋ udi	1
+gəɹli	1
+gəɹli ɹa	1
+gəɹli ɹa nataŋmuna	1
+doblaitʰini	1
+doblaitʰini sənəiəɡən	1
+doblaitʰini sənəiəɡən </s>	1
+ɡanai	1
+ɡanai doa	1
+ɡanai doa ʋia	1
+besik	1
+besik sandai	1
+besik sandai zəŋga	1
+mekʰneibei	1
+mekʰneibei sakiniŋta	1
+mekʰneibei sakiniŋta mɔŋneizi	1
+entʰaŋ	1
+entʰaŋ mənse	1
+entʰaŋ mənse mənise	1
+labodəŋ	1
+labodəŋ biohai	1
+labodəŋ biohai be	1
+tiuŋədə	1
+tiuŋədə tiukʰənəŋdəzən	1
+tiuŋədə tiukʰənəŋdəzən ese	1
+ɹo	1
+ɹo kɔnfiuza	1
+ɹo kɔnfiuza da	1
+bohidiŋ	1
+bohidiŋ boɾua	1
+bohidiŋ boɾua mənse	1
+kʰizepʰuɾ	1
+kʰizepʰuɾ mitaɾ	1
+kʰizepʰuɾ mitaɾ ba	1
+kontʰa	2
+kontʰa poi	1
+kontʰa poi ina	1
+kontʰa ɡa	1
+kontʰa ɡa zəŋɡa	1
+ʝohai	1
+ʝohai </s>	1
+baŋkɾain	1
+baŋkɾain moblib	1
+baŋkɾain moblib kaɾen	1
+kukuɾməinə	1
+kukuɾməinə aɾə	1
+kukuɾməinə aɾə zeʋai	1
+məsənŋa	1
+məsənŋa adaŋ	1
+məsənŋa adaŋ </s>	1
+zəbai	2
+zəbai boŋəla	1
+zəbai boŋəla mənse	1
+zəbai ɡanalazəŋ	1
+zəbai ɡanalazəŋ </s>	1
+zəjobla	1
+zəjobla bekʰo	1
+zəjobla bekʰo se	1
+bonsi	1
+bonsi ʋalbonsi	1
+bonsi ʋalbonsi mitaɾ	1
+hanti	1
+hanti kʰəna	1
+hanti kʰəna zədə	1
+mənipʰɾai	2
+mənipʰɾai zəŋda	1
+mənipʰɾai zəŋda nəŋtʰəməna	1
+mənipʰɾai zəŋɡasəŋ	1
+mənipʰɾai zəŋɡasəŋ kontʰaini	1
+gola	1
+gola beimmizi	1
+gola beimmizi ohuigoman	1
+bekʰuzəŋɡa	1
+bekʰuzəŋɡa ɾeʋaiti	1
+bekʰuzəŋɡa ɾeʋaiti lina	1
+maupʰəiməzə	1
+maupʰəiməzə dobliu	1
+maupʰəiməzə dobliu aɾə	1
+bia	2
+bia maɾzaia	1
+bia maɾzaia ten	1
+bia boa	1
+bia boa mənsi	1
+pʰaɾməina	1
+pʰaɾməina naiɡidəŋ	1
+pʰaɾməina naiɡidəŋ </s>	1
+koɾosen	1
+koɾosen ʋeseboŋ	1
+koɾosen ʋeseboŋ </s>	1
+fidam	1
+fidam </s>	1
+intizalamnə	1
+intizalamnə nizisəŋ	1
+intizalamnə nizisəŋ kontʰai	1
+zaɡən	1
+zaɡən </s>	1
+tʰaijo	1
+tʰaijo femuze	1
+tʰaijo femuze </s>	1
+tʰakuni	1
+tʰakuni gizəzəŋ	1
+tʰakuni gizəzəŋ tʰaŋnai	1
+mənsi	3
+mənsi nua	1
+mənsi nua kʰubutʰamna	1
+mənsi pʰoɾmula	1
+mənsi pʰoɾmula nəŋdəmənən	1
+mənsi taɾ	1
+mənsi taɾ aɾa	1
+steiŋ	1
+steiŋ ilektɾoɾo	1
+steiŋ ilektɾoɾo tʰaŋai	1
+zukʰi	1
+zukʰi nae	1
+zukʰi nae da	1
+lana	2
+lana aɡən	1
+lana aɡən ʋezəʋai	1
+lana akəlaŋzəʋai	1
+lana akəlaŋzəʋai </s>	1
+kʰubtʰe	1
+kʰubtʰe lamakʰo	1
+kʰubtʰe lamakʰo moblib	1
+somnəŋɡen	1
+somnəŋɡen ʋenahaiŋen	1
+somnəŋɡen ʋenahaiŋen mənse	1
+niɡezizəŋ	3
+niɡezizəŋ ɾesistens	1
+niɡezizəŋ ɾesistens entʰakʰo	1
+niɡezizəŋ zukʰi	1
+niɡezizəŋ zukʰi nae	1
+niɡezizəŋ da	1
+niɡezizəŋ da ʋekʰu	1
+mətəŋ	3
+mətəŋ moblib	1
+mətəŋ moblib balb	1
+mətəŋ emitaɾ	1
+mətəŋ emitaɾ ɾuna	1
+mətəŋ </s>	1
+betaɾtozəŋɡa	1
+betaɾtozəŋɡa buŋɡo	1
+betaɾtozəŋɡa buŋɡo mənsitaɾ	1
+nətənekəsəŋ	1
+nətənekəsəŋ vidio	1
+nətənekəsəŋ vidio pʰoɾa	1
+buhi	1
+buhi nai	1
+buhi nai </s>	1
+siməi	1
+siməi ten	1
+siməi ten tu	1
+zeblazəŋsaɾkʰit	1
+zeblazəŋsaɾkʰit kʰoakʰi	1
+zeblazəŋsaɾkʰit kʰoakʰi asəŋ	1
+osadni	1
+osadni ɡezezəŋ	1
+osadni ɡezezəŋ nəŋtʰəmona	1
+naŋsaɾgan	1
+naŋsaɾgan betɾi	1
+naŋsaɾgan betɾi gelazəŋ	1
+zəbla	1
+zəbla pɾopoɾsənel	1
+zəbla pɾopoɾsənel be	1
+həŋənalonio	1
+həŋənalonio boŋse	1
+həŋənalonio boŋse lobi	1
+kuɾoɾo	1
+kuɾoɾo be	1
+kuɾoɾo be uzeŋ	1
+misi	1
+misi kaɾen	1
+misi kaɾen sula	1
+tʰəŋɡəɾ	1
+tʰəŋɡəɾ dansəni	1
+tʰəŋɡəɾ dansəni soblaitʰini	1
+zeikizəŋ	1
+zeikizəŋ mənsəsəŋ	1
+zeikizəŋ mənsəsəŋ kontʰa	1
+səŋ	5
+səŋ sauɾai	1
+səŋ sauɾai ɡənta	1
+səŋ udi	1
+səŋ udi lenə	1
+səŋ məsəŋ	1
+səŋ məsəŋ pʰuɾməi	1
+səŋ kʰantipuɾkʰə	1
+səŋ kʰantipuɾkʰə kʰəʋai	1
+səŋ ola	1
+səŋ ola zəŋa	1
+ɹa	1
+ɹa nataŋmuna	1
+ɹa nataŋmuna buzi	1
+sənəiəɡən	1
+sənəiəɡən </s>	1
+doa	1
+doa ʋia	1
+doa ʋia tuelf	1
+sandai	1
+sandai zəŋga	1
+sandai zəŋga ten	1
+sakiniŋta	1
+sakiniŋta mɔŋneizi	1
+sakiniŋta mɔŋneizi iŋɾazə	1
+mənise	1
+mənise beɡunɡɾani	1
+mənise beɡunɡɾani </s>	1
+nəŋtʰəŋmunni	1
+nəŋtʰəŋmunni vizəŋɡa	1
+nəŋtʰəŋmunni vizəŋɡa tuelf	1
+tiukʰənəŋdəzən	1
+tiukʰənəŋdəzən ese	1
+tiukʰənəŋdəzən ese agolo	1
+elənəzəŋ	1
+elənəzəŋ noɹmeli	1
+elənəzəŋ noɹmeli basuɹasuŋsei	1
+boɾua	1
+boɾua mənse	1
+boɾua mənse deɡin	1
+imitaɾ	5
+imitaɾ manema	1
+imitaɾ manema kaɾen	1
+imitaɾ pʰuɾaŋzab	1
+imitaɾ pʰuɾaŋzab zəŋ	1
+imitaɾ kamekʰlaŋən	1
+imitaɾ kamekʰlaŋən ha	1
+imitaɾ həzəŋga	1
+imitaɾ həzəŋga siɾiebalaɾie	1
+imitaɾ ɡazeŋɡa	1
+imitaɾ ɡazeŋɡa beʋaiti	1
+poi	1
+poi ina	1
+poi ina moblib	1
+moblib	56
+moblib </s>	1
+moblib səɾsə	1
+moblib səɾsə </s>	1
+moblib ni	1
+moblib ni məzəŋ	1
+moblib balb	1
+moblib balb ɾuna	1
+moblib dahaɾ	18
+moblib dahaɾ </s>	1
+moblib dahaɾ empijaɾ	1
+moblib dahaɾ gusununado	1
+moblib dahaɾ nesen	1
+moblib dahaɾ kʰobona	1
+moblib dahaɾ bohidiŋ	1
+moblib dahaɾ aɾasə	2
+moblib dahaɾ kʰufuɾmano	1
+moblib dahaɾ aɾaebeni	1
+moblib dahaɾ tʰhametʋa	1
+moblib dahaɾ bohaɡa	1
+moblib dahaɾ koa	1
+moblib dahaɾ buŋgo	1
+moblib dahaɾ inkuizaie	1
+moblib dahaɾ munnaizei	1
+moblib dahaɾ husunai	1
+moblib dahaɾ əɾəzəŋ	1
+moblib san	2
+moblib san kʰontʰai	1
+moblib san kontʰaini	1
+moblib saɾsni	1
+moblib saɾsni bibaikʰo	1
+moblib tʰaŋai	1
+moblib tʰaŋai tʰametʋa	1
+moblib tʰahati	2
+moblib tʰahati muŋnəi	1
+moblib tʰahati pʰaɾagni	1
+moblib sati	1
+moblib sati ɡoŋseni	1
+moblib kaɾen	1
+moblib kaɾen bohenna	1
+moblib ʋe	1
+moblib ʋe saɾsaɾsi	1
+moblib dedenɡɾani	1
+moblib dedenɡɾani pʰaɾne	1
+moblib sel	3
+moblib sel </s>	1
+moblib sel kʰəzəŋɡa	1
+moblib sel mane	1
+moblib saŋ	1
+moblib saŋ kʰontʰai	1
+moblib entʰani	2
+moblib entʰani kʰaman	2
+moblib nəŋtʰəŋəz	1
+moblib nəŋtʰəŋəz biohai	1
+moblib deitən	1
+moblib deitən banai	1
+moblib dahaɾa	1
+moblib dahaɾa uan	1
+moblib səŋkʰontʰaini	1
+moblib səŋkʰontʰaini mənse	1
+moblib dahaɾni	1
+moblib dahaɾni tʰaŋzəŋ	1
+moblib sale	1
+moblib sale bekʰu	1
+moblib saɾs	1
+moblib saɾs ni	1
+moblib tʰahatʰi	2
+moblib tʰahatʰi da	1
+moblib tʰahatʰi məŋnai	1
+moblib tʰahaɾtʰi	1
+moblib tʰahaɾtʰi aɾə	1
+moblib sali	3
+moblib sali puŋla	1
+moblib sali puŋoblan	1
+moblib sali nəŋtʰəmətʋa	1
+moblib bi	1
+moblib bi tʰəŋai	1
+moblib batʰi	1
+moblib batʰi ʋezeblazəŋ	1
+moblib batʰibabaɾkʰua	1
+moblib batʰibabaɾkʰua olanəŋtʰəmənə	1
+moblib tʰakʰatʰi	1
+moblib tʰakʰatʰi ru	1
+moblib dedenɡani	1
+moblib dedenɡani pʰaɾne	1
+bohenna	1
+bohenna maulaba	1
+bohenna maulaba </s>	1
+kulumbə	1
+kulumbə satʰi	1
+kulumbə satʰi lamnə	1
+adaŋ	1
+adaŋ </s>	1
+boŋəla	1
+boŋəla mənse	1
+boŋəla mənse dedineɡezizəŋ	1
+bekʰo	2
+bekʰo se	1
+bekʰo se ʋolt	1
+bekʰo omne	1
+bekʰo omne kʰantʰi	1
+ʋalbonsi	1
+ʋalbonsi mitaɾ	1
+ʋalbonsi mitaɾ al	1
+kʰəna	1
+kʰəna zədə	1
+kʰəna zədə omni	1
+zəŋda	1
+zəŋda nəŋtʰəməna	1
+zəŋda nəŋtʰəməna zə	1
+beimmizi	1
+beimmizi ohuigoman	1
+beimmizi ohuigoman gəɾlənəzəŋ	1
+naia	1
+naia aɾa	1
+naia aɾa be	1
+dobliu	4
+dobliu aɾə	1
+dobliu aɾə kiu	1
+dobliu ʋai	2
+dobliu ʋai kiu	2
+dobliu ba	1
+dobliu ba kiu	1
+maɾzaia	1
+maɾzaia ten	1
+maɾzaia ten tu	1
+naiɡidəŋ	1
+naiɡidəŋ </s>	1
+ʋeseboŋ	1
+ʋeseboŋ </s>	1
+mitʰaŋnifai	1
+mitʰaŋnifai lanazadaŋ	1
+mitʰaŋnifai lanazadaŋ aɾa	1
+nizisəŋ	1
+nizisəŋ kontʰai	1
+nizisəŋ kontʰai zeula	1
+bekʰunumuŋ	1
+bekʰunumuŋ muŋnəzəda	1
+bekʰunumuŋ muŋnəzəda moblib	1
+femuze	1
+femuze </s>	1
+gizəzəŋ	1
+gizəzəŋ tʰaŋnai	1
+gizəzəŋ tʰaŋnai moblib	1
+nua	1
+nua kʰubutʰamna	1
+nua kʰubutʰamna hagon	1
+ilektɾoɾo	1
+ilektɾoɾo tʰaŋai	1
+ilektɾoɾo tʰaŋai sasse	1
+nae	1
+nae da	1
+nae da simbol	1
+aɡən	1
+aɡən ʋezəʋai	1
+aɡən ʋezəʋai tʰahati	1
+lamakʰo	1
+lamakʰo moblib	1
+lamakʰo moblib san	1
+ʋenahaiŋen	1
+ʋenahaiŋen mənse	1
+ʋenahaiŋen mənse ɡəɾlə	1
+ɾesistens	3
+ɾesistens entʰakʰo	1
+ɾesistens entʰakʰo enəŋɡanəŋzəʋa	1
+ɾesistens boŋnai	1
+ɾesistens boŋnai zeŋnai	1
+ɾesistens tʰamitba	1
+ɾesistens tʰamitba heŋtʰaŋanainə	1
+balb	1
+balb ɾuna	1
+balb ɾuna mətəŋ	1
+buŋɡo	1
+buŋɡo mənsitaɾ	1
+buŋɡo mənsitaɾ toŋobetʰikʰoiaɾa	1
+pʰoɾa	2
+pʰoɾa nəŋtʰaŋmona	1
+pʰoɾa nəŋtʰaŋmona </s>	1
+pʰoɾa biohai	1
+pʰoɾa biohai maməŋnəi	1
+nai	5
+nai </s>	2
+nai zəŋ	1
+nai zəŋ aɾa	1
+nai ne	1
+nai ne nəŋtʰəmona	1
+nai zinne	1
+nai zinne sonne	1
+pauəɾ	1
+pauəɾ mainəs	1
+pauəɾ mainəs ait	1
+kʰoakʰi	2
+kʰoakʰi asəŋ	1
+kʰoakʰi asəŋ kontʰai	1
+kʰoakʰi nəɡənzae	1
+kʰoakʰi nəɡənzae </s>	1
+ɡezezəŋ	1
+ɡezezəŋ nəŋtʰəmona	1
+ɡezezəŋ nəŋtʰəmona </s>	1
+gelazəŋ	1
+gelazəŋ ge	1
+gelazəŋ ge kaneksəŋa	1
+kʰələmla	1
+kʰələmla biohai	1
+kʰələmla biohai mənse	1
+boŋse	1
+boŋse lobi	1
+boŋse lobi pʰiɾonmoi	1
+uzeŋ	1
+uzeŋ sauɾəɡən	1
+uzeŋ sauɾəɡən so	1
+sula	1
+sula aizen	1
+sula aizen </s>	1
+dansəni	1
+dansəni soblaitʰini	1
+dansəni soblaitʰini e	1
+mənsəsəŋ	1
+mənsəsəŋ kontʰa	1
+mənsəsəŋ kontʰa ɡa	1
+udi	1
+udi lenə	1
+udi lenə </s>	1
+nataŋmuna	1
+nataŋmuna buzi	1
+nataŋmuna buzi nalage	1
+doblaitʰi	2
+doblaitʰi mane	1
+doblaitʰi mane ohoi	1
+doblaitʰi haŋnai	1
+doblaitʰi haŋnai eɾia	1
+ʋia	1
+ʋia tuelf	1
+ʋia tuelf volt	1
+sikstie	1
+sikstie tʰai	1
+sikstie tʰai mənə	1
+mɔŋneizi	1
+mɔŋneizi iŋɾazə	1
+mɔŋneizi iŋɾazə </s>	1
+beɡunɡɾani	1
+beɡunɡɾani </s>	1
+vizəŋɡa	1
+vizəŋɡa tuelf	1
+vizəŋɡa tuelf poin	1
+agolo	1
+agolo aŋkʰə	1
+agolo aŋkʰə naŋmai	1
+noɹmeli	1
+noɹmeli basuɹasuŋsei	1
+noɹmeli basuɹasuŋsei zəŋa	1
+deɡin	1
+deɡin naɡeɡizəŋ	1
+deɡin naɡeɡizəŋ mobla	1
+pʰuɾaŋzab	1
+pʰuɾaŋzab zəŋ	1
+pʰuɾaŋzab zəŋ məsəsaɾkidau	1
+ina	2
+ina moblib	1
+ina moblib saɾsni	1
+ina bemoblib	1
+ina bemoblib saɾsni	1
+dahaɾ	19
+dahaɾ </s>	1
+dahaɾ empijaɾ	1
+dahaɾ empijaɾ zəŋga	1
+dahaɾ kʰommili	1
+dahaɾ kʰommili empijaɾ	1
+dahaɾ nesen	1
+dahaɾ nesen tʰanai	1
+dahaɾ gusununado	1
+dahaɾ gusununado sauʋaɾi	1
+dahaɾ kʰobona	1
+dahaɾ kʰobona lajo	1
+dahaɾ bohidiŋ	1
+dahaɾ bohidiŋ boɾua	1
+dahaɾ aɾasə	2
+dahaɾ aɾasə kontai	1
+dahaɾ aɾasə kuntʰeini	1
+dahaɾ kʰufuɾmano	1
+dahaɾ kʰufuɾmano metaɾ	1
+dahaɾ aɾaebeni	1
+dahaɾ aɾaebeni pʰaɾmə	1
+dahaɾ tʰhametʋa	1
+dahaɾ tʰhametʋa necʰiŋ	1
+dahaɾ bohaɡa	1
+dahaɾ bohaɡa oɾla	1
+dahaɾ koa	1
+dahaɾ koa zəŋɡa	1
+dahaɾ buŋgo	1
+dahaɾ buŋgo dani	1
+dahaɾ inkuizaie	1
+dahaɾ inkuizaie oɾla	1
+dahaɾ munnaizei	1
+dahaɾ munnaizei da	1
+dahaɾ husunai	1
+dahaɾ husunai zə	1
+dahaɾ əɾəzəŋ	1
+dahaɾ əɾəzəŋ kʰoma	1
+maulaba	1
+maulaba </s>	1
+satʰi	1
+satʰi lamnə	1
+satʰi lamnə zə	1
+zəŋzahao	1
+zəŋzahao mani	1
+zəŋzahao mani ɾiplai	1
+dedineɡezizəŋ	1
+dedineɡezizəŋ baŋɾai	1
+dedineɡezizəŋ baŋɾai bibaŋi	1
+buŋnəi	1
+buŋnəi ze	1
+buŋnəi ze aɾə	1
+al	1
+al boŋsi	1
+al boŋsi sana	1
+hantʰiamnəi	2
+hantʰiamnəi zədə	2
+hantʰiamnəi zədə omni	1
+hantʰiamnəi zədə pʰoɾesə	1
+sauɾaiɡəm	1
+sauɾaiɡəm </s>	1
+ohuigoman	1
+ohuigoman gəɾlənəzəŋ	1
+ohuigoman gəɾlənəzəŋ ʋeha	1
+nəŋtʰənmə	1
+nəŋtʰənmə ɡizəzəŋ	1
+nəŋtʰənmə ɡizəzəŋ ono	1
+ʋai	4
+ʋai kiu	2
+ʋai kiu da	1
+ʋai kiu </s>	1
+ʋai ai	1
+ʋai ai ʋekʰu	1
+ʋai eksis	1
+ʋai eksis zə	1
+pauʋaɾ	2
+pauʋaɾ uan	1
+pauʋaɾ uan </s>	1
+pauʋaɾ mainəs	1
+pauʋaɾ mainəs siks	1
+nənəməna	2
+nənəməna besebaŋ	1
+nənəməna besebaŋ moblib	1
+nənəməna ɾeʋai	1
+nənəməna ɾeʋai suman	1
+tʰananəzəŋ	1
+tʰananəzəŋ kʰəmanimaunizəŋgan	1
+tʰananəzəŋ kʰəmanimaunizəŋgan bikʰunə	1
+lanazadaŋ	1
+lanazadaŋ aɾa	1
+lanazadaŋ aɾa maulaoasənən	1
+nimikʰe	1
+nimikʰe </s>	1
+muŋnəzəda	1
+muŋnəzəda moblib	1
+muŋnəzəda moblib tʰahati	1
+nuna	1
+nuna mona	1
+nuna mona moblib	1
+tʰaŋnai	5
+tʰaŋnai moblib	2
+tʰaŋnai moblib dahaɾ	1
+tʰaŋnai moblib dahaɾni	1
+tʰaŋnai dahaɾa	1
+tʰaŋnai dahaɾa baŋnai	1
+tʰaŋnai saɾso	1
+tʰaŋnai saɾso heŋtʰa	1
+tʰaŋnai saɾskʰə	1
+tʰaŋnai saɾskʰə hentʰa	1
+kʰubutʰamna	1
+kʰubutʰamna hagon	1
+kʰubutʰamna hagon be	1
+tʰaŋai	4
+tʰaŋai sasse	1
+tʰaŋai sasse samon	1
+tʰaŋai moblib	1
+tʰaŋai moblib dahaɾ	1
+tʰaŋai ziɾo	1
+tʰaŋai ziɾo poin	1
+tʰaŋai tʰametʋa	1
+tʰaŋai tʰametʋa mənse	1
+azaʋai	1
+azaʋai biti	1
+azaʋai biti aɾa	1
+ʋezəʋai	3
+ʋezəʋai tʰahati	1
+ʋezəʋai tʰahati </s>	1
+ʋezəʋai ʋi	1
+ʋezəʋai ʋi ikual	1
+ʋezəʋai əɾa	1
+ʋezəʋai əɾa nəŋtʰəməna	1
+san	3
+san kʰontʰai	1
+san kʰontʰai buŋa	1
+san godijamma	1
+san godijamma kulom	1
+san kontʰaini	1
+san kontʰaini da	1
+ɡəɾlə	1
+ɡəɾlə simbol	1
+ɡəɾlə simbol bəikʰə	1
+entʰakʰo	1
+entʰakʰo enəŋɡanəŋzəʋa	1
+entʰakʰo enəŋɡanəŋzəʋa nəŋtʰəmona	1
+emitaɾ	2
+emitaɾ ɾuna	1
+emitaɾ ɾuna mətəŋ	1
+emitaɾ niɡezizəŋ	1
+emitaɾ niɡezizəŋ zukʰi	1
+mənsitaɾ	1
+mənsitaɾ toŋobetʰikʰoiaɾa	1
+mənsitaɾ toŋobetʰikʰoiaɾa beozəŋɡa	1
+nəŋtʰaŋmona	1
+nəŋtʰaŋmona </s>	1
+za	6
+za moblib	1
+za moblib </s>	1
+za lama	1
+za lama bekʰe	1
+za aɾa	1
+za aɾa maikɾo	1
+za atsa	1
+za atsa sanəi	1
+za maŋbai	1
+za maŋbai maɾkʰoa	1
+za saɾstʰaŋəinəzəŋ	1
+za saɾstʰaŋəinəzəŋ kʰamanimozəŋ	1
+ait	2
+ait om	2
+ait om mitaɾ	2
+asəŋ	1
+asəŋ kontʰai	1
+asəŋ kontʰai kʰoakʰi	1
+ensəɾkʰəmona	1
+ensəɾkʰəmona haɡən	1
+ensəɾkʰəmona haɡən zəŋ	1
+ge	1
+ge kaneksəŋa	1
+ge kaneksəŋa </s>	1
+ɡidiŋ	1
+ɡidiŋ pʰiaɡeŋɡəzə	1
+ɡidiŋ pʰiaɡeŋɡəzə tʰeŋtʰa	1
+lobi	1
+lobi pʰiɾonmoi	1
+lobi pʰiɾonmoi ʋeʋase	1
+sauɾəɡən	1
+sauɾəɡən so	1
+sauɾəɡən so ine	1
+aizen	1
+aizen </s>	1
+soblaitʰini	1
+soblaitʰini e	1
+soblaitʰini e utʰa	1
+ɡa	1
+ɡa zəŋɡa	1
+ɡa zəŋɡa ʋeni	1
+lenə	1
+lenə </s>	1
+buzi	3
+buzi nalage	1
+buzi nalage </s>	1
+buzi muniɡo	1
+buzi muniɡo səŋlən	1
+buzi ikuenaga	1
+buzi ikuenaga aɾabelnekʰae	1
+ohoi	1
+ohoi dediŋɡɾani	1
+ohoi dediŋɡɾani doblaitʰi	1
+manakʰai	1
+manakʰai tu	1
+manakʰai tu kʰulum	1
+siksti	1
+siksti dozizə	1
+siksti dozizə santələzəŋga	1
+iŋɾazə	1
+iŋɾazə </s>	1
+saos	1
+saos sənaɾo	1
+saos sənaɾo maz	1
+tuelf	4
+tuelf poin	2
+tuelf poin tu	1
+tuelf poin uan	1
+tuelf volt	2
+tuelf volt tʰahatʰi	1
+tuelf volt aɾa	1
+aŋkʰə	1
+aŋkʰə naŋmai	1
+aŋkʰə naŋmai zəŋga	1
+basuɹasuŋsei	1
+basuɹasuŋsei zəŋa	1
+basuɹasuŋsei zəŋa </s>	1
+naɡeɡizəŋ	1
+naɡeɡizəŋ mobla	1
+naɡeɡizəŋ mobla zəŋɡa	1
+məsəsaɾkidau	2
+məsəsaɾkidau </s>	1
+məsəsaɾkidau ma	1
+məsəsaɾkidau ma munizəŋ	1
+saɾsni	3
+saɾsni bibaikʰo	1
+saɾsni bibaikʰo dihun	1
+saɾsni bibaŋkʰo	1
+saɾsni bibaŋkʰo dihun	1
+saɾsni uze	1
+saɾsni uze mazəŋgən	1
+aɾasə	2
+aɾasə kontai	1
+aɾasə kontai </s>	1
+aɾasə kuntʰeini	1
+aɾasə kuntʰeini ɡiziɹo	1
+zeikʰize	1
+zeikʰize balbanə	1
+zeikʰize balbanə bapʰius	1
+lamnə	1
+lamnə zə	1
+lamnə zə omna	1
+mani	1
+mani ɾiplai	1
+mani ɾiplai ono	1
+baŋɾai	1
+baŋɾai bibaŋi	1
+baŋɾai bibaŋi moblib	1
+ʋiʋaitʰai	1
+ʋiʋaitʰai se	1
+ʋiʋaitʰai se zul	1
+boŋsi	2
+boŋsi sana	1
+boŋsi sana fanəŋzə	1
+boŋsi hantʰi	1
+boŋsi hantʰi manema	1
+pʰoɾesə	2
+pʰoɾesə nəŋtʰəmənə	2
+pʰoɾesə nəŋtʰəmənə </s>	1
+pʰoɾesə nəŋtʰəmənə besiŋ	1
+ladaŋ	1
+ladaŋ nəŋtʰəmona	1
+ladaŋ nəŋtʰəmona moblib	1
+gəɾlənəzəŋ	1
+gəɾlənəzəŋ ʋeha	1
+gəɾlənəzəŋ ʋeha bizao	1
+ɡizəzəŋ	1
+ɡizəzəŋ ono	1
+ɡizəzəŋ ono kʰaiəɾ	1
+bəpʰəɾ	1
+bəpʰəɾ moɡalasai	1
+bəpʰəɾ moɡalasai zəŋ	1
+em	1
+em ese	1
+em ese tʰaŋ	1
+besebaŋ	1
+besebaŋ moblib	1
+besebaŋ moblib dahaɾ	1
+kʰəmanimaunizəŋgan	1
+kʰəmanimaunizəŋgan bikʰunə	1
+kʰəmanimaunizəŋgan bikʰunə kʰuŋnazəda	1
+maulaoasənən	1
+maulaoasənən se	1
+maulaoasənən se empijaɾ	1
+pʰobla	1
+pʰobla aiaɡo	1
+pʰobla aiaɡo səman	1
+muŋnəi	1
+muŋnəi zədə	1
+muŋnəi zədə da	1
+kʰufuɾmano	1
+kʰufuɾmano metaɾ	1
+kʰufuɾmano metaɾ saŋgodi	1
+aɾaebeni	1
+aɾaebeni pʰaɾmə	1
+aɾaebeni pʰaɾmə kʰuɾum	1
+hagon	1
+hagon be	1
+hagon be aɾial	1
+sasse	2
+sasse samon	1
+sasse samon eʋe	1
+sasse zaman	1
+sasse zaman biɡen	1
+biti	1
+biti aɾa	1
+biti aɾa voltmitaɾ	1
+tʰahati	22
+tʰahati pʰaɾaɡa	3
+tʰahati pʰaɾaɡa zebla	1
+tʰahati pʰaɾaɡa nimikʰe	1
+tʰahati pʰaɾaɡa uan	1
+tʰahati </s>	1
+tʰahati pʰəɾə	1
+tʰahati pʰəɾə ɡəzəjaipi	1
+tʰahati pʰaɾəŋɡai	1
+tʰahati pʰaɾəŋɡai intizalamnə	1
+tʰahati pʰoɾa	1
+tʰahati pʰoɾa biohai	1
+tʰahati muŋnəi	1
+tʰahati muŋnəi zədə	1
+tʰahati pʰaɾagni	1
+tʰahati pʰaɾagni esai	1
+tʰahati pʰəɾak	1
+tʰahati pʰəɾak buŋnai	1
+tʰahati pʰaɾəkuzukʰinae	1
+tʰahati pʰaɾəkuzukʰinae ʋe	1
+tʰahati pʰəɾəŋa	1
+tʰahati pʰəɾəŋa səŋ	1
+tʰahati pʰaɾami	1
+tʰahati pʰaɾami ɡezəni	1
+tʰahati pʰaɾaɡazəɡən	1
+tʰahati pʰaɾaɡazəɡən ʋezeʋai	1
+tʰahati pʰaɾak	1
+tʰahati pʰaɾak manema	1
+tʰahati pʰəɾək	1
+tʰahati pʰəɾək manezəʋai	1
+tʰahati pʰaɾəɡkʰo	1
+tʰahati pʰaɾəɡkʰo sulai	1
+tʰahati pʰaɾaɡ	1
+tʰahati pʰaɾaɡ pʰia	1
+tʰahati pʰaɾaɡo	2
+tʰahati pʰaɾaɡo suno	1
+tʰahati pʰaɾaɡo uan	1
+tʰahati pʰaɾakni	2
+tʰahati pʰaɾakni kolsae	2
+buŋa	2
+buŋa </s>	1
+buŋa haŋai	1
+buŋa haŋai ɡəgədoma	1
+bəikʰə	1
+bəikʰə nəŋtʰəŋmənə	1
+bəikʰə nəŋtʰəŋmənə akʰinə	1
+enəŋɡanəŋzəʋa	1
+enəŋɡanəŋzəʋa nəŋtʰəmona	1
+enəŋɡanəŋzəʋa nəŋtʰəmona maʋaikʰəna	1
+aɾo	1
+aɾo sabi	1
+aɾo sabi pʰonazab	1
+toŋobetʰikʰoiaɾa	1
+toŋobetʰikʰoiaɾa beozəŋɡa	1
+toŋobetʰikʰoiaɾa beozəŋɡa kanekʰlaoke	1
+inəizəŋ	1
+inəizəŋ ʋe	1
+inəizəŋ ʋe kʰənkʰe	1
+lama	1
+lama bekʰe	1
+lama bekʰe ŋəŋtʰən	1
+nipʰɾai	1
+nipʰɾai ten	1
+nipʰɾai ten tu	1
+nəɡənzae	1
+nəɡənzae </s>	1
+haɡən	1
+haɡən zəŋ	1
+haɡən zəŋ ʋekʰua	1
+kaneksəŋa	1
+kaneksəŋa </s>	1
+pʰiaɡeŋɡəzə	1
+pʰiaɡeŋɡəzə tʰeŋtʰa	1
+pʰiaɡeŋɡəzə tʰeŋtʰa buŋnai	1
+pʰiɾonmoi	1
+pʰiɾonmoi ʋeʋase	1
+pʰiɾonmoi ʋeʋase loŋa	1
+ine	1
+ine bekʰi	1
+ine bekʰi məzə	1
+nimuaza	1
+nimuaza e	1
+nimuaza e mitaɾ	1
+utʰa	1
+utʰa ɾuzutʰai	1
+utʰa ɾuzutʰai tʰametba	1
+məntʰaditisiŋ	1
+məntʰaditisiŋ pʰeizəŋdetesiŋ	1
+məntʰaditisiŋ pʰeizəŋdetesiŋ </s>	1
+mablababna	1
+mablababna mablaʋa	1
+mablababna mablaʋa kʰaikʰa	1
+nalage	1
+nalage </s>	1
+dediŋɡɾani	1
+dediŋɡɾani doblaitʰi	1
+dediŋɡɾani doblaitʰi haŋnai	1
+kʰobihəŋɡa	1
+kʰobihəŋɡa tʰamitba	1
+kʰobihəŋɡa tʰamitba bobli	1
+dozizə	1
+dozizə santələzəŋga	1
+dozizə santələzəŋga ozo	1
+nimə	1
+nimə nisəsəŋ	1
+nimə nisəsəŋ kɔntʰai	1
+sənaɾo	1
+sənaɾo maz	1
+sənaɾo maz bekʰuni	1
+bintʰi	1
+bintʰi biohai	1
+bintʰi biohai masəŋnai	1
+naŋmai	1
+naŋmai zəŋga	1
+naŋmai zəŋga ai	1
+zəŋa	10
+zəŋa </s>	4
+zəŋa tʰahati	1
+zəŋa tʰahati pʰaɾəkuzukʰinae	1
+zəŋa akʰia	1
+zəŋa akʰia ʋepʰupʰuzəŋa	1
+zəŋa ɾiwaieti	1
+zəŋa ɾiwaieti </s>	1
+zəŋa natabtʰai	1
+zəŋa natabtʰai dizəi	1
+zəŋa bekʰu	2
+zəŋa bekʰu beʋai	1
+zəŋa bekʰu mənsə	1
+mi	1
+mi mənə	1
+mi mənə besa	1
+mənəzəŋ	1
+mənəzəŋ məsəsaɾkidau	1
+mənəzəŋ məsəsaɾkidau ma	1
+bibaikʰo	1
+bibaikʰo dihun	1
+bibaikʰo dihun da	1
+kontai	1
+kontai </s>	1
+balbanə	1
+balbanə bapʰius	1
+balbanə bapʰius tʰaŋna	1
+omna	1
+omna ʋezəi	1
+omna ʋezəi si	1
+ono	2
+ono nazəŋ	1
+ono nazəŋ so	1
+ono kʰaiəɾ	1
+ono kʰaiəɾ </s>	1
+bibaŋi	1
+bibaŋi moblib	1
+bibaŋi moblib dahaɾ	1
+base	1
+base nəŋtʰəŋmənə	1
+base nəŋtʰəŋmənə ʋe	1
+sana	1
+sana fanəŋzə	1
+sana fanəŋzə moblib	1
+bekʰubuzibainaŋ	1
+bekʰubuzibainaŋ asahalamnai	1
+bekʰubuzibainaŋ asahalamnai menəpʰɾai	1
+pʰaɾagni	1
+pʰaɾagni esai	1
+pʰaɾagni esai sanɡa	1
+ʋeha	1
+ʋeha bizao	1
+ʋeha bizao gələzi	1
+kʰaiəɾ	1
+kʰaiəɾ </s>	1
+moɡalasai	1
+moɡalasai zəŋ	1
+moɡalasai zəŋ bepʰomolakʰala	1
+ese	7
+ese əluzəŋ	1
+ese əluzəŋ sauɾə	1
+ese tʰaŋ	1
+ese tʰaŋ nəŋtʰəmona	1
+ese ganəŋtʰənəzə	1
+ese ganəŋtʰənəzə no	1
+ese agolo	1
+ese agolo aŋkʰə	1
+ese agoloson	1
+ese agoloson ɾai	1
+ese bonpʰuɾluhunaiɡidəŋ	1
+ese bonpʰuɾluhunaiɡidəŋ boŋsi	1
+ese aləŋəzən	1
+ese aləŋəzən be	1
+tʰhametʋa	1
+tʰhametʋa necʰiŋ	1
+tʰhametʋa necʰiŋ ba	1
+bikʰunə	1
+bikʰunə kʰuŋnazəda	1
+bikʰunə kʰuŋnazəda tʰahati	1
+se	13
+se empijaɾ	2
+se empijaɾ niçʰam	1
+se empijaɾ zada	1
+se kʰulum	1
+se kʰulum saɾs	1
+se zul	3
+se zul haʋa	1
+se zul base	1
+se zul haŋaŋ	1
+se okʰilaize	1
+se okʰilaize mane	1
+se ʋolt	1
+se ʋolt buŋnəi	1
+se naʋas	1
+se naʋas se	1
+se bolni	1
+se bolni ola	1
+se saɡodi	1
+se saɡodi saɾs	1
+se bʰolt	1
+se bʰolt ikual	1
+se ʋi	1
+se ʋi ikual	1
+aiaɡo	1
+aiaɡo səman	1
+aiaɡo səman səman	1
+zədə	8
+zədə bokʰu	1
+zədə bokʰu dediŋɾani	1
+zədə da	1
+zədə da moblib	1
+zədə pʰoɾesə	1
+zədə pʰoɾesə nəŋtʰəmənə	1
+zədə əɾa	1
+zədə əɾa zəŋɡa	1
+zədə omni	2
+zədə omni hantʰiamnəi	2
+zədə ʋi	1
+zədə ʋi is	1
+zədə bekʰu	1
+zədə bekʰu zəŋɡa	1
+metaɾ	1
+metaɾ saŋgodi	1
+metaɾ saŋgodi bahainai	1
+pʰaɾmə	1
+pʰaɾmə kʰuɾum	1
+pʰaɾmə kʰuɾum tʰahati	1
+aɾial	1
+aɾial hoŋnamuda	1
+aɾial hoŋnamuda sali	1
+samon	1
+samon eʋe	1
+samon eʋe uan	1
+pʰaɾəkuzukʰinae	1
+pʰaɾəkuzukʰinae ʋe	1
+pʰaɾəkuzukʰinae ʋe voltmitaɾ	1
+sati	1
+sati ɡoŋseni	1
+sati ɡoŋseni zekʰize	1
+vaŋsumau	1
+vaŋsumau mane	1
+vaŋsumau mane saɾsabaɾ	1
+hae	1
+hae </s>	1
+maʋaikʰəna	1
+maʋaikʰəna nəŋtʰəɡəm	1
+maʋaikʰəna nəŋtʰəɡəm menibəiɾəzəŋɡa	1
+sabi	1
+sabi pʰonazab	1
+sabi pʰonazab </s>	1
+beozəŋɡa	1
+beozəŋɡa kanekʰlaoke	1
+beozəŋɡa kanekʰlaoke niŋəstaɾozəŋɡa	1
+kʰənkʰe	1
+kʰənkʰe zinini	1
+kʰənkʰe zinini paɾpʰozəŋ	1
+bekʰe	1
+bekʰe ŋəŋtʰən	1
+bekʰe ŋəŋtʰən mona	1
+paueɾ	1
+paueɾ mainas	1
+paueɾ mainas siks	1
+beʋaiki	1
+beʋaiki akʰi	1
+beʋaiki akʰi nazəŋnalan	1
+ʋekʰua	1
+ʋekʰua monisa	1
+ʋekʰua monisa kʰənəzəi	1
+ane	1
+ane zəŋ	1
+ane zəŋ baɾkʰu	1
+tʰeŋtʰa	1
+tʰeŋtʰa buŋnai	1
+tʰeŋtʰa buŋnai zədə	1
+ʋeʋase	1
+ʋeʋase loŋa	1
+ʋeʋase loŋa aɾəzodi	1
+tʰoa	1
+tʰoa aɾə	1
+tʰoa aɾə nəŋtʰəmona	1
+mitaɾ	8
+mitaɾ </s>	2
+mitaɾ sim	1
+mitaɾ sim </s>	1
+mitaɾ al	1
+mitaɾ al boŋsi	1
+mitaɾ nipʰɾai	1
+mitaɾ nipʰɾai ten	1
+mitaɾ mane	1
+mitaɾ mane zuɾupʰɾa	1
+mitaɾ bekʰu	1
+mitaɾ bekʰu nəŋtʰəmənə	1
+mitaɾ ba	1
+mitaɾ ba imitaɾ	1
+tʰametba	1
+tʰametba zəŋɡa	1
+tʰametba zəŋɡa aɾ	1
+pʰeizəŋdetesiŋ	1
+pʰeizəŋdetesiŋ </s>	1
+mablaʋa	1
+mablaʋa kʰaikʰa	1
+mablaʋa kʰaikʰa kʰaiʋa	1
+ɡəmi	1
+ɡəmi ʋe	1
+ɡəmi ʋe ʋidio	1
+zədɐŋ	1
+zədɐŋ beni	1
+zədɐŋ beni saio	1
+bobli	1
+bobli kʰuɾiɾnado	1
+bobli kʰuɾiɾnado ʋenekʰainə	1
+santələzəŋga	1
+santələzəŋga ozo	1
+santələzəŋga ozo seken	1
+nisəsəŋ	1
+nisəsəŋ kɔntʰai	1
+nisəsəŋ kɔntʰai </s>	1
+maz	1
+maz bekʰuni	1
+maz bekʰuni zaha	1
+masəŋnai	1
+masəŋnai tono	1
+masəŋnai tono </s>	1
+ai	11
+ai da	1
+ai da menifɾai	1
+ai zə	1
+ai zə ziɾo	1
+ai ikual	4
+ai ikual tu	4
+ai intu	1
+ai intu ai	1
+ai bekʰu	1
+ai bekʰu pʰoɾmula	1
+ai ʋekʰu	1
+ai ʋekʰu zəŋmənə	1
+ai mane	1
+ai mane ziɾo	1
+ai tʰametʋa	1
+ai tʰametʋa zeula	1
+kaɾen	15
+kaɾen kʰo	1
+kaɾen kʰo məzəŋ	1
+kaɾen ni	2
+kaɾen ni daɾekson	1
+kaɾen ni dairekson	1
+kaɾen kɯ	1
+kaɾen kɯ zəŋɡa	1
+kaɾen bohenna	1
+kaɾen bohenna maulaba	1
+kaɾen sula	1
+kaɾen sula aizen	1
+kaɾen za	1
+kaɾen za moblib	1
+kaɾen həŋa	1
+kaɾen həŋa nei	1
+kaɾen mohidən	1
+kaɾen mohidən </s>	1
+kaɾen nouə	1
+kaɾen nouə </s>	1
+kaɾen moŋunamamuzinatʰə	1
+kaɾen moŋunamamuzinatʰə muna	1
+kaɾen mənse	1
+kaɾen mənse ɾeŋen	1
+kaɾen na	1
+kaɾen na buhi	1
+kaɾen bəhi	1
+kaɾen bəhi nəzəŋ	1
+kaɾen əɾədəŋa	1
+kaɾen əɾədəŋa moblib	1
+besa	1
+besa zəŋ	1
+besa zəŋ aɾni	1
+munizəŋ	1
+munizəŋ volmitaɾ	1
+munizəŋ volmitaɾ konaikʰəlaŋɡən	1
+dihun	2
+dihun da	1
+dihun da kusno	1
+dihun benimo	1
+dihun benimo kʰətʰai	1
+da	43
+da piɔhai	1
+da piɔhai niŋtʰənona	1
+da mu	1
+da mu zəŋga	1
+da nətʰəŋmona	1
+da nətʰəŋmona biohai	1
+da </s>	1
+da simbol	1
+da simbol azaʋai	1
+da nəŋtʰəmənə	1
+da nəŋtʰəmənə bəpʰəɾ	1
+da zeblaŋhi	1
+da zeblaŋhi mili	1
+da be	2
+da be twel	1
+da be moŋsi	1
+da nəŋtʰəŋmənə	1
+da nəŋtʰəŋmənə bekʰu	1
+da gəɹli	1
+da gəɹli ɹa	1
+da ɡiəmakʰələmnə	1
+da ɡiəmakʰələmnə tʰakuni	1
+da moblib	4
+da moblib dahaɾ	2
+da moblib tʰakʰatʰi	1
+da moblib tʰahatʰi	1
+da elənəzəŋ	1
+da elənəzəŋ noɹmeli	1
+da mitʰaŋnifai	1
+da mitʰaŋnifai lanazadaŋ	1
+da entʰaŋ	1
+da entʰaŋ mənse	1
+da pʰoɾesə	1
+da pʰoɾesə nəŋtʰəmənə	1
+da ɡəmi	1
+da ɡəmi ʋe	1
+da kusno	1
+da kusno masno	1
+da saʋaɾan	1
+da saʋaɾan nəŋtʰəmona	1
+da besən	1
+da besən kɔntai	1
+da nəŋtʰəməna	2
+da nəŋtʰəməna ohai	1
+da nəŋtʰəməna sauɾaomni	1
+da besauʋaɾi	1
+da besauʋaɾi kʰizə	1
+da zəŋɡi	1
+da zəŋɡi nəkʰuɹkʰuɹəu	1
+da zəŋ	1
+da zəŋ ilektrik	1
+da beʋaiti	1
+da beʋaiti hanti	1
+da beo	1
+da beo ɾoa	1
+da biohai	2
+da biohai </s>	1
+da biohai volta	1
+da omni	1
+da omni kʰantʰi	1
+da bidibouna	1
+da bidibouna </s>	1
+da bepʰəɾauba	1
+da bepʰəɾauba maɾə	1
+da vezewai	1
+da vezewai posison	1
+da laotʰaiɡən	1
+da laotʰaiɡən mobla	1
+da pastʰaona	1
+da pastʰaona mamaneŋa	1
+da menifɾai	1
+da menifɾai ʋelogoɾu	1
+da aŋnatʰe	1
+da aŋnatʰe munə	1
+da ʋekʰu	1
+da ʋekʰu simbol	1
+da bikʰəŋ	1
+da bikʰəŋ məsei	1
+bapʰius	1
+bapʰius tʰaŋna	1
+bapʰius tʰaŋna ə	1
+ʋezəi	1
+ʋezəi si	1
+ʋezəi si tu	1
+nazəŋ	1
+nazəŋ so	1
+nazəŋ so nəŋtʰəməna	1
+bohaɡa	1
+bohaɡa oɾla	1
+bohaɡa oɾla be	1
+leʋnanə	1
+leʋnanə anahaɡan	1
+leʋnanə anahaɡan mənse	1
+fanəŋzə	1
+fanəŋzə moblib	1
+fanəŋzə moblib san	1
+asahalamnai	1
+asahalamnai menəpʰɾai	1
+asahalamnai menəpʰɾai aɾazəŋ	1
+esai	1
+esai sanɡa	1
+esai sanɡa zədəŋ	1
+bizao	1
+bizao gələzi	1
+bizao gələzi oŋo	1
+dəŋsə	1
+dəŋsə naikɾom	1
+dəŋsə naikɾom taɾni	1
+bepʰomolakʰala	1
+bepʰomolakʰala anei	1
+bepʰomolakʰala anei unnisauɾənəzəŋɡa	1
+tʰaŋ	1
+tʰaŋ nəŋtʰəmona	1
+tʰaŋ nəŋtʰəmona bioe	1
+necʰiŋ	1
+necʰiŋ ba	1
+necʰiŋ ba eks	1
+kʰuŋnazəda	1
+kʰuŋnazəda tʰahati	1
+kʰuŋnazəda tʰahati pʰəɾak	1
+niçʰam	1
+niçʰam </s>	1
+səman	4
+səman səman	2
+səman səman pʰaɾao	1
+səman səman inkezəɡanna	1
+səman pʰaɾao	1
+səman pʰaɾao inkizəŋɡon	1
+səman inkezəɡanna	1
+səman inkezəɡanna bekʰai	1
+məŋnai	1
+məŋnai zədəda	1
+məŋnai zədəda nəŋtʰəməna	1
+saŋgodi	1
+saŋgodi bahainai	1
+saŋgodi bahainai ze	1
+kʰuɾum	1
+kʰuɾum tʰahati	1
+kʰuɾum tʰahati pʰaɾami	1
+hoŋnamuda	1
+hoŋnamuda sali	1
+hoŋnamuda sali ekʰana	1
+eʋe	1
+eʋe uan	1
+eʋe uan kolomam	1
+kʰizəzəŋa	1
+kʰizəzəŋa </s>	1
+ɡoŋseni	2
+ɡoŋseni zekʰize	1
+ɡoŋseni zekʰize mənse	1
+ɡoŋseni zodi	1
+ɡoŋseni zodi baɾabeti	1
+saɾsabaɾ	1
+saɾsabaɾ laŋga	1
+saɾsabaɾ laŋga mekʰu	1
+menupʰɾai	2
+menupʰɾai lednamenanə	1
+menupʰɾai lednamenanə heŋtʰaia	1
+menupʰɾai nəŋtʰəmənə	1
+menupʰɾai nəŋtʰəmənə aɾabə	1
+nəŋtʰəɡəm	1
+nəŋtʰəɡəm menibəiɾəzəŋɡa	1
+nəŋtʰəɡəm menibəiɾəzəŋɡa ʋei	1
+pʰonazab	1
+pʰonazab </s>	1
+kanekʰlaoke	2
+kanekʰlaoke niŋəstaɾozəŋɡa	1
+kanekʰlaoke niŋəstaɾozəŋɡa kanekʰlaoke	1
+kanekʰlaoke </s>	1
+zinini	1
+zinini paɾpʰozəŋ	1
+zinini paɾpʰozəŋ nəŋtʰəməŋ	1
+ŋəŋtʰən	1
+ŋəŋtʰən mona	1
+ŋəŋtʰən mona nunə	1
+pʰaɾo	1
+pʰaɾo dʰatu	1
+pʰaɾo dʰatu pʰəɾə	1
+akʰi	1
+akʰi nazəŋnalan	1
+akʰi nazəŋnalan aɾazəŋsəbikʰo	1
+monisa	1
+monisa kʰənəzəi	1
+monisa kʰənəzəi zəʋai	1
+baɾkʰu	1
+baɾkʰu zəŋgə	1
+baɾkʰu zəŋgə nahahai	1
+ɾozəŋ	1
+ɾozəŋ intimezea	1
+ɾozəŋ intimezea so	1
+loŋa	1
+loŋa aɾəzodi	1
+loŋa aɾəzodi ɡoŋseni	1
+aiohai	1
+aiohai </s>	1
+zəŋga	26
+zəŋga oŋa	1
+zəŋga oŋa lasun	1
+zəŋga </s>	3
+zəŋga zeʋla	1
+zəŋga zeʋla saɾs	1
+zəŋga zahanave	1
+zəŋga zahanave sasea	1
+zəŋga naɾa	1
+zəŋga naɾa </s>	1
+zəŋga meizəŋga	1
+zəŋga meizəŋga johai	1
+zəŋga be	2
+zəŋga be kʰuliŋnai	1
+zəŋga be salea	1
+zəŋga haʋa	1
+zəŋga haʋa kʰobihəŋɡa	1
+zəŋga siksti	1
+zəŋga siksti dozizə	1
+zəŋga ai	1
+zəŋga ai ikual	1
+zəŋga ʋe	1
+zəŋga ʋe </s>	1
+zəŋga munsi	1
+zəŋga munsi nibei	1
+zəŋga ti	1
+zəŋga ti zə	1
+zəŋga ɾenigezizo	1
+zəŋga ɾenigezizo hona	1
+zəŋga mənsə	1
+zəŋga mənsə pʰoɾmula	1
+zəŋga meʋai	1
+zəŋga meʋai ninnae	1
+zəŋga ten	1
+zəŋga ten intu	1
+zəŋga mənse	1
+zəŋga mənse kʰoɾoni	1
+zəŋga beni	1
+zəŋga beni munipʰɾo	1
+zəŋga boɾla	1
+zəŋga boɾla mənse	1
+zəŋga beikʰis	1
+zəŋga beikʰis </s>	1
+zəŋga muntən	1
+zəŋga muntən tʰɾi	1
+zəŋga mənsəsəɾ	1
+zəŋga mənsəsəɾ saɾkit	1
+iz	2
+iz daiɾekli	1
+iz daiɾekli prəpoɾsənel	1
+iz </s>	1
+nəŋəŋmnəŋ	1
+nəŋəŋmnəŋ tebəl	1
+nəŋəŋmnəŋ tebəl ʋe	1
+kʰaikʰa	1
+kʰaikʰa kʰaiʋa	1
+kʰaikʰa kʰaiʋa suzin	1
+ʋe	22
+ʋe </s>	1
+ʋe saɾsaɾsi	1
+ʋe saɾsaɾsi sanə	1
+ʋe simbol	2
+ʋe simbol nəŋtʰəmona	1
+ʋe simbol zəŋ	1
+ʋe buŋkoɾola	1
+ʋe buŋkoɾola nətʰəŋmonalenade	1
+ʋe tʰioɾi	1
+ʋe tʰioɾi kʰəhəzəʋai	1
+ʋe fidam	1
+ʋe fidam </s>	1
+ʋe nimuaza	1
+ʋe nimuaza e	1
+ʋe kʰənkʰe	1
+ʋe kʰənkʰe zinini	1
+ʋe ʋidio	1
+ʋe ʋidio besepe	1
+ʋe nizəʋa	1
+ʋe nizəʋa anai	1
+ʋe menipʰɾai	2
+ʋe menipʰɾai leʋnanə	1
+ʋe menipʰɾai besi	1
+ʋe piksaɾə	2
+ʋe piksaɾə nədəŋməna	1
+ʋe piksaɾə nənəməna	1
+ʋe pʰoɾmula	1
+ʋe pʰoɾmula kʰə	1
+ʋe nəŋtʰəŋməna	1
+ʋe nəŋtʰəŋməna biohai	1
+ʋe sasi	1
+ʋe sasi ittalini	1
+ʋe dazəŋ	1
+ʋe dazəŋ mua	1
+ʋe voltmitaɾ	1
+ʋe voltmitaɾ niɡezizəŋ	1
+ʋe kʰalamnan	1
+ʋe kʰalamnan la	1
+ʋe asaido	1
+ʋe asaido tʰəŋo	1
+saio	1
+saio sənəgən	1
+saio sənəgən mənnə	1
+kʰuɾiɾnado	1
+kʰuɾiɾnado ʋenekʰainə	1
+kʰuɾiɾnado ʋenekʰainə inizamapʰu	1
+ozo	1
+ozo seken	1
+ozo seken nənnaizə	1
+kɔntʰai	1
+kɔntʰai </s>	1
+zaha	1
+zaha gɾapʰə	1
+zaha gɾapʰə eɡzampəl	1
+tono	1
+tono </s>	1
+mamonamon	1
+mamonamon kiu	1
+mamonamon kiu bai	1
+həŋa	1
+həŋa nei	1
+həŋa nei bɔioi	1
+aɾni	2
+aɾni mənkʰəsiəŋ	1
+aɾni mənkʰəsiəŋ pʰukʰulam	1
+aɾni bekʰu	1
+aɾni bekʰu zəŋɡa	1
+volmitaɾ	1
+volmitaɾ konaikʰəlaŋɡən	1
+volmitaɾ konaikʰəlaŋɡən maməneizəŋ	1
+kusno	1
+kusno masno	1
+kusno masno əknə	1
+kuntʰeini	1
+kuntʰeini ɡiziɹo	1
+kuntʰeini ɡiziɹo makʰɾazino	1
+tʰaŋna	1
+tʰaŋna ə	1
+tʰaŋna ə ʋin	1
+inʋəɾs	1
+inʋəɾs saɾla	1
+inʋəɾs saɾla mainas	1
+nəŋtʰəməna	21
+nəŋtʰəməna kolomənə	1
+nəŋtʰəməna kolomənə aɾa	1
+nəŋtʰəməna malabononaŋa	1
+nəŋtʰəməna malabononaŋa </s>	1
+nəŋtʰəməna kelkuleson	1
+nəŋtʰəməna kelkuleson kʰənəŋnənau	1
+nəŋtʰəməna ohai	1
+nəŋtʰəməna ohai nəŋəŋmnəŋ	1
+nəŋtʰəməna ʋesolaki	1
+nəŋtʰəməna ʋesolaki nəza	1
+nəŋtʰəməna be	1
+nəŋtʰəməna be osadni	1
+nəŋtʰəməna mamuzi	1
+nəŋtʰəməna mamuzi dəm	1
+nəŋtʰəməna ese	1
+nəŋtʰəməna ese bonpʰuɾluhunaiɡidəŋ	1
+nəŋtʰəməna beʋaiki	1
+nəŋtʰəməna beʋaiki akʰi	1
+nəŋtʰəməna ʋe	1
+nəŋtʰəməna ʋe piksaɾə	1
+nəŋtʰəməna zeʋai	1
+nəŋtʰəməna zeʋai </s>	1
+nəŋtʰəməna beʋai	2
+nəŋtʰəməna beʋai dibuŋ	1
+nəŋtʰəməna beʋai linna	1
+nəŋtʰəməna bemunidi	1
+nəŋtʰəməna bemunidi pʰinəsə	1
+nəŋtʰəməna zə	1
+nəŋtʰəməna zə sauɾaiɡəm	1
+nəŋtʰəməna zəŋ	1
+nəŋtʰəməna zəŋ ʋekʰəmənəŋ	1
+nəŋtʰəməna ʋekʰukʰuso	1
+nəŋtʰəməna ʋekʰukʰuso laki	1
+nəŋtʰəməna biohai	1
+nəŋtʰəməna biohai əɾa	1
+nəŋtʰəməna sauɾaomni	1
+nəŋtʰəməna sauɾaomni kʰantʰi	1
+nəŋtʰəməna kiobekʰo	1
+nəŋtʰəməna kiobekʰo buzi	1
+nəŋtʰəməna məme	1
+nəŋtʰəməna məme aɡen	1
+koa	1
+koa zəŋɡa	1
+koa zəŋɡa ɾesistens	1
+anahaɡan	1
+anahaɡan mənse	1
+anahaɡan mənse moblib	1
+saʋaɾan	1
+saʋaɾan nəŋtʰəmona	1
+saʋaɾan nəŋtʰəmona oldana	1
+menəpʰɾai	2
+menəpʰɾai aɾazəŋ	1
+menəpʰɾai aɾazəŋ mobaudusomantʰai	1
+menəpʰɾai aɾə	1
+menəpʰɾai aɾə səŋ	1
+sanɡa	1
+sanɡa zədəŋ	1
+sanɡa zədəŋ ʋolt	1
+gələzi	1
+gələzi oŋo	1
+gələzi oŋo </s>	1
+naikɾom	1
+naikɾom taɾni	1
+naikɾom taɾni tʰakʰai	1
+anei	1
+anei unnisauɾənəzəŋɡa	1
+anei unnisauɾənəzəŋɡa be	1
+bioe	1
+bioe ese	1
+bioe ese ganəŋtʰənəzə	1
+eksis	2
+eksis tʰəŋbiohai	1
+eksis tʰəŋbiohai aitʰəŋ	1
+eksis zə	1
+eksis zə tʰaɡən	1
+pʰəɾak	1
+pʰəɾak buŋnai	1
+pʰəɾak buŋnai zədəŋ	1
+menifai	1
+menifai lina	1
+menifai lina anaga	1
+pʰaɾao	1
+pʰaɾao inkizəŋɡon	1
+pʰaɾao inkizəŋɡon tʰametʋa	1
+zədəda	1
+zədəda nəŋtʰəməna	1
+zədəda nəŋtʰəməna beʋai	1
+bahainai	1
+bahainai ze	1
+bahainai ze zəŋ	1
+pʰaɾami	1
+pʰaɾami ɡezəni	1
+pʰaɾami ɡezəni ɡenunə	1
+ekʰana	1
+ekʰana sali	1
+ekʰana sali moblib	1
+uan	24
+uan empieɾ	2
+uan empieɾ obla	1
+uan empieɾ </s>	1
+uan </s>	3
+uan poin	1
+uan poin siks	1
+uan maikɾo	3
+uan maikɾo empijaɾə	2
+uan maikɾo empijaɾ	1
+uan om	4
+uan om sapos	1
+uan om tʰəŋɡa	1
+uan om mənnə	1
+uan om ikual	1
+uan empijaɾ	1
+uan empijaɾ zəŋ	1
+uan kolomam	1
+uan kolomam ʋesean	1
+uan ekui	1
+uan ekui sunni	1
+uan tebəl	1
+uan tebəl aɾə	1
+uan volt	2
+uan volt muŋnizei	1
+uan volt divaid	1
+uan bo	1
+uan bo ləɡən	1
+uan aɾə	1
+uan aɾə biohai	1
+uan zəŋɡa	1
+uan zəŋɡa nə	1
+uan bai	1
+uan bai e	1
+uan maɾk	1
+uan maɾk saga	1
+diaɡɾam	1
+diaɡɾam baseŋ	1
+diaɡɾam baseŋ kontʰai	1
+zekʰize	1
+zekʰize mənse	1
+zekʰize mənse bindesim	1
+laŋga	1
+laŋga mekʰu	1
+laŋga mekʰu zəŋga	1
+lednamenanə	1
+lednamenanə heŋtʰaia	1
+lednamenanə heŋtʰaia lea	1
+menibəiɾəzəŋɡa	1
+menibəiɾəzəŋɡa ʋei	1
+menibəiɾəzəŋɡa ʋei ʋidio	1
+tʰəŋɾa	1
+tʰəŋɾa swis	1
+tʰəŋɾa swis zubuŋ	1
+niŋəstaɾozəŋɡa	1
+niŋəstaɾozəŋɡa kanekʰlaoke	1
+niŋəstaɾozəŋɡa kanekʰlaoke </s>	1
+paɾpʰozəŋ	1
+paɾpʰozəŋ nəŋtʰəməŋ	1
+paɾpʰozəŋ nəŋtʰəməŋ səuɾaigən	1
+nunə	1
+nunə monai	1
+nunə monai zada	1
+dʰatu	1
+dʰatu pʰəɾə	1
+dʰatu pʰəɾə ma	1
+nazəŋnalan	1
+nazəŋnalan aɾazəŋsəbikʰo	1
+nazəŋnalan aɾazəŋsəbikʰo ʋasʋiskʰo	1
+kʰənəzəi	1
+kʰənəzəi zəʋai	1
+kʰənəzəi zəʋai benia	1
+zəŋgə	1
+zəŋgə nahahai	1
+zəŋgə nahahai noha	1
+intimezea	1
+intimezea so	1
+intimezea so ikuesən	1
+aɾəzodi	1
+aɾəzodi ɡoŋseni	1
+aɾəzodi ɡoŋseni zodi	1
+ɡuʋobdaŋkʰ	1
+ɡuʋobdaŋkʰ asaŋ	1
+ɡuʋobdaŋkʰ asaŋ keta	1
+munsi	2
+munsi nibei	1
+munsi nibei səŋkuntʰei	1
+munsi mo	1
+munsi mo fəɾə	1
+prəpoɾsənel	1
+prəpoɾsənel el	1
+prəpoɾsənel el aɾə	1
+tebəl	2
+tebəl ʋe	1
+tebəl ʋe nizəʋa	1
+tebəl aɾə	1
+tebəl aɾə biohai	1
+kʰaiʋa	1
+kʰaiʋa suzin	1
+kʰaiʋa suzin pʰəɾa	1
+ʋidio	6
+ʋidio </s>	1
+ʋidio besepe	1
+ʋidio besepe nidibi	1
+ʋidio negizəzəŋ	1
+ʋidio negizəzəŋ səuɾəi	1
+ʋidio bo	1
+ʋidio bo kʰola	1
+ʋidio ʋəsəunesə	1
+ʋidio ʋəsəunesə </s>	1
+ʋidio salamna	1
+ʋidio salamna </s>	1
+sənəgən	1
+sənəgən mənnə	1
+sənəgən mənnə menpʰɾai	1
+ʋenekʰainə	1
+ʋenekʰainə inizamapʰu	1
+ʋenekʰainə inizamapʰu zəŋɡa	1
+seken	2
+seken nənnaizə	1
+seken nənnaizə aɾə	1
+seken aɾa	1
+seken aɾa ziptʰəŋə	1
+besən	1
+besən kɔntai	1
+besən kɔntai kɔ	1
+gɾapʰə	1
+gɾapʰə eɡzampəl	1
+gɾapʰə eɡzampəl olgʰainə	1
+volt	4
+volt tʰahatʰi	1
+volt tʰahatʰi faɾaɡ	1
+volt aɾa	1
+volt aɾa biohai	1
+volt muŋnizei	1
+volt muŋnizei gezesei	1
+volt divaid	1
+volt divaid bai	1
+kiu	11
+kiu </s>	1
+kiu ʋezəʋai	1
+kiu ʋezəʋai ʋi	1
+kiu da	1
+kiu da nəŋtʰəmənə	1
+kiu manakʰai	1
+kiu manakʰai tu	1
+kiu seʋai	1
+kiu seʋai eks	1
+kiu ikual	2
+kiu ikual tu	2
+kiu bai	3
+kiu bai aitin	1
+kiu bai ti	2
+kiu linnə	1
+kiu linnə həŋna	1
+nei	1
+nei bɔioi	1
+nei bɔioi mitçʰei	1
+mənkʰəsiəŋ	1
+mənkʰəsiəŋ pʰukʰulam	1
+mənkʰəsiəŋ pʰukʰulam </s>	1
+konaikʰəlaŋɡən	1
+konaikʰəlaŋɡən maməneizəŋ	1
+konaikʰəlaŋɡən maməneizəŋ imitaɾ	1
+masno	1
+masno əknə	1
+masno əknə giʋeon	1
+ɡiziɹo	1
+ɡiziɹo makʰɾazino	1
+ɡiziɹo makʰɾazino </s>	1
+ə	1
+ə ʋin	1
+ə ʋin tʰəŋna	1
+saɾla	1
+saɾla mainas	1
+saɾla mainas uan	1
+zeʋai	2
+zeʋai </s>	1
+zeʋai zəŋ	1
+zeʋai zəŋ kulumbə	1
+heŋtʰaŋanainə	1
+heŋtʰaŋanainə issi	1
+heŋtʰaŋanainə issi zəŋɡa	1
+dedenɡɾani	1
+dedenɡɾani pʰaɾne	1
+dedenɡɾani pʰaɾne kʰəɾni	1
+oldana	1
+oldana nukʰəiʋə	1
+oldana nukʰəiʋə </s>	1
+mobaudusomantʰai	1
+mobaudusomantʰai zini	1
+mobaudusomantʰai zini dusunibeo	1
+ʋolt	2
+ʋolt zəŋɡa	1
+ʋolt zəŋɡa tʰahati	1
+ʋolt buŋnəi	1
+ʋolt buŋnəi ze	1
+oŋo	1
+oŋo </s>	1
+taɾni	3
+taɾni tʰakʰai	1
+taɾni tʰakʰai ʋi	1
+taɾni geze	1
+taɾni geze tʰaŋnai	1
+taɾni pʰaɾne	1
+taɾni pʰaɾne kʰoɾon	1
+unnisauɾənəzəŋɡa	1
+unnisauɾənəzəŋɡa be	1
+unnisauɾənəzəŋɡa be ɾilizioçʰəŋnai	1
+ganəŋtʰənəzə	1
+ganəŋtʰənəzə no	1
+ganəŋtʰənəzə no nəŋtʰəmona	1
+tʰəŋbiohai	1
+tʰəŋbiohai aitʰəŋ	1
+tʰəŋbiohai aitʰəŋ kaɾennə	1
+buŋnai	5
+buŋnai zədəŋ	1
+buŋnai zədəŋ na	1
+buŋnai zə	1
+buŋnai zə </s>	1
+buŋnai zədə	2
+buŋnai zədə ʋi	1
+buŋnai zədə bekʰu	1
+buŋnai zəi	1
+buŋnai zəi be	1
+lina	3
+lina anaga	1
+lina anaga se	1
+lina naia	1
+lina naia aɾa	1
+lina </s>	1
+inkizəŋɡon	1
+inkizəŋɡon tʰametʋa	1
+inkizəŋɡon tʰametʋa ɾia	1
+beʋai	6
+beʋai dibuŋ	1
+beʋai dibuŋ puɾluhuli	1
+beʋai beʋai	1
+beʋai beʋai kʰələmnəi	1
+beʋai linna	1
+beʋai linna simbol	1
+beʋai tie	1
+beʋai tie moblib	1
+beʋai kʰələmnəi	1
+beʋai kʰələmnəi mənse	1
+beʋai dinəŋtʰəzə	1
+beʋai dinəŋtʰəzə ʋekʰu	1
+kʰuɾmanə	1
+kʰuɾmanə hə	1
+kʰuɾmanə hə masəŋ	1
+ɡezəni	1
+ɡezəni ɡenunə	1
+ɡezəni ɡenunə mən	1
+nəŋtʰəmətʋa	1
+nəŋtʰəmətʋa boa	1
+nəŋtʰəmətʋa boa mənse	1
+kolomam	1
+kolomam ʋesean	1
+kolomam ʋesean elektɾo	1
+baseŋ	1
+baseŋ kontʰai	1
+baseŋ kontʰai zəŋa	1
+bindesim	1
+bindesim sima	1
+bindesim sima ɡai	1
+mekʰu	1
+mekʰu zəŋga	1
+mekʰu zəŋga ti	1
+heŋtʰaia	1
+heŋtʰaia lea	1
+heŋtʰaia lea aɾne	1
+ʋei	1
+ʋei ʋidio	1
+ʋei ʋidio negizəzəŋ	1
+zubuŋ	1
+zubuŋ nai	1
+zubuŋ nai zəŋ	1
+siŋknekʰo	1
+siŋknekʰo laba	1
+siŋknekʰo laba səŋa	1
+nəŋtʰəməŋ	1
+nəŋtʰəməŋ səuɾaigən	1
+nəŋtʰəməŋ səuɾaigən biohai	1
+monai	1
+monai zada	1
+monai zada </s>	1
+zabod	1
+zabod kʰom	1
+zabod kʰom ruztʰaijaɾi	1
+aɾazəŋsəbikʰo	1
+aɾazəŋsəbikʰo ʋasʋiskʰo	1
+aɾazəŋsəbikʰo ʋasʋiskʰo zəblaikʰio	1
+zəʋai	2
+zəʋai benia	1
+zəʋai benia saɾʋəkʰu	1
+zəʋai monisə	1
+zəʋai monisə septaɾ	1
+nahahai	1
+nahahai noha	1
+nahahai noha </s>	1
+ikuesən	1
+ikuesən nəŋtʰəŋməna	1
+ikuesən nəŋtʰəŋməna ɡeso	1
+zodi	3
+zodi baɾabeti	1
+zodi baɾabeti tʰəiʋazəŋ	1
+zodi konse	1
+zodi konse zodi	1
+zodi zoveleona	1
+zodi zoveleona gozaibla	1
+asaŋ	1
+asaŋ keta	1
+asaŋ keta dot	1
+nibei	1
+nibei səŋkuntʰei	1
+nibei səŋkuntʰei nizizə	1
+el	2
+el aɾə	1
+el aɾə ma	1
+el bai	1
+el bai e	1
+nizəʋa	1
+nizəʋa anai	1
+nizəʋa anai tuelf	1
+suzin	1
+suzin pʰəɾa	1
+suzin pʰəɾa pʰəɾəi	1
+besepe	1
+besepe nidibi	1
+besepe nidibi par	1
+arə	1
+arə nambəɾ	1
+arə nambəɾ tʰɾi	1
+inizamapʰu	1
+inizamapʰu zəŋɡa	1
+inizamapʰu zəŋɡa tu	1
+nənnaizə	1
+nənnaizə aɾə	1
+nənnaizə aɾə zə	1
+kɔntai	1
+kɔntai kɔ	1
+kɔntai kɔ kʰələm	1
+eɡzampəl	1
+eɡzampəl olgʰainə	1
+eɡzampəl olgʰainə nəŋtʰəŋmənə	1
+faɾaɡ	1
+faɾaɡ tʰanai	1
+faɾaɡ tʰanai monne	1
+foɾmula	2
+foɾmula gazəŋa	1
+foɾmula gazəŋa eus	1
+foɾmula nəŋə	1
+foɾmula nəŋə bezəʋai	1
+bɔioi	1
+bɔioi mitçʰei	1
+bɔioi mitçʰei </s>	1
+pʰukʰulam	1
+pʰukʰulam </s>	1
+maməneizəŋ	1
+maməneizəŋ imitaɾ	1
+maməneizəŋ imitaɾ kamekʰlaŋən	1
+əknə	1
+əknə giʋeon	1
+əknə giʋeon buze	1
+makʰɾazino	1
+makʰɾazino </s>	1
+ʋin	1
+ʋin tʰəŋna	1
+ʋin tʰəŋna zəŋɡa	1
+nə	2
+nə zəʋa	1
+nə zəʋa nəŋtʰəmənə	1
+nə be	1
+nə be somman	1
+gənənətʰəkʰəlaŋa	1
+gənənətʰəkʰəlaŋa buzi	1
+gənənətʰəkʰəlaŋa buzi muniɡo	1
+issi	1
+issi zəŋɡa	1
+issi zəŋɡa beniza	1
+kʰəɾni	1
+kʰəɾni pʰɾai	1
+kʰəɾni pʰɾai menpʰɾai	1
+nukʰəiʋə	1
+nukʰəiʋə </s>	1
+zini	1
+zini dusunibeo	1
+zini dusunibeo mənse	1
+pʰəɾəŋa	1
+pʰəɾəŋa səŋ	1
+pʰəɾəŋa səŋ məsəŋ	1
+mesaŋ	1
+mesaŋ tʰaie	1
+mesaŋ tʰaie uan	1
+tʰakʰai	1
+tʰakʰai ʋi	1
+tʰakʰai ʋi bosauʋaɾi	1
+ɾilizioçʰəŋnai	1
+ɾilizioçʰəŋnai mənəsə	1
+ɾilizioçʰəŋnai mənəsə </s>	1
+no	2
+no nəŋtʰəmona	1
+no nəŋtʰəmona bizəʋo	1
+no soŋ	1
+no soŋ honaidoŋ	1
+aitʰəŋ	1
+aitʰəŋ kaɾennə	1
+aitʰəŋ kaɾennə tʰəɡən	1
+kʰoɾəisə	1
+kʰoɾəisə nəŋtʰəməna	1
+kʰoɾəisə nəŋtʰəməna bemunidi	1
+anaga	1
+anaga se	1
+anaga se empijaɾ	1
+ɾia	1
+ɾia istoa	1
+ɾia istoa impizəɡən	1
+puɾluhuli	1
+puɾluhuli nəməi	1
+puɾluhuli nəməi hənae	1
+hə	1
+hə masəŋ	1
+hə masəŋ gunibo	1
+ɡenunə	1
+ɡenunə mən	1
+ɡenunə mən </s>	1
+distens	1
+distens si	1
+distens si himalaiɡe	1
+ʋesean	1
+ʋesean elektɾo	1
+ʋesean elektɾo montʰai	1
+akʰia	1
+akʰia ʋepʰupʰuzəŋa	1
+akʰia ʋepʰupʰuzəŋa naŋɡuzaieɾ	1
+sima	1
+sima ɡai	1
+sima ɡai ɡozannipʰɾai	1
+ti	5
+ti be	1
+ti be ai	1
+ti ni	1
+ti ni fɾai	1
+ti zə	1
+ti zə diksei	1
+ti bekʰu	1
+ti bekʰu səŋɡa	1
+ti mane	1
+ti mane </s>	1
+lea	1
+lea aɾne	1
+lea aɾne heŋtʰa	1
+negizəzəŋ	1
+negizəzəŋ səuɾəi	1
+negizəzəŋ səuɾəi sonaɡəbə	1
+bipʰai	1
+bipʰai zəbəŋ	1
+bipʰai zəbəŋ eni	1
+laba	1
+laba səŋa	1
+laba səŋa ʋisatʰim	1
+səuɾaigən	2
+səuɾaigən biohai	1
+səuɾaigən biohai zəŋtʰahatipʰəɾəŋ	1
+səuɾaigən tʰahatipʰəɾə	1
+səuɾaigən tʰahatipʰəɾə aɾə	1
+zada	2
+zada </s>	1
+zada sek	1
+zada sek sekeno	1
+ruztʰaijaɾi	1
+ruztʰaijaɾi heŋtʰa	1
+ruztʰaijaɾi heŋtʰa zuɾupsa	1
+ʋasʋiskʰo	1
+ʋasʋiskʰo zəblaikʰio	1
+ʋasʋiskʰo zəblaikʰio nəŋ	1
+benia	1
+benia saɾʋəkʰu	1
+benia saɾʋəkʰu sainsə	1
+noha	1
+noha </s>	1
+ɡeso	1
+ɡeso lakʰi	1
+ɡeso lakʰi naza	1
+baɾabeti	1
+baɾabeti tʰəiʋazəŋ	1
+baɾabeti tʰəiʋazəŋ beʋaiti	1
+keta	1
+keta dot	1
+keta dot kom	1
+səŋkuntʰei	1
+səŋkuntʰei nizizə	1
+səŋkuntʰei nizizə </s>	1
+invəɾsli	1
+invəɾsli pɾəpoɾsənel	1
+invəɾsli pɾəpoɾsənel tu	1
+anai	2
+anai tuelf	1
+anai tuelf poin	1
+anai tʰatuaɾi	1
+anai tʰatuaɾi tʰaɾni	1
+pʰəɾa	1
+pʰəɾa pʰəɾəi	1
+pʰəɾa pʰəɾəi sə	1
+nidibi	1
+nidibi par	1
+nidibi par hoise	1
+nambəɾ	1
+nambəɾ tʰɾi	1
+nambəɾ tʰɾi beni	1
+kuɾu	1
+kuɾu saɾs	1
+kuɾu saɾs aɾazətʰəzaŋa	1
+ekui	1
+ekui sunni	1
+ekui sunni efɾaizəŋ	1
+kɔ	1
+kɔ kʰələm	1
+kɔ kʰələm nuŋla	1
+olgʰainə	1
+olgʰainə nəŋtʰəŋmənə	1
+olgʰainə nəŋtʰəŋmənə bekʰu	1
+bideni	1
+bideni ɡezeɾzəŋ	1
+bideni ɡezeɾzəŋ tu	1
+gazəŋa	1
+gazəŋa eus	1
+gazəŋa eus kʰalamna	1
+mitçʰei	1
+mitçʰei </s>	1
+nəio	1
+nəio uan	1
+nəio uan volt	1
+kamekʰlaŋən	1
+kamekʰlaŋən ha	1
+kamekʰlaŋən ha nəŋtʰəməna	1
+giʋeon	1
+giʋeon buze	1
+giʋeon buze nanəlagə	1
+buŋgo	1
+buŋgo dani	1
+buŋgo dani </s>	1
+tʰəŋna	1
+tʰəŋna zəŋɡa	1
+tʰəŋna zəŋɡa ɾeʋaiti	1
+zəʋa	1
+zəʋa nəŋtʰəmənə	1
+zəʋa nəŋtʰəmənə seʋa	1
+muniɡo	1
+muniɡo səŋlən	1
+muniɡo səŋlən zaʋa	1
+beniza	1
+beniza </s>	1
+menpʰɾai	2
+menpʰɾai stakʰələmnənə	1
+menpʰɾai stakʰələmnənə nəŋtʰəmənə	1
+menpʰɾai arə	1
+menpʰɾai arə nambəɾ	1
+besauʋaɾi	1
+besauʋaɾi kʰizə	1
+besauʋaɾi kʰizə kʰənəŋsə	1
+dusunibeo	1
+dusunibeo mənse	1
+dusunibeo mənse tʰiduŋtʰeo	1
+məsəŋ	1
+məsəŋ pʰuɾməi	1
+məsəŋ pʰuɾməi eze	1
+tʰaie	1
+tʰaie uan	1
+tʰaie uan maikɾo	1
+bosauʋaɾi	2
+bosauʋaɾi gətʰəŋ	1
+bosauʋaɾi gətʰəŋ haŋkʰo	1
+bosauʋaɾi ditʰiadi	1
+bosauʋaɾi ditʰiadi danse	1
+mənəsə	1
+mənəsə </s>	1
+bizəʋo	1
+bizəʋo bio	1
+bizəʋo bio </s>	1
+kaɾennə	1
+kaɾennə tʰəɡən	1
+kaɾennə tʰəɡən aɾə	1
+bemunidi	1
+bemunidi pʰinəsə	1
+bemunidi pʰinəsə lə	1
+sek	2
+sek sekeno	1
+sek sekeno sek	1
+sek kulum	1
+sek kulum saz	1
+istoa	1
+istoa impizəɡən	1
+istoa impizəɡən eʋa	1
+nəməi	1
+nəməi hənae	1
+nəməi hənae </s>	1
+masəŋ	1
+masəŋ gunibo	1
+masəŋ gunibo haigən	1
+mən	1
+mən </s>	1
+himalaiɡe	1
+himalaiɡe beha	1
+himalaiɡe beha buŋa	1
+elektɾo	1
+elektɾo montʰai	1
+elektɾo montʰai </s>	1
+ʋepʰupʰuzəŋa	1
+ʋepʰupʰuzəŋa naŋɡuzaieɾ	1
+ʋepʰupʰuzəŋa naŋɡuzaieɾ so	1
+ɡai	1
+ɡai ɡozannipʰɾai	1
+ɡai ɡozannipʰɾai mənse	1
+zə	13
+zə iva	1
+zə iva ikual	1
+zə </s>	1
+zə ziɾo	1
+zə ziɾo poin	1
+zə sauʋaɾizəŋ	1
+zə sauʋaɾizəŋ zeikizəŋ	1
+zə sauɾaiɡəm	1
+zə sauɾaiɡəm </s>	1
+zə omna	1
+zə omna ʋezəi	1
+zə diksei	1
+zə diksei zaida	1
+zə tʰaɡən	1
+zə tʰaɡən tʰaɾ	1
+zə monse	1
+zə monse dedenɡani	1
+zə twelf	1
+zə twelf poin	1
+zə bekʰuzəbla	1
+zə bekʰuzəbla osəŋ	1
+zə seʋen	1
+zə seʋen nambaɾə	1
+zə pʰaɾənai	1
+zə pʰaɾənai pʰoɾakʰəi	1
+aɾne	1
+aɾne heŋtʰa	1
+aɾne heŋtʰa tʰametʋa	1
+səuɾəi	1
+səuɾəi sonaɡəbə	1
+səuɾəi sonaɡəbə ʋidio	1
+zəbəŋ	1
+zəbəŋ eni	1
+zəbəŋ eni savaɾi	1
+səŋa	1
+səŋa ʋisatʰim	1
+səŋa ʋisatʰim laʋədə	1
+zəŋtʰahatipʰəɾəŋ	1
+zəŋtʰahatipʰəɾəŋ kibaizəŋ	1
+zəŋtʰahatipʰəɾəŋ kibaizəŋ səuɾaigən	1
+aɾa	27
+aɾa </s>	3
+aɾa maikɾo	1
+aɾa maikɾo empijaɾə	1
+aɾa simbol	1
+aɾa simbol kʰolana	1
+aɾa be	1
+aɾa be nəŋtʰənmə	1
+aɾa betaɾtozəŋɡa	1
+aɾa betaɾtozəŋɡa buŋɡo	1
+aɾa maulaoasənən	1
+aɾa maulaoasənən se	1
+aɾa tʰahati	2
+aɾa tʰahati pʰaɾakni	2
+aɾa nəŋtʰəməna	1
+aɾa nəŋtʰəməna malabononaŋa	1
+aɾa bipʰai	1
+aɾa bipʰai zəbəŋ	1
+aɾa mesaŋ	1
+aɾa mesaŋ tʰaie	1
+aɾa zeblanikʰiŋ	1
+aɾa zeblanikʰiŋ munse	1
+aɾa biohai	2
+aɾa biohai nəŋtʰəmona	1
+aɾa biohai </s>	1
+aɾa aɾçʰəcʰiŋ	1
+aɾa aɾçʰəcʰiŋ </s>	1
+aɾa ɾiplai	1
+aɾa ɾiplai nəzə	1
+aɾa bekʰlukʰuzə	1
+aɾa bekʰlukʰuzə ti	1
+aɾa voltmitaɾ	1
+aɾa voltmitaɾ zaʋai	1
+aɾa kaɾeksən	1
+aɾa kaɾeksən kʰalamnaliŋ	1
+aɾa zabai	1
+aɾa zabai entaɾə	1
+aɾa ziptʰəŋə	1
+aɾa ziptʰəŋə zəŋga	1
+aɾa meniuɾ	1
+aɾa meniuɾ ʋeu	1
+aɾa makʰəzəzəŋ	1
+aɾa makʰəzəzəŋ piksaɾ	1
+aɾa habanə	2
+aɾa habanə zunzei	2
+zuɾupsa	1
+zuɾupsa ten	1
+zuɾupsa ten tu	1
+zəblaikʰio	1
+zəblaikʰio nəŋ	1
+zəblaikʰio nəŋ nənəŋzae	1
+saɾʋəkʰu	1
+saɾʋəkʰu sainsə	1
+saɾʋəkʰu sainsə kʰəʋai	1
+mena	1
+mena ene	1
+mena ene betɾi	1
+naza	2
+naza da	1
+naza da beo	1
+naza aɾə	1
+naza aɾə beduzədə	1
+tʰəiʋazəŋ	1
+tʰəiʋazəŋ beʋaiti	1
+tʰəiʋazəŋ beʋaiti sazəinezəi	1
+dot	1
+dot kom	1
+dot kom bekʰa	1
+nizizə	1
+nizizə </s>	1
+pɾəpoɾsənel	1
+pɾəpoɾsənel tu	1
+pɾəpoɾsənel tu uan	1
+gi	1
+gi nəŋtʰənməna	1
+gi nəŋtʰənməna goŋse	1
+pʰəɾəi	1
+pʰəɾəi sə	1
+pʰəɾəi sə baə	1
+par	1
+par hoise	1
+par hoise meŋu	1
+muapʰɾai	1
+muapʰɾai akʰutʰaini	1
+muapʰɾai akʰutʰaini seob	1
+aɾazətʰəzaŋa	1
+aɾazətʰəzaŋa </s>	1
+sunni	1
+sunni efɾaizəŋ	1
+sunni efɾaizəŋ manəzəŋ	1
+kʰələm	1
+kʰələm nuŋla	1
+kʰələm nuŋla </s>	1
+ɾəsə	2
+ɾəsə lakin	1
+ɾəsə lakin nazə	1
+ɾəsə moblib	1
+ɾəsə moblib bi	1
+ɡezeɾzəŋ	1
+ɡezeɾzəŋ tu	1
+ɡezeɾzəŋ tu kolom	1
+eus	1
+eus kʰalamna	1
+eus kʰalamna nəzəŋ	1
+zəŋɡi	1
+zəŋɡi nəkʰuɹkʰuɹəu	1
+zəŋɡi nəkʰuɹkʰuɹəu baɡamissəɹəu	1
+muŋnizei	1
+muŋnizei gezesei	1
+muŋnizei gezesei bai	1
+ha	1
+ha nəŋtʰəməna	1
+ha nəŋtʰəməna zəŋ	1
+buze	1
+buze nanəlagə	1
+buze nanəlagə </s>	1
+dani	1
+dani </s>	1
+mənsəsən	1
+mənsəsən kontʰaio	1
+mənsəsən kontʰaio honaieze	1
+seʋa	1
+seʋa meanəi	1
+seʋa meanəi </s>	1
+səŋlən	1
+səŋlən zaʋa	1
+səŋlən zaʋa </s>	1
+ɡohiŋai	1
+ɡohiŋai battahaɾbohinai	1
+ɡohiŋai battahaɾbohinai bekʰu	1
+stakʰələmnənə	1
+stakʰələmnənə nəŋtʰəmənə	1
+stakʰələmnənə nəŋtʰəmənə besiŋkʰala	1
+kʰizə	1
+kʰizə kʰənəŋsə	1
+kʰizə kʰənəŋsə nəŋtʰəmona	1
+tʰiduŋtʰeo	1
+tʰiduŋtʰeo anai	1
+tʰiduŋtʰeo anai tʰatuaɾi	1
+pʰuɾməi	1
+pʰuɾməi eze	1
+pʰuɾməi eze vol	1
+mainəs	2
+mainəs siks	1
+mainəs siks empijaɾ	1
+mainəs ait	1
+mainəs ait om	1
+gətʰəŋ	1
+gətʰəŋ haŋkʰo	1
+gətʰəŋ haŋkʰo bosauʋaɾi	1
+pɾoblem	1
+pɾoblem mənəiɡən	1
+pɾoblem mənəiɡən aɾə	1
+bio	1
+bio </s>	1
+tʰəɡən	1
+tʰəɡən aɾə	1
+tʰəɡən aɾə tʰahati	1
+pʰinəsə	1
+pʰinəsə lə	1
+pʰinəsə lə lanae	1
+sekeno	1
+sekeno sek	1
+sekeno sek kulum	1
+impizəɡən	1
+impizəɡən eʋa	1
+impizəɡən eʋa səm	1
+hənae	1
+hənae </s>	1
+gunibo	1
+gunibo haigən	1
+gunibo haigən mili	1
+çʰiduŋkʰese	1
+çʰiduŋkʰese tʰattanpʰɾəni	1
+çʰiduŋkʰese tʰattanpʰɾəni kʰuɾuŋ	1
+beha	1
+beha buŋa	1
+beha buŋa haŋai	1
+montʰai	1
+montʰai </s>	1
+naŋɡuzaieɾ	1
+naŋɡuzaieɾ so	1
+naŋɡuzaieɾ so pʰoɾaisə	1
+ɡozannipʰɾai	1
+ɡozannipʰɾai mənse	1
+ɡozannipʰɾai mənse sənɡodi	1
+diksei	1
+diksei zaida	1
+diksei zaida nəŋtʰəmona	1
+heŋtʰa	14
+heŋtʰa tʰametʋa	1
+heŋtʰa tʰametʋa zəŋɡa	1
+heŋtʰa kʰo	1
+heŋtʰa kʰo zəŋɡa	1
+heŋtʰa kʰobo	1
+heŋtʰa kʰobo haie	1
+heŋtʰa be	1
+heŋtʰa be deninɡɾani	1
+heŋtʰa maheni	1
+heŋtʰa maheni kuizəhana	1
+heŋtʰa benipʰɾai	1
+heŋtʰa benipʰɾai besima	1
+heŋtʰa buŋnai	1
+heŋtʰa buŋnai zəi	1
+heŋtʰa zuɾupsa	1
+heŋtʰa zuɾupsa ten	1
+heŋtʰa ɡaɾa	1
+heŋtʰa ɡaɾa kʰə	1
+heŋtʰa ɡona	1
+heŋtʰa ɡona zajani	1
+heŋtʰa zəŋɡa	1
+heŋtʰa zəŋɡa mobla	1
+heŋtʰa əŋnai	1
+heŋtʰa əŋnai bekʰuni	1
+heŋtʰa beni	1
+heŋtʰa beni laotʰaini	1
+heŋtʰa ɡɾakʰozzi	1
+heŋtʰa ɡɾakʰozzi zəhənəi	1
+sonaɡəbə	1
+sonaɡəbə ʋidio	1
+sonaɡəbə ʋidio bo	1
+eni	1
+eni savaɾi	1
+eni savaɾi si	1
+ʋisatʰim	1
+ʋisatʰim laʋədə	1
+ʋisatʰim laʋədə heŋazeŋzələ	1
+kibaizəŋ	1
+kibaizəŋ səuɾaigən	1
+kibaizəŋ səuɾaigən tʰahatipʰəɾə	1
+zeblanikʰiŋ	1
+zeblanikʰiŋ munse	1
+zeblanikʰiŋ munse nidiŋgani	1
+zuɾupʰɾa	1
+zuɾupʰɾa ruztʰaijaɾ	1
+zuɾupʰɾa ruztʰaijaɾ heŋtʰa	1
+nəŋ	1
+nəŋ nənəŋzae	1
+nəŋ nənəŋzae ola	1
+sainsə	1
+sainsə kʰəʋai	1
+sainsə kʰəʋai zəʋai	1
+ene	1
+ene betɾi	1
+ene betɾi impoɾtən	1
+beo	1
+beo ɾoa	1
+beo ɾoa mənse	1
+beʋaiti	3
+beʋaiti sazəinezəi	1
+beʋaiti sazəinezəi </s>	1
+beʋaiti nəŋtʰəŋamazea	1
+beʋaiti nəŋtʰəŋamazea </s>	1
+beʋaiti hanti	1
+beʋaiti hanti kʰəna	1
+kom	1
+kom bekʰa	1
+kom bekʰa nəŋtʰəmona	1
+besaŋ	1
+besaŋ kaɾen	1
+besaŋ kaɾen mohidən	1
+mənəmənə	1
+mənəmənə aɾə	1
+mənəmənə aɾə ma	1
+nəŋtʰənməna	1
+nəŋtʰənməna goŋse	1
+nəŋtʰənməna goŋse moblib	1
+sə	2
+sə baə	1
+sə baə biohai	1
+sə naɾəɡən	1
+sə naɾəɡən aɾəzəŋ	1
+hoise	1
+hoise meŋu	1
+hoise meŋu muna	1
+akʰutʰaini	2
+akʰutʰaini seob	1
+akʰutʰaini seob muapʰəɾ	1
+akʰutʰaini sajao	1
+akʰutʰaini sajao sanaɾə	1
+seʋai	1
+seʋai eks	1
+seʋai eks la	1
+efɾaizəŋ	1
+efɾaizəŋ manəzəŋ	1
+efɾaizəŋ manəzəŋ ese	1
+nuŋla	1
+nuŋla </s>	1
+lakin	1
+lakin nazə	1
+lakin nazə pʰaɾs	1
+kolom	1
+kolom saɾs	1
+kolom saɾs tʰəŋhənə	1
+kʰalamna	1
+kʰalamna nəzəŋ	1
+kʰalamna nəzəŋ ɡəɾlei	1
+nəkʰuɹkʰuɹəu	1
+nəkʰuɹkʰuɹəu baɡamissəɹəu	1
+nəkʰuɹkʰuɹəu baɡamissəɹəu rai	1
+gezesei	1
+gezesei bai	1
+gezesei bai aini	1
+ʋekʰəmənəŋ	1
+ʋekʰəmənəŋ muzaiɡan	1
+ʋekʰəmənəŋ muzaiɡan nəŋtʰəmənə	1
+nanəlagə	1
+nanəlagə </s>	1
+zəŋ	20
+zəŋ neks	1
+zəŋ neks za	1
+zəŋ kʰamane	1
+zəŋ kʰamane maonəɡənə	1
+zəŋ moblib	1
+zəŋ moblib dahaɾ	1
+zəŋ kulumbə	1
+zəŋ kulumbə satʰi	1
+zəŋ məsəsaɾkidau	1
+zəŋ məsəsaɾkidau </s>	1
+zəŋ emitaɾ	1
+zəŋ emitaɾ niɡezizəŋ	1
+zəŋ ʋekʰua	1
+zəŋ ʋekʰua monisa	1
+zəŋ baɾkʰu	1
+zəŋ baɾkʰu zəŋgə	1
+zəŋ bepʰomolakʰala	1
+zəŋ bepʰomolakʰala anei	1
+zəŋ aɾni	1
+zəŋ aɾni mənkʰəsiəŋ	1
+zəŋ aɾa	1
+zəŋ aɾa bipʰai	1
+zəŋ ʋekʰəmənəŋ	1
+zəŋ ʋekʰəmənəŋ muzaiɡan	1
+zəŋ bɔi	1
+zəŋ bɔi bɔi	1
+zəŋ zae	1
+zəŋ zae ʋekʰu	1
+zəŋ zodi	1
+zəŋ zodi konse	1
+zəŋ nagam	1
+zəŋ nagam menehai	1
+zəŋ vekʰu	1
+zəŋ vekʰu lina	1
+zəŋ ʋi	1
+zəŋ ʋi ʋai	1
+zəŋ tʰahate	1
+zəŋ tʰahate pʰaɾak	1
+zəŋ ilektrik	1
+zəŋ ilektrik sarkit	1
+kontʰaio	1
+kontʰaio honaieze	1
+kontʰaio honaieze </s>	1
+meanəi	1
+meanəi </s>	1
+zaʋa	1
+zaʋa </s>	1
+battahaɾbohinai	1
+battahaɾbohinai bekʰu	1
+battahaɾbohinai bekʰu zəŋɡa	1
+besiŋkʰala	1
+besiŋkʰala linə	1
+besiŋkʰala linə anəi	1
+kʰənəŋsə	1
+kʰənəŋsə nəŋtʰəmona	1
+kʰənəŋsə nəŋtʰəmona buzekʰə	1
+tʰatuaɾi	2
+tʰatuaɾi tʰaɾni	1
+tʰatuaɾi tʰaɾni tʰahai	1
+tʰatuaɾi dedinɡɾani	1
+tʰatuaɾi dedinɡɾani heŋtʰa	1
+eze	1
+eze vol	1
+eze vol </s>	1
+tʰaienəŋtʰəmona	1
+tʰaienəŋtʰəmona </s>	1
+haŋkʰo	1
+haŋkʰo bosauʋaɾi	1
+haŋkʰo bosauʋaɾi ditʰiadi	1
+mənəiɡən	1
+mənəiɡən aɾə	1
+mənəiɡən aɾə nəŋtʰəmənə	1
+iema	1
+iema biosezəŋnamə	1
+iema biosezəŋnamə aɾanieʋe	1
+pʰaɾaɡazəɡən	1
+pʰaɾaɡazəɡən ʋezeʋai	1
+pʰaɾaɡazəɡən ʋezeʋai ʋai	1
+lə	2
+lə lanae	1
+lə lanae aɾə	1
+lə bekʰəi	1
+lə bekʰəi nəŋtʰəŋməna	1
+saz	2
+saz mohinai	1
+saz mohinai tʰamhinba	1
+saz zəŋga	1
+saz zəŋga haʋa	1
+səm	1
+səm səman	1
+səm səman səman	1
+menipʰɾai	4
+menipʰɾai tʰahati	1
+menipʰɾai tʰahati pʰaɾak	1
+menipʰɾai leʋnanə	1
+menipʰɾai leʋnanə anahaɡan	1
+menipʰɾai besi	1
+menipʰɾai besi lionadehaŋnaɡa	1
+menipʰɾai aɾə	1
+menipʰɾai aɾə tun	1
+haigən	1
+haigən mili	1
+haigən mili mitəɾ	1
+tʰattanpʰɾəni	1
+tʰattanpʰɾəni kʰuɾuŋ	1
+tʰattanpʰɾəni kʰuɾuŋ tʰahati	1
+haŋai	1
+haŋai ɡəgədoma	1
+haŋai ɡəgədoma bugo	1
+amalulaʋa	1
+amalulaʋa meʋai	1
+amalulaʋa meʋai issinamani	1
+pʰoɾaisə	1
+pʰoɾaisə nəŋtʰəməna	1
+pʰoɾaisə nəŋtʰəməna ʋekʰukʰuso	1
+sənɡodi	1
+sənɡodi dazabtʰai	1
+sənɡodi dazabtʰai saɾskʰa	1
+zaida	1
+zaida nəŋtʰəmona	1
+zaida nəŋtʰəmona </s>	1
+ɡaɾa	1
+ɡaɾa kʰə	1
+ɡaɾa kʰə maʋait	1
+bo	2
+bo kʰola	1
+bo kʰola mana	1
+bo ləɡən	1
+bo ləɡən beni	1
+savaɾi	2
+savaɾi si	1
+savaɾi si komplit	1
+savaɾi amus	1
+savaɾi amus sa	1
+laʋədə	1
+laʋədə heŋazeŋzələ	1
+laʋədə heŋazeŋzələ kanekʰamə	1
+tʰahatipʰəɾə	1
+tʰahatipʰəɾə aɾə	1
+tʰahatipʰəɾə aɾə zəŋɡa	1
+munse	1
+munse nidiŋgani	1
+munse nidiŋgani kezizəŋ	1
+ruztʰaijaɾ	1
+ruztʰaijaɾ heŋtʰa	1
+ruztʰaijaɾ heŋtʰa benipʰɾai	1
+nənəŋzae	1
+nənəŋzae ola	1
+nənəŋzae ola nəŋtʰəməna	1
+kʰəʋai	3
+kʰəʋai zəʋai	1
+kʰəʋai zəʋai monisə	1
+kʰəʋai aɾanən	1
+kʰəʋai aɾanən nəntʰəmonaizə	1
+kʰəʋai nəŋtʰəmona	1
+kʰəʋai nəŋtʰəmona ʋe	1
+impoɾtən	1
+impoɾtən </s>	1
+ɾoa	1
+ɾoa mənse	1
+ɾoa mənse seŋɾuzutʰaijaɾi	1
+sazəinezəi	1
+sazəinezəi </s>	1
+bekʰa	1
+bekʰa nəŋtʰəmona	1
+bekʰa nəŋtʰəmona zəifəɾ	1
+mohidən	1
+mohidən </s>	1
+maɾi	1
+maɾi sənəɡən	1
+maɾi sənəɡən </s>	1
+goŋse	1
+goŋse moblib	1
+goŋse moblib sel	1
+baə	1
+baə biohai	1
+baə biohai si	1
+meŋu	2
+meŋu muna	1
+meŋu muna meŋu	1
+meŋu muzida	1
+meŋu muzida </s>	1
+seob	1
+seob muapʰəɾ	1
+seob muapʰəɾ mane	1
+eks	2
+eks la	1
+eks la pʰoɾmula	1
+eks eksis	1
+eks eksis tʰəŋbiohai	1
+manəzəŋ	1
+manəzəŋ ese	1
+manəzəŋ ese agoloson	1
+t͜səɡənam	1
+t͜səɡənam </s>	1
+nazə	1
+nazə pʰaɾs	1
+nazə pʰaɾs zəhəɾai	1
+tʰəŋhənə	1
+tʰəŋhənə beseba	1
+tʰəŋhənə beseba haʋa	1
+nəzəŋ	3
+nəzəŋ ɡəɾlei	1
+nəzəŋ ɡəɾlei ina	1
+nəzəŋ aɾə	1
+nəzəŋ aɾə ʋekʰu	1
+nəzəŋ uzu	1
+nəzəŋ uzu ɾedi	1
+baɡamissəɹəu	1
+baɡamissəɹəu rai	1
+baɡamissəɹəu rai ɡassinəʋəu	1
+aini	1
+aini zezəŋ	1
+aini zezəŋ səŋ	1
+muzaiɡan	1
+muzaiɡan nəŋtʰəmənə	1
+muzaiɡan nəŋtʰəmənə beguguzə	1
+manahnei	1
+manahnei no	1
+manahnei no soŋ	1
+bɔi	4
+bɔi bɔi	1
+bɔi bɔi mukʰabai	1
+bɔi mukʰabai	1
+bɔi mukʰabai aɹa	1
+bɔi hababɔɡɔbimɔ	1
+bɔi hababɔɡɔbimɔ kʰeloma	1
+bɔi mə	1
+bɔi mə zəŋɡa	1
+honaieze	1
+honaieze </s>	1
+saolana	1
+saolana nəŋtʰəŋməna	1
+saolana nəŋtʰəŋməna ʋekʰəŋ	1
+ʋenifɾai	1
+ʋenifɾai nekszəŋga	1
+ʋenifɾai nekszəŋga nəŋtʰəmona	1
+tʰahalakʰinai	1
+tʰahalakʰinai benizəbai	1
+tʰahalakʰinai benizəbai beni	1
+linə	1
+linə anəi	1
+linə anəi ɡʰənəɡəm	1
+buzekʰə	1
+buzekʰə nəŋtʰəmona	1
+buzekʰə nəŋtʰəmona homesonli	1
+tʰaɾni	1
+tʰaɾni tʰahai	1
+tʰaɾni tʰahai aɾai	1
+vol	2
+vol </s>	1
+vol aɾə	1
+vol aɾə bekʰol	1
+gəso	1
+gəso lakʰi	1
+gəso lakʰi ŋazə	1
+ditʰiadi	1
+ditʰiadi danse	1
+ditʰiadi danse taɾni	1
+nədəŋmədən	1
+nədəŋmədən ʋe	1
+nədəŋmədən ʋe piksaɾə	1
+biosezəŋnamə	1
+biosezəŋnamə aɾanieʋe	1
+biosezəŋnamə aɾanieʋe miʋazəʋai	1
+ʋezeʋai	1
+ʋezeʋai ʋai	1
+ʋezeʋai ʋai eksis	1
+lanae	3
+lanae aɾə	1
+lanae aɾə zəŋga	1
+lanae nəŋtʰəmənə	1
+lanae nəŋtʰəmənə aɾazəŋ	1
+lanae oblazəŋ	1
+lanae oblazəŋ bobliŋni	1
+mohinai	1
+mohinai tʰamhinba	1
+mohinai tʰamhinba </s>	1
+inkezəɡanna	1
+inkezəɡanna bekʰai	1
+inkezəɡanna bekʰai nəŋnai	1
+pʰaɾak	5
+pʰaɾak manema	1
+pʰaɾak manema tʰahati	1
+pʰaɾak </s>	1
+pʰaɾak zəŋ	1
+pʰaɾak zəŋ tʰahate	1
+pʰaɾak ɡo	1
+pʰaɾak ɡo mamu	1
+pʰaɾak pʰiziŋ	1
+pʰaɾak pʰiziŋ diziŋae	1
+behən	1
+behən nəŋtʰəŋməna	1
+behən nəŋtʰəŋməna gəsəlage	1
+kʰuɾuŋ	1
+kʰuɾuŋ tʰahati	1
+kʰuɾuŋ tʰahati pʰaɾaɡ	1
+ɡəgədoma	1
+ɡəgədoma bugo	1
+ɡəgədoma bugo mansemuakʰə	1
+issinamani	1
+issinamani kususəŋga	1
+issinamani kususəŋga ola	1
+ʋekʰukʰuso	1
+ʋekʰukʰuso laki	1
+ʋekʰukʰuso laki </s>	1
+dazabtʰai	1
+dazabtʰai saɾskʰa	1
+dazabtʰai saɾskʰa laʋonaʋaʋ	1
+nəŋtʰəmona	33
+nəŋtʰəmona </s>	2
+nəŋtʰəmona sabse	1
+nəŋtʰəmona sabse kʰələŋ	1
+nəŋtʰəmona konakʰanəm	1
+nəŋtʰəmona konakʰanəm nələŋa	1
+nəŋtʰəmona ɡəssə	1
+nəŋtʰəmona ɡəssə olahinəzə	1
+nəŋtʰəmona mili	1
+nəŋtʰəmona mili empijaɾ	1
+nəŋtʰəmona nəboudəŋ	1
+nəŋtʰəmona nəboudəŋ </s>	1
+nəŋtʰəmona mamaiti	1
+nəŋtʰəmona mamaiti </s>	1
+nəŋtʰəmona moblib	2
+nəŋtʰəmona moblib sali	1
+nəŋtʰəmona moblib tʰahati	1
+nəŋtʰəmona nuna	1
+nəŋtʰəmona nuna mona	1
+nəŋtʰəmona maʋaikʰəna	1
+nəŋtʰəmona maʋaikʰəna nəŋtʰəɡəm	1
+nəŋtʰəmona aiohai	1
+nəŋtʰəmona aiohai </s>	1
+nəŋtʰəmona menifai	1
+nəŋtʰəmona menifai lina	1
+nəŋtʰəmona bioe	1
+nəŋtʰəmona bioe ese	1
+nəŋtʰəmona oldana	1
+nəŋtʰəmona oldana nukʰəiʋə	1
+nəŋtʰəmona munsi	1
+nəŋtʰəmona munsi mo	1
+nəŋtʰəmona ʋe	2
+nəŋtʰəmona ʋe asaido	1
+nəŋtʰəmona ʋe menipʰɾai	1
+nəŋtʰəmona bizəʋo	1
+nəŋtʰəmona bizəʋo bio	1
+nəŋtʰəmona aɾa	1
+nəŋtʰəmona aɾa kaɾeksən	1
+nəŋtʰəmona buzekʰə	1
+nəŋtʰəmona buzekʰə nəŋtʰəmona	1
+nəŋtʰəmona zəifəɾ	1
+nəŋtʰəmona zəifəɾ gadanai	1
+nəŋtʰəmona homesonli	1
+nəŋtʰəmona homesonli huɾhənəza	1
+nəŋtʰəmona biohai	1
+nəŋtʰəmona biohai diu	1
+nəŋtʰəmona sekʰolo	1
+nəŋtʰəmona sekʰolo saɾsau	1
+nəŋtʰəmona menifɾai	1
+nəŋtʰəmona menifɾai mesiŋmalana	1
+nəŋtʰəmona bekʰu	1
+nəŋtʰəmona bekʰu buzəʋai	1
+nəŋtʰəmona bai	1
+nəŋtʰəmona bai nəŋtʰəmona	1
+nəŋtʰəmona na	1
+nəŋtʰəmona na bol	1
+nəŋtʰəmona maʋa	1
+nəŋtʰəmona maʋa səŋo	1
+nəŋtʰəmona aɡan	1
+nəŋtʰəmona aɡan aɾa	1
+nəŋtʰəmona gasimbaɾsən	1
+nəŋtʰəmona gasimbaɾsən səbse	1
+maʋait	1
+maʋait nəŋtʰəŋəze	1
+maʋait nəŋtʰəŋəze meʋai	1
+kʰola	1
+kʰola mana	1
+kʰola mana nəsi	1
+komplit	1
+komplit saŋ	1
+komplit saŋ kontʰaini	1
+heŋazeŋzələ	1
+heŋazeŋzələ kanekʰamə	1
+heŋazeŋzələ kanekʰamə asin	1
+potensiel	3
+potensiel difaɾens	1
+potensiel difaɾens bepʰanisəŋ	1
+potensiel en	1
+potensiel en potensiel	1
+potensiel difəɾens	1
+potensiel difəɾens da	1
+nidiŋgani	1
+nidiŋgani kezizəŋ	1
+nidiŋgani kezizəŋ </s>	1
+besima	1
+besima lage	1
+besima lage belipʰenisə	1
+linna	1
+linna simbol	1
+linna simbol nəŋtʰəŋməna	1
+monisə	1
+monisə septaɾ	1
+monisə septaɾ aɾa	1
+dabei	1
+dabei kʰənəmu	1
+dabei kʰənəmu meize	1
+seŋɾuzutʰaijaɾi	1
+seŋɾuzutʰaijaɾi didəm	1
+seŋɾuzutʰaijaɾi didəm buŋna	1
+dazəptʰəi	1
+dazəptʰəi dakʰotʰai	1
+dazəptʰəi dakʰotʰai dazəptʰai	1
+zəifəɾ	1
+zəifəɾ gadanai	1
+zəifəɾ gadanai kui	1
+ɾenigezizo	1
+ɾenigezizo hona	1
+ɾenigezizo hona aŋgən	1
+sənəɡən	1
+sənəɡən </s>	1
+sel	3
+sel </s>	1
+sel kʰəzəŋɡa	1
+sel kʰəzəŋɡa moblib	1
+sel mane	1
+sel mane metɾ	1
+kʰəkʰəi	1
+kʰəkʰəi bau	1
+kʰəkʰəi bau da	1
+muzida	1
+muzida </s>	1
+muapʰəɾ	1
+muapʰəɾ mane	1
+muapʰəɾ mane boɾo	1
+oblazəŋ	1
+oblazəŋ bobliŋni	1
+oblazəŋ bobliŋni nəɡəzən	1
+agoloson	1
+agoloson ɾai	1
+agoloson ɾai əŋmonoze	1
+biohai	31
+biohai nəŋboadəŋ	1
+biohai nəŋboadəŋ mobapəɾni	1
+biohai nətʰəŋmona	1
+biohai nətʰəŋmona buŋkoɾola	1
+biohai si	1
+biohai si iunit	1
+biohai </s>	2
+biohai aŋ	1
+biohai aŋ məmse	1
+biohai buŋgaizədəŋ	1
+biohai buŋgaizədəŋ da	1
+biohai nəŋtʰəmənə	1
+biohai nəŋtʰəmənə mənse	1
+biohai be	1
+biohai be nəŋtʰəŋmunni	1
+biohai moblib	1
+biohai moblib sel	1
+biohai nənəməna	1
+biohai nənəməna besebaŋ	1
+biohai tʰahati	1
+biohai tʰahati pʰaɾəɡkʰo	1
+biohai zəŋa	1
+biohai zəŋa natabtʰai	1
+biohai masəŋnai	1
+biohai masəŋnai tono	1
+biohai zəŋtʰahatipʰəɾəŋ	1
+biohai zəŋtʰahatipʰəɾəŋ kibaizəŋ	1
+biohai gi	1
+biohai gi nəŋtʰənməna	1
+biohai manahnei	1
+biohai manahnei no	1
+biohai nəŋtʰəmona	2
+biohai nəŋtʰəmona nuna	1
+biohai nəŋtʰəmona mili	1
+biohai nəŋtʰənənə	1
+biohai nəŋtʰənənə bebəike	1
+biohai əɾa	1
+biohai əɾa vi	1
+biohai nənəmədən	1
+biohai nənəmədən </s>	1
+biohai mankʰəɾən	1
+biohai mankʰəɾən bisəŋau	1
+biohai mənse	2
+biohai mənse piksaɾ	1
+biohai mənse ɡidiŋ	1
+biohai diu	1
+biohai diu na	1
+biohai nunu	1
+biohai nunu munim	1
+biohai dapel	1
+biohai dapel nəŋtʰəŋ	1
+biohai volta	1
+biohai volta tʰakʰati	1
+biohai maməŋnəi	1
+biohai maməŋnəi lanae	1
+biohai libonai	1
+biohai libonai lədə	1
+pʰaɾs	1
+pʰaɾs zəhəɾai	1
+pʰaɾs zəhəɾai beni	1
+beseba	1
+beseba haʋa	1
+beseba haʋa maunaŋɡon	1
+ɡəɾlei	1
+ɡəɾlei ina	1
+ɡəɾlei ina bemoblib	1
+rai	1
+rai ɡassinəʋəu	1
+rai ɡassinəʋəu mɔkʰuɹəu	1
+zezəŋ	1
+zezəŋ səŋ	1
+zezəŋ səŋ ola	1
+beguguzə	1
+beguguzə səlakʰi	1
+beguguzə səlakʰi gazəzə	1
+soŋ	1
+soŋ honaidoŋ	1
+soŋ honaidoŋ homitʋa	1
+mukʰabai	1
+mukʰabai aɹa	1
+mukʰabai aɹa bɔi	1
+zae	1
+zae ʋekʰu	1
+zae ʋekʰu zəŋɡa	1
+ʋekʰəŋ	1
+ʋekʰəŋ mainas	1
+ʋekʰəŋ mainas uan	1
+nekszəŋga	1
+nekszəŋga nəŋtʰəmona	1
+nekszəŋga nəŋtʰəmona munsi	1
+benizəbai	1
+benizəbai beni	1
+benizəbai beni kʰamani	1
+anəi	1
+anəi ɡʰənəɡəm	1
+anəi ɡʰənəɡəm </s>	1
+homesonli	1
+homesonli huɾhənəza	1
+homesonli huɾhənəza </s>	1
+tʰahai	1
+tʰahai aɾai	1
+tʰahai aɾai zədəŋ	1
+bekʰol	1
+bekʰol səsəimeɡenɡioni	1
+bekʰol səsəimeɡenɡioni boŋnipʰɾai	1
+lakʰi	3
+lakʰi ŋazə	1
+lakʰi ŋazə aɾə	1
+lakʰi nəzəŋ	1
+lakʰi nəzəŋ aɾə	1
+lakʰi naza	1
+lakʰi naza da	1
+danse	1
+danse taɾni	1
+danse taɾni geze	1
+piksaɾə	2
+piksaɾə nədəŋməna	1
+piksaɾə nədəŋməna məmuzə	1
+piksaɾə nənəməna	1
+piksaɾə nənəməna ɾeʋai	1
+aɾanieʋe	1
+aɾanieʋe miʋazəʋai	1
+aɾanieʋe miʋazəʋai miosəf	1
+tʰaɡən	1
+tʰaɡən tʰaɾ	1
+tʰaɡən tʰaɾ nəŋtʰəmənə	1
+mənsə	2
+mənsə pʰoɾmula	1
+mənsə pʰoɾmula aŋgan	1
+mənsə baŋɡɾe	1
+mənsə baŋɡɾe kʰu	1
+tʰamhinba	1
+tʰamhinba </s>	1
+nəŋnai	1
+nəŋnai zədə	1
+nəŋnai zədə əɾa	1
+pʰəɾək	1
+pʰəɾək manezəʋai	1
+pʰəɾək manezəʋai moblib	1
+nəŋtʰəŋməna	8
+nəŋtʰəŋməna be	1
+nəŋtʰəŋməna be intisin	1
+nəŋtʰəŋməna ɡeso	1
+nəŋtʰəŋməna ɡeso lakʰi	1
+nəŋtʰəŋməna biohai	1
+nəŋtʰəŋməna biohai nənəməna	1
+nəŋtʰəŋməna gəsəlage	1
+nəŋtʰəŋməna gəsəlage azaŋa	1
+nəŋtʰəŋməna ʋekʰəŋ	1
+nəŋtʰəŋməna ʋekʰəŋ mainas	1
+nəŋtʰəŋməna vesolaki	1
+nəŋtʰəŋməna vesolaki aɾə	1
+nəŋtʰəŋməna zude	1
+nəŋtʰəŋməna zude ʋeʋaiti	1
+nəŋtʰəŋməna azab	1
+nəŋtʰəŋməna azab tʰai	1
+pʰaɾaɡ	1
+pʰaɾaɡ pʰia	1
+pʰaɾaɡ pʰia monse	1
+bugo	1
+bugo mansemuakʰə	1
+bugo mansemuakʰə bekʰənə	1
+kususəŋga	1
+kususəŋga ola	1
+kususəŋga ola nəŋtʰəmona	1
+omni	6
+omni kʰantʰi	4
+omni kʰantʰi da	2
+omni kʰantʰi ko	1
+omni kʰantʰi beɡeziŋ	1
+omni hantʰiamnəi	2
+omni hantʰiamnəi zədə	2
+saɾskʰa	2
+saɾskʰa laʋonaʋaʋ	1
+saɾskʰa laʋonaʋaʋ maʋnao	1
+saɾskʰa zeŋboa	1
+saɾskʰa zeŋboa mənse	1
+ɾəŋ	1
+ɾəŋ foɾaima	1
+ɾəŋ foɾaima ladə	1
+nəŋtʰəŋəze	1
+nəŋtʰəŋəze meʋai	1
+nəŋtʰəŋəze meʋai nisiziŋzizəŋ	1
+mana	1
+mana nəsi	1
+mana nəsi ʋidio	1
+saŋ	2
+saŋ kontʰaini	1
+saŋ kontʰaini savaɾi	1
+saŋ kʰontʰai	1
+saŋ kʰontʰai manema	1
+kanekʰamə	1
+kanekʰamə asin	1
+kanekʰamə asin betaɾko	1
+difaɾens	1
+difaɾens bepʰanisəŋ	1
+difaɾens bepʰanisəŋ zəŋɡa	1
+kezizəŋ	1
+kezizəŋ </s>	1
+lage	1
+lage belipʰenisə	1
+lage belipʰenisə pʰagənnə	1
+intisin	1
+intisin bəkʰə	1
+intisin bəkʰə ʋeso	1
+septaɾ	1
+septaɾ aɾa	1
+septaɾ aɾa aɾçʰəcʰiŋ	1
+kʰənəmu	1
+kʰənəmu meize	1
+kʰənəmu meize məse	1
+didəm	1
+didəm buŋna	1
+didəm buŋna zədə	1
+dakʰotʰai	3
+dakʰotʰai dazəptʰai	1
+dakʰotʰai dazəptʰai dakʰotʰai	1
+dakʰotʰai beʋaitizəi	1
+dakʰotʰai beʋaitizəi tʰametʋa	1
+dakʰotʰai bitʰiŋ	1
+dakʰotʰai bitʰiŋ dazəptʰai	1
+gadanai	1
+gadanai kui	1
+gadanai kui dənbəi	1
+hona	1
+hona aŋgən	1
+hona aŋgən mili	1
+laopʰaini	1
+laopʰaini sevsənaɡən	1
+laopʰaini sevsənaɡən nəɾə	1
+kʰəzəŋɡa	2
+kʰəzəŋɡa moblib	1
+kʰəzəŋɡa moblib nəŋtʰəŋəz	1
+kʰəzəŋɡa ɾeʋaiti	1
+kʰəzəŋɡa ɾeʋaiti simbozəŋditʰənəizə	1
+bau	1
+bau da	1
+bau da bidibouna	1
+ze	8
+ze ase	1
+ze ase aɾəzəŋ	1
+ze mili	1
+ze mili mitəɾ	1
+ze zəŋ	1
+ze zəŋ moblib	1
+ze nəŋtʰəmona	1
+ze nəŋtʰəmona maʋa	1
+ze aɾə	1
+ze aɾə </s>	1
+ze meʋe	1
+ze meʋe ɾoi	1
+ze kʰeze	1
+ze kʰeze moa	1
+ze mane	1
+ze mane zul	1
+boɾo	1
+boɾo mənse	1
+boɾo mənse bubaia	1
+bobliŋni	1
+bobliŋni nəɡəzən	1
+bobliŋni nəɡəzən pʰaɾəse	1
+ɾai	1
+ɾai əŋmonoze	1
+ɾai əŋmonoze </s>	1
+nəŋtʰənənə	1
+nəŋtʰənənə bebəike	1
+nəŋtʰənənə bebəike məsəsi	1
+zəhəɾai	1
+zəhəɾai beni	1
+zəhəɾai beni laotʰeini	1
+maunaŋɡon	1
+maunaŋɡon a	1
+maunaŋɡon a nəŋtʰəmənə	1
+bemoblib	1
+bemoblib saɾsni	1
+bemoblib saɾsni bibaŋkʰo	1
+ɡassinəʋəu	1
+ɡassinəʋəu mɔkʰuɹəu	1
+ɡassinəʋəu mɔkʰuɹəu kaɾen	1
+məma	1
+məma uan	1
+məma uan om	1
+səlakʰi	1
+səlakʰi gazəzə	1
+səlakʰi gazəzə voltmitaɾ	1
+honaidoŋ	1
+honaidoŋ homitʋa	1
+honaidoŋ homitʋa tihənəeidoŋo	1
+aɹa	1
+aɹa bɔi	1
+aɹa bɔi hababɔɡɔbimɔ	1
+omə	1
+omə məntʰie	1
+omə məntʰie da	1
+pʰaɾəɡkʰo	1
+pʰaɾəɡkʰo sulai	1
+pʰaɾəɡkʰo sulai zadazəŋ	1
+mo	1
+mo fəɾə	1
+mo fəɾə laodən	1
+entʰani	2
+entʰani kʰaman	2
+entʰani kʰaman </s>	1
+entʰani kʰaman beni	1
+ɡʰənəɡəm	1
+ɡʰənəɡəm </s>	1
+huɾhənəza	1
+huɾhənəza </s>	1
+bekʰunə	2
+bekʰunə bekʰuni	1
+bekʰunə bekʰuni tʰa	1
+bekʰunə heŋtʰa	1
+bekʰunə heŋtʰa əŋnai	1
+səsəimeɡenɡioni	1
+səsəimeɡenɡioni boŋnipʰɾai	1
+səsəimeɡenɡioni boŋnipʰɾai ʋe	1
+ŋazə	1
+ŋazə aɾə	1
+ŋazə aɾə emitəɾ	1
+geze	1
+geze tʰaŋnai	1
+geze tʰaŋnai dahaɾa	1
+nədəŋməna	1
+nədəŋməna məmuzə	1
+nədəŋməna məmuzə ɡənze	1
+miʋazəʋai	1
+miʋazəʋai miosəf	1
+miʋazəʋai miosəf zananagomai	1
+tʰaɾ	1
+tʰaɾ nəŋtʰəmənə	1
+tʰaɾ nəŋtʰəmənə biohai	1
+pʰoɾmula	5
+pʰoɾmula kʰə	1
+pʰoɾmula kʰə nəŋtʰəmənə	1
+pʰoɾmula ese	1
+pʰoɾmula ese əluzəŋ	1
+pʰoɾmula lanae	1
+pʰoɾmula lanae oblazəŋ	1
+pʰoɾmula aŋgan	1
+pʰoɾmula aŋgan be	1
+pʰoɾmula nəŋdəmənən	1
+pʰoɾmula nəŋdəmənən bepʰoɾmule	1
+ʋan	5
+ʋan si	1
+ʋan si diʋaid	1
+ʋan e	1
+ʋan e ikual	1
+ʋan </s>	1
+ʋan es	1
+ʋan es aʋekʰi	1
+ʋan os	1
+ʋan os səŋlə	1
+əɾa	3
+əɾa zəŋɡa	1
+əɾa zəŋɡa zeblaʋe	1
+əɾa nəŋtʰəməna	1
+əɾa nəŋtʰəməna biohai	1
+əɾa vi	1
+əɾa vi ikualtu	1
+manezəʋai	1
+manezəʋai moblib	1
+manezəʋai moblib deitən	1
+gəsəlage	1
+gəsəlage azaŋa	1
+gəsəlage azaŋa kaɾen	1
+pʰia	1
+pʰia monse	1
+pʰia monse soŋkʰən	1
+mansemuakʰə	1
+mansemuakʰə bekʰənə	1
+mansemuakʰə bekʰənə mukə	1
+sekʰolo	1
+sekʰolo saɾsau	1
+sekʰolo saɾsau </s>	1
+kʰantʰi	6
+kʰantʰi da	2
+kʰantʰi da nəŋtʰəməna	1
+kʰantʰi da nəŋtʰəŋmənə	1
+kʰantʰi buŋnai	1
+kʰantʰi buŋnai zə	1
+kʰantʰi amma	1
+kʰantʰi amma da	1
+kʰantʰi ko	1
+kʰantʰi ko ɾauɾainoi	1
+kʰantʰi beɡeziŋ	1
+kʰantʰi beɡeziŋ maməndəŋ	1
+laʋonaʋaʋ	1
+laʋonaʋaʋ maʋnao	1
+laʋonaʋaʋ maʋnao ɡona	1
+foɾaima	1
+foɾaima ladə	1
+foɾaima ladə aɾə	1
+nisiziŋzizəŋ	1
+nisiziŋzizəŋ nəŋtʰəŋəzə	1
+nisiziŋzizəŋ nəŋtʰəŋəzə bekʰai	1
+nəsi	1
+nəsi ʋidio	1
+nəsi ʋidio ʋəsəunesə	1
+kontʰaini	5
+kontʰaini ezizə	1
+kontʰaini ezizə moblib	1
+kontʰaini da	1
+kontʰaini da saʋaɾan	1
+kontʰaini zəŋga	1
+kontʰaini zəŋga zeʋla	1
+kontʰaini savaɾi	1
+kontʰaini savaɾi amus	1
+kontʰaini zə	1
+kontʰaini zə sauʋaɾizəŋ	1
+asin	1
+asin betaɾko	1
+asin betaɾko </s>	1
+bepʰanisəŋ	1
+bepʰanisəŋ zəŋɡa	1
+bepʰanisəŋ zəŋɡa sauɾaiɡən	1
+bewai	1
+bewai nistʰasa	1
+bewai nistʰasa baɾtan	1
+belipʰenisə	1
+belipʰenisə pʰagənnə	1
+belipʰenisə pʰagənnə hunda	1
+bəkʰə	1
+bəkʰə ʋeso	1
+bəkʰə ʋeso laki	1
+aɾçʰəcʰiŋ	1
+aɾçʰəcʰiŋ </s>	1
+meize	1
+meize məse	1
+meize məse memeze	1
+buŋna	1
+buŋna zədə	1
+buŋna zədə bokʰu	1
+dazəptʰai	2
+dazəptʰai dakʰotʰai	1
+dazəptʰai dakʰotʰai beʋaitizəi	1
+dazəptʰai aɾə	1
+dazəptʰai aɾə betʰiŋ	1
+kui	1
+kui dənbəi	1
+kui dənbəi gesin	1
+aŋgən	1
+aŋgən mili	1
+aŋgən mili mitaɾ	1
+sevsənaɡən	1
+sevsənaɡən nəɾə	1
+sevsənaɡən nəɾə eɾia	1
+nəŋtʰəŋəz	1
+nəŋtʰəŋəz biohai	1
+nəŋtʰəŋəz biohai moblib	1
+bidibouna	1
+bidibouna </s>	1
+meʋe	1
+meʋe ɾoi	1
+meʋe ɾoi ŋuŋtʰumona	1
+bubaia	1
+bubaia tʰaŋbai	1
+bubaia tʰaŋbai dedin	1
+nəɡəzən	1
+nəɡəzən pʰaɾəse	1
+nəɡəzən pʰaɾəse nəŋtʰəmənə	1
+əŋmonoze	1
+əŋmonoze </s>	1
+bebəike	1
+bebəike məsəsi	1
+bebəike məsəsi mununu	1
+laotʰeini	1
+laotʰeini səbsəhaɡən	1
+laotʰeini səbsəhaɡən da	1
+a	1
+a nəŋtʰəmənə	1
+a nəŋtʰəmənə biohai	1
+bibaŋkʰo	1
+bibaŋkʰo dihun	1
+bibaŋkʰo dihun benimo	1
+mɔkʰuɹəu	1
+mɔkʰuɹəu kaɾen	1
+mɔkʰuɹəu kaɾen nouə	1
+mənnə	2
+mənnə aɾə	1
+mənnə aɾə zəŋɡa	1
+mənnə menpʰɾai	1
+mənnə menpʰɾai arə	1
+gazəzə	1
+gazəzə voltmitaɾ	1
+gazəzə voltmitaɾ kʰoze	1
+homitʋa	1
+homitʋa tihənəeidoŋo	1
+homitʋa tihənəeidoŋo tʰamitʋa	1
+hababɔɡɔbimɔ	1
+hababɔɡɔbimɔ kʰeloma	1
+hababɔɡɔbimɔ kʰeloma </s>	1
+məntʰie	1
+məntʰie da	1
+məntʰie da pʰoɾesə	1
+sulai	1
+sulai zadazəŋ	1
+sulai zadazəŋ ʋe	1
+fəɾə	1
+fəɾə laodən	1
+fəɾə laodən maulitʰaodən	1
+kʰaman	2
+kʰaman </s>	1
+kʰaman beni	1
+kʰaman beni kʰəinə	1
+ɾeʋaitis	1
+ɾeʋaitis sena	1
+ɾeʋaitis sena se	1
+bekʰlai	1
+bekʰlai ekskʰalamnai	1
+bekʰlai ekskʰalamnai nazaŋa	1
+bekʰuni	3
+bekʰuni tʰa	1
+bekʰuni tʰa boŋnai	1
+bekʰuni tʰaboŋnai	1
+bekʰuni tʰaboŋnai zəzəŋ	1
+bekʰuni zaha	1
+bekʰuni zaha gɾapʰə	1
+boŋnipʰɾai	1
+boŋnipʰɾai ʋe	1
+boŋnipʰɾai ʋe sasi	1
+emitəɾ	1
+emitəɾ həŋnai	1
+emitəɾ həŋnai boŋsidai	1
+dahaɾa	2
+dahaɾa baŋnai	1
+dahaɾa baŋnai ləɡə	1
+dahaɾa uan	1
+dahaɾa uan empieɾ	1
+məmuzə	1
+məmuzə ɡənze	1
+məmuzə ɡənze beostʰaksa	1
+miosəf	1
+miosəf zananagomai	1
+miosəf zananagomai </s>	1
+nənəmədən	1
+nənəmədən </s>	1
+aŋgan	1
+aŋgan be	1
+aŋgan be tʰahatʰi	1
+ikual	14
+ikual tu	14
+ikual tu </s>	1
+ikual tu dobliu	3
+ikual tu tʰahati	1
+ikual tu mamonamon	1
+ikual tu kiu	2
+ikual tu uan	1
+ikual tu ʋan	1
+ikual tu malinnaeɾ	1
+ikual tu ten	1
+ikual tu mau	1
+ikual tu vi	1
+zeblaʋe	1
+zeblaʋe </s>	1
+deitən	1
+deitən banai	1
+deitən banai mənsei	1
+azaŋa	1
+azaŋa kaɾen	1
+azaŋa kaɾen za	1
+monse	2
+monse soŋkʰən	1
+monse soŋkʰən tʰai	1
+monse dedenɡani	1
+monse dedenɡani ɡezeɾo	1
+bekʰənə	1
+bekʰənə mukə	1
+bekʰənə mukə salea	1
+saɾsau	1
+saɾsau </s>	1
+sauɾaomni	1
+sauɾaomni kʰantʰi	1
+sauɾaomni kʰantʰi amma	1
+maʋnao	1
+maʋnao ɡona	1
+maʋnao ɡona haʋajano	1
+ladə	1
+ladə aɾə	1
+ladə aɾə </s>	1
+nəŋtʰəŋəzə	1
+nəŋtʰəŋəzə bekʰai	1
+nəŋtʰəŋəzə bekʰai nəŋtʰəmənə	1
+ʋəsəunesə	1
+ʋəsəunesə </s>	1
+amus	1
+amus sa	1
+amus sa kʰontʰaini	1
+betaɾko	1
+betaɾko </s>	1
+sauɾaiɡən	3
+sauɾaiɡən </s>	1
+sauɾaiɡən ʋeniozəŋ	1
+sauɾaiɡən ʋeniozəŋ osen	1
+sauɾaiɡən aɾa	1
+sauɾaiɡən aɾa makʰəzəzəŋ	1
+nistʰasa	1
+nistʰasa baɾtan	1
+nistʰasa baɾtan bikʰuma	1
+pʰagənnə	1
+pʰagənnə hunda	1
+pʰagənnə hunda bepʰlaɾ	1
+ʋeso	2
+ʋeso laki	1
+ʋeso laki haɾazebla	1
+ʋeso lakʰi	1
+ʋeso lakʰi nəzəŋ	1
+kʰantipuɾkʰə	1
+kʰantipuɾkʰə kʰəʋai	1
+kʰantipuɾkʰə kʰəʋai aɾanən	1
+məse	1
+məse memeze	1
+məse memeze komplisen	1
+bokʰu	1
+bokʰu dediŋɾani	1
+bokʰu dediŋɾani ɾuzutʰuijiaɾi	1
+beʋaitizəi	1
+beʋaitizəi tʰametʋa	1
+beʋaitizəi tʰametʋa zəŋɡa	1
+dənbəi	1
+dənbəi gesin	1
+dənbəi gesin lo	1
+sugan	1
+sugan nigizizizəm	1
+sugan nigizizizəm zəŋ	1
+niseb	1
+niseb sə	1
+niseb sə naɾəɡən	1
+metɾ	1
+metɾ gonaizədəŋ	1
+metɾ gonaizədəŋ </s>	1
+udegazəzi	1
+udegazəzi da	1
+udegazəzi da bepʰəɾauba	1
+ɾoi	1
+ɾoi ŋuŋtʰumona	1
+ɾoi ŋuŋtʰumona meʋai	1
+tʰaŋbai	1
+tʰaŋbai dedin	1
+tʰaŋbai dedin mabaide	1
+pʰaɾəse	1
+pʰaɾəse nəŋtʰəmənə	1
+pʰaɾəse nəŋtʰəmənə pʰoʋai	1
+fɾai	1
+fɾai zəŋga	1
+fɾai zəŋga be	1
+məsəsi	1
+məsəsi mununu	1
+məsəsi mununu mənə	1
+səbsəhaɡən	1
+səbsəhaɡən da	1
+səbsəhaɡən da laotʰaiɡən	1
+mankʰəɾən	1
+mankʰəɾən bisəŋau	1
+mankʰəɾən bisəŋau masəŋoi	1
+benimo	1
+benimo kʰətʰai	1
+benimo kʰətʰai zəŋa	1
+nouə	1
+nouə </s>	1
+malinnaeɾ	1
+malinnaeɾ uan	1
+malinnaeɾ uan volt	1
+kʰoze	1
+kʰoze didau	1
+kʰoze didau la	1
+tihənəeidoŋo	1
+tihənəeidoŋo tʰamitʋa	1
+tihənəeidoŋo tʰamitʋa tihaidoŋo	1
+kʰeloma	1
+kʰeloma </s>	1
+boɾsəɡə	1
+boɾsəɡə laɡi	1
+boɾsəɡə laɡi </s>	1
+zadazəŋ	1
+zadazəŋ ʋe	1
+zadazəŋ ʋe dazəŋ	1
+laodən	1
+laodən maulitʰaodən	1
+laodən maulitʰaodən ʋezaʋai	1
+kʰama	1
+kʰama ani	1
+kʰama ani moblib	1
+sena	1
+sena se	1
+sena se naʋas	1
+ekskʰalamnai	1
+ekskʰalamnai nazaŋa	1
+ekskʰalamnai nazaŋa aɾa	1
+tʰa	1
+tʰa boŋnai	1
+tʰa boŋnai zəzəŋ	1
+sasi	1
+sasi ittalini	1
+sasi ittalini biɡen	1
+həŋnai	1
+həŋnai boŋsidai	1
+həŋnai boŋsidai zəŋzəŋ	1
+baŋnai	1
+baŋnai ləɡə	1
+baŋnai ləɡə ləɡə	1
+ɡənze	1
+ɡənze beostʰaksa	1
+ɡənze beostʰaksa tʰəŋnə	1
+zananagomai	1
+zananagomai </s>	1
+tie	1
+tie moblib	1
+tie moblib dahaɾ	1
+ɡo	1
+ɡo mamu	1
+ɡo mamu tʰahaɡan	1
+diʋaid	2
+diʋaid bai	2
+diʋaid bai ʋan	1
+diʋaid bai saɾs	1
+tʰaŋzən	1
+tʰaŋzən ɾəzəze	1
+tʰaŋzən ɾəzəze ekʰu	1
+banai	1
+banai mənsei	1
+banai mənsei moblib	1
+godijamma	1
+godijamma kulom	1
+godijamma kulom nəŋtʰəmənai	1
+soŋkʰən	1
+soŋkʰən tʰai	1
+soŋkʰən tʰai beni	1
+mukə	1
+mukə salea	1
+mukə salea na	1
+siks	6
+siks empijaɾ	1
+siks empijaɾ tʰaienəŋtʰəmona	1
+siks nambaɾ	1
+siks nambaɾ nəŋtʰəmənə	1
+siks om	1
+siks om mitaɾ	1
+siks intu	2
+siks intu ten	2
+siks handɾed	1
+siks handɾed seken	1
+amma	1
+amma da	1
+amma da omni	1
+ɡona	2
+ɡona haʋajano	1
+ɡona haʋajano zaʋai	1
+ɡona zajani	1
+ɡona zajani siməi	1
+aɾə	50
+aɾə dabe	1
+aɾə dabe si	1
+aɾə </s>	3
+aɾə sabse	1
+aɾə sabse kʰələŋ	1
+aɾə tun	1
+aɾə tun naməɾə	1
+aɾə ɡolai	1
+aɾə ɡolai dʰattupʰəɾə	1
+aɾə nəŋtʰəmənə	1
+aɾə nəŋtʰəmənə biohai	1
+aɾə nibisin	1
+aɾə nibisin akʰinə	1
+aɾə tʰoɾse	1
+aɾə tʰoɾse betaɾi	1
+aɾə ziŋzei	1
+aɾə ziŋzei kʰizepʰuɾ	1
+aɾə səŋ	1
+aɾə səŋ sauɾai	1
+aɾə tʰəŋɡəɾ	1
+aɾə tʰəŋɡəɾ dansəni	1
+aɾə saɾsni	1
+aɾə saɾsni uze	1
+aɾə tʰahati	1
+aɾə tʰahati pʰaɾaɡazəɡən	1
+aɾə kaɾen	1
+aɾə kaɾen kɯ	1
+aɾə zəŋga	1
+aɾə zəŋga mənsə	1
+aɾə kiu	1
+aɾə kiu ʋezəʋai	1
+aɾə zeʋai	1
+aɾə zeʋai zəŋ	1
+aɾə zə	2
+aɾə zə twelf	1
+aɾə zə seʋen	1
+aɾə vol	1
+aɾə vol aɾə	1
+aɾə nəŋtʰəmona	1
+aɾə nəŋtʰəmona aiohai	1
+aɾə bekʰol	1
+aɾə bekʰol səsəimeɡenɡioni	1
+aɾə biohai	3
+aɾə biohai tʰahati	1
+aɾə biohai gi	1
+aɾə biohai libonai	1
+aɾə bekʰunə	2
+aɾə bekʰunə bekʰuni	1
+aɾə bekʰunə heŋtʰa	1
+aɾə emitəɾ	1
+aɾə emitəɾ həŋnai	1
+aɾə zəŋɡa	4
+aɾə zəŋɡa potensiel	1
+aɾə zəŋɡa se	1
+aɾə zəŋɡa be	1
+aɾə zəŋɡa uan	1
+aɾə mənse	1
+aɾə mənse moblib	1
+aɾə voltmitaɾkʰo	1
+aɾə voltmitaɾkʰo zai	1
+aɾə imitəɾ	1
+aɾə imitəɾ gəssəsə	1
+aɾə betʰiŋ	1
+aɾə betʰiŋ bekʰəziŋ	1
+aɾə tʰahaɾtʰi	1
+aɾə tʰahaɾtʰi baɾaɡ	1
+aɾə ʋekʰu	1
+aɾə ʋekʰu mənse	1
+aɾə bekʰainə	1
+aɾə bekʰainə zəŋɡa	1
+aɾə zebla	1
+aɾə zebla zəŋga	1
+aɾə johai	2
+aɾə johai nəŋtʰəmona	1
+aɾə johai aɾə	1
+aɾə beduzədə	1
+aɾə beduzədə tʰeŋnai	1
+aɾə haʋa	1
+aɾə haʋa maupʰəiməzə	1
+aɾə taim	1
+aɾə taim maŋnəi	1
+aɾə ma	2
+aɾə ma aɾ	1
+aɾə ma maɾi	1
+aɾə saʋ	1
+aɾə saʋ pʰəgən	1
+bekʰai	2
+bekʰai nəŋtʰəmənə	1
+bekʰai nəŋtʰəmənə ɡossolake	1
+bekʰai nəŋnai	1
+bekʰai nəŋnai zədə	1
+topik	1
+topik ni	1
+topik ni vəɾsə	1
+sa	1
+sa kʰontʰaini	1
+sa kʰontʰaini ənəŋtʰəmənə	1
+baɾboəɡan	1
+baɾboəɡan olanəŋtʰəmənə	1
+baɾboəɡan olanəŋtʰəmənə beʋaidis	1
+batʰahatipʰaɾə	1
+batʰahatipʰaɾə makʰəoŋa	1
+batʰahatipʰaɾə makʰəoŋa ʋenisən	1
+baɾtan	1
+baɾtan bikʰuma	1
+baɾtan bikʰuma moblib	1
+hunda	1
+hunda bepʰlaɾ	1
+hunda bepʰlaɾ moblib	1
+laki	2
+laki haɾazebla	1
+laki haɾazebla </s>	1
+laki </s>	1
+aɾanən	1
+aɾanən nəntʰəmonaizə	1
+aɾanən nəntʰəmonaizə iŋɡɾazi	1
+memeze	1
+memeze komplisen	1
+memeze komplisen kʰontʰai	1
+ɾuzutʰuijiaɾi	1
+ɾuzutʰuijiaɾi heŋtʰa	1
+ɾuzutʰuijiaɾi heŋtʰa buŋnai	1
+besiŋ	2
+besiŋ dakʰotʰai	1
+besiŋ dakʰotʰai bitʰiŋ	1
+besiŋ boɾsəɡə	1
+besiŋ boɾsəɡə laɡi	1
+gesin	1
+gesin lo	1
+gesin lo ʋitʰəŋ	1
+nigizizizəm	1
+nigizizizəm zəŋ	1
+nigizizizəm zəŋ nagam	1
+naɾəɡən	1
+naɾəɡən aɾəzəŋ	1
+naɾəɡən aɾəzəŋ be	1
+gonaizədəŋ	1
+gonaizədəŋ </s>	1
+bepʰəɾauba	1
+bepʰəɾauba maɾə	1
+bepʰəɾauba maɾə gadanəiŋ	1
+ŋuŋtʰumona	1
+ŋuŋtʰumona meʋai	1
+ŋuŋtʰumona meʋai binuna	1
+mabaide	1
+mabaide be	1
+mabaide be metɾi	1
+pʰoʋai	1
+pʰoʋai di	1
+pʰoʋai di haməkʰə	1
+kʰuliŋnai	1
+kʰuliŋnai kiu	1
+kʰuliŋnai kiu ikual	1
+mununu	1
+mununu mənə	1
+mununu mənə besin	1
+laotʰaiɡən	1
+laotʰaiɡən mobla	1
+laotʰaiɡən mobla mane	1
+bisəŋau	1
+bisəŋau masəŋoi	1
+bisəŋau masəŋoi zədəŋ	1
+kʰətʰai	1
+kʰətʰai zəŋa	1
+kʰətʰai zəŋa ɾiwaieti	1
+dabi	1
+dabi kaɾen	1
+dabi kaɾen moŋunamamuzinatʰə	1
+divaid	1
+divaid bai	1
+divaid bai uan	1
+didau	1
+didau la	1
+didau la manse	1
+tʰamitʋa	1
+tʰamitʋa tihaidoŋo	1
+tʰamitʋa tihaidoŋo tʰaimənait	1
+kaɹen	2
+kaɹen nɔ	1
+kaɹen nɔ zəŋɡa	1
+kaɹen hən	1
+kaɹen hən blasenbidzi	1
+laɡi	1
+laɡi </s>	1
+dazəŋ	1
+dazəŋ mua	1
+dazəŋ mua zədəŋ	1
+maulitʰaodən	1
+maulitʰaodən ʋezaʋai	1
+maulitʰaodən ʋezaʋai nəŋtʰəmoni	1
+kʰəinə	1
+kʰəinə biohai	1
+kʰəinə biohai nəŋtʰəmənə	1
+naʋas	1
+naʋas se	1
+naʋas se bolni	1
+nazaŋa	1
+nazaŋa aɾa	1
+nazaŋa aɾa ɾiplai	1
+boŋnai	3
+boŋnai zəzəŋ	1
+boŋnai zəzəŋ </s>	1
+boŋnai zeŋnai	1
+boŋnai zeŋnai zə	1
+boŋnai zədɐŋ	1
+boŋnai zədɐŋ beni	1
+ittalini	1
+ittalini biɡen	1
+ittalini biɡen ɡeɾeman	1
+boŋsidai	1
+boŋsidai zəŋzəŋ	1
+boŋsidai zəŋzəŋ məsəsaŋ	1
+ləɡə	2
+ləɡə ləɡə	1
+ləɡə ləɡə </s>	1
+ləɡə </s>	1
+beostʰaksa	1
+beostʰaksa tʰəŋnə	1
+beostʰaksa tʰəŋnə mənse	1
+vezewai	1
+vezewai posison	1
+vezewai posison vese	1
+inkuizaie	1
+inkuizaie oɾla	1
+inkuizaie oɾla beʋasuŋa	1
+mamu	1
+mamu tʰahaɡan	1
+mamu tʰahaɡan </s>	1
+es	1
+es aʋekʰi	1
+es aʋekʰi nəŋtʰəmona	1
+ɾəzəze	1
+ɾəzəze ekʰu	1
+ɾəzəze ekʰu zəŋɡa	1
+mənsei	3
+mənsei moblib	1
+mənsei moblib səŋkʰontʰaini	1
+mənsei kʰoɾosim	1
+mənsei kʰoɾosim se	1
+mənsei foɾmula	1
+mənsei foɾmula nəŋə	1
+kulom	1
+kulom nəŋtʰəmənai	1
+kulom nəŋtʰəmənai gəsəlahi	1
+ɡezizəŋ	1
+ɡezizəŋ tʰaŋnai	1
+ɡezizəŋ tʰaŋnai moblib	1
+salea	2
+salea na	1
+salea na mənse	1
+salea sim	1
+salea sim labaŋɡaio	1
+intu	4
+intu ten	2
+intu ten tu	2
+intu sikstie	1
+intu sikstie tʰai	1
+intu ai	1
+intu ai da	1
+ko	1
+ko ɾauɾainoi	1
+ko ɾauɾainoi sionə	1
+haʋajano	1
+haʋajano zaʋai	1
+haʋajano zaʋai be	1
+beai	1
+beai karen	1
+beai karen ni	1
+ɡossolake	1
+ɡossolake </s>	1
+vəɾsə	1
+vəɾsə aɡaŋsonise	1
+vəɾsə aɡaŋsonise so	1
+kʰontʰaini	1
+kʰontʰaini ənəŋtʰəmənə	1
+kʰontʰaini ənəŋtʰəmənə mənse	1
+olanəŋtʰəmənə	2
+olanəŋtʰəmənə beʋaidis	1
+olanəŋtʰəmənə beʋaidis siŋɡo	1
+olanəŋtʰəmənə meʋai	1
+olanəŋtʰəmənə meʋai simbəl	1
+makʰəoŋa	1
+makʰəoŋa ʋenisən	1
+makʰəoŋa ʋenisən mənizəŋ	1
+bikʰuma	1
+bikʰuma moblib	1
+bikʰuma moblib dahaɾ	1
+bepʰlaɾ	1
+bepʰlaɾ moblib	1
+bepʰlaɾ moblib ni	1
+haɾazebla	1
+haɾazebla </s>	1
+nəntʰəmonaizə	1
+nəntʰəmonaizə iŋɡɾazi	1
+nəntʰəmonaizə iŋɡɾazi ʋi	1
+komplisen	1
+komplisen kʰontʰai	1
+komplisen kʰontʰai </s>	1
+zəi	1
+zəi be	1
+zəi be ɾokʰozəŋɡa	1
+bitʰiŋ	1
+bitʰiŋ dazəptʰai	1
+bitʰiŋ dazəptʰai aɾə	1
+lo	1
+lo ʋitʰəŋ	1
+lo ʋitʰəŋ </s>	1
+nagam	1
+nagam menehai	1
+nagam menehai niŋtʰam	1
+mənnei	2
+mənnei ikuasən	1
+mənnei ikuasən nə	1
+mənnei somman	1
+mənnei somman zəŋ	1
+aɾai	2
+aɾai biohai	1
+aɾai biohai zəŋa	1
+aɾai zədəŋ	1
+aɾai zədəŋ aɾə	1
+maɾə	1
+maɾə gadanəiŋ	1
+maɾə gadanəiŋ kʰon	1
+meʋai	7
+meʋai dibuŋ	1
+meʋai dibuŋ puɾlu	1
+meʋai simbəl	1
+meʋai simbəl kʰə	1
+meʋai nisiziŋzizəŋ	1
+meʋai nisiziŋzizəŋ nəŋtʰəŋəzə	1
+meʋai issinamani	1
+meʋai issinamani kususəŋga	1
+meʋai binuna	1
+meʋai binuna muna	1
+meʋai ninnae	1
+meʋai ninnae moblib	1
+meʋai edi	1
+meʋai edi lenahaŋna	1
+metɾi	1
+metɾi əls	1
+metɾi əls mabai	1
+haməkʰə	1
+haməkʰə haŋnai	1
+haməkʰə haŋnai nudau	1
+ʋelogoɾu	1
+ʋelogoɾu kʰozuŋada	1
+ʋelogoɾu kʰozuŋada ai	1
+mənə	3
+mənə besin	1
+mənə besin muɹlisim	1
+mənə zəŋga	1
+mənə zəŋga siksti	1
+mənə besa	1
+mənə besa zəŋ	1
+dedingɾa	1
+dedingɾa besəba	1
+dedingɾa besəba laotʰaizəɡən	1
+masəŋoi	1
+masəŋoi zədəŋ	1
+masəŋoi zədəŋ </s>	1
+ɾiwaieti	1
+ɾiwaieti </s>	1
+moŋunamamuzinatʰə	1
+moŋunamamuzinatʰə muna	1
+moŋunamamuzinatʰə muna moɡlidah	1
+vekʰu	1
+vekʰu lina	1
+vekʰu lina </s>	1
+səŋkʰontʰei	1
+səŋkʰontʰei ligele	1
+səŋkʰontʰei ligele həŋna	1
+tihaidoŋo	1
+tihaidoŋo tʰaimənait	1
+tihaidoŋo tʰaimənait dəŋa	1
+nɔ	1
+nɔ zəŋɡa	1
+nɔ zəŋɡa bɔi	1
+beɡeziŋ	1
+beɡeziŋ maməndəŋ	1
+beɡeziŋ maməndəŋ aɾ	1
+voltmitaɾ	4
+voltmitaɾ nəŋtʰəŋməna	1
+voltmitaɾ nəŋtʰəŋməna vesolaki	1
+voltmitaɾ kʰoze	1
+voltmitaɾ kʰoze didau	1
+voltmitaɾ zaʋai	1
+voltmitaɾ zaʋai </s>	1
+voltmitaɾ niɡezizəŋ	1
+voltmitaɾ niɡezizəŋ da	1
+ʋezaʋai	1
+ʋezaʋai nəŋtʰəmoni	1
+ʋezaʋai nəŋtʰəmoni mizəoɾanai	1
+dedin	2
+dedin ɡɾani	1
+dedin ɡɾani ɡezeɾzo	1
+dedin mabaide	1
+dedin mabaide be	1
+bolni	1
+bolni ola	1
+bolni ola nəŋtʰəmona	1
+ɾiplai	2
+ɾiplai nəzə	1
+ɾiplai nəzə nagoma	1
+ɾiplai ono	1
+ɾiplai ono nazəŋ	1
+zəzəŋ	2
+zəzəŋ </s>	1
+zəzəŋ aɾ	1
+zəzəŋ aɾ manema	1
+biɡen	3
+biɡen ɡeɾeman	1
+biɡen ɡeɾeman mua	1
+biɡen mili	1
+biɡen mili zoɾs	1
+biɡen biɾia	1
+biɡen biɾia gehunanam	1
+zəŋzəŋ	1
+zəŋzəŋ məsəsaŋ	1
+zəŋzəŋ məsəsaŋ kontʰai	1
+kʰoɾon	2
+kʰoɾon tʰahatʰi	1
+kʰoɾon tʰahatʰi pʰaɾaɡabe	1
+kʰoɾon tʰahati	1
+kʰoɾon tʰahati pʰaɾaɡo	1
+tʰəŋnə	1
+tʰəŋnə mənse	1
+tʰəŋnə mənse dedən	1
+posison	1
+posison vese	1
+posison vese səns	1
+oɾla	3
+oɾla beʋasuŋa	1
+oɾla beʋasuŋa suŋa	1
+oɾla be	1
+oɾla be moblib	1
+oɾla besuməi	1
+oɾla besuməi zeŋɡa	1
+tʰahaɡan	1
+tʰahaɡan </s>	1
+aʋekʰi	1
+aʋekʰi nəŋtʰəmona	1
+aʋekʰi nəŋtʰəmona menifɾai	1
+ekʰu	1
+ekʰu zəŋɡa	1
+ekʰu zəŋɡa ʋe	1
+səŋkʰontʰaini	1
+səŋkʰontʰaini mənse	1
+səŋkʰontʰaini mənse kʰoɾonipʰɾai	1
+nəŋtʰəmənai	1
+nəŋtʰəmənai gəsəlahi	1
+nəŋtʰəmənai gəsəlahi aɾə	1
+dahaɾni	1
+dahaɾni tʰaŋzəŋ	1
+dahaɾni tʰaŋzəŋ ɾuzutʰaiaɾi	1
+eɾia	3
+eɾia moblib	1
+eɾia moblib sale	1
+eɾia boŋnai	1
+eɾia boŋnai zədɐŋ	1
+eɾia niseb	1
+eɾia niseb sə	1
+ten	10
+ten tu	8
+ten tu di	8
+ten biə	1
+ten biə zəŋɡa	1
+ten intu	1
+ten intu sikstie	1
+ɾauɾainoi	1
+ɾauɾainoi sionə	1
+ɾauɾainoi sionə nəŋtʰəməna	1
+zaʋai	2
+zaʋai be	1
+zaʋai be bindeni	1
+zaʋai </s>	1
+karen	2
+karen ni	2
+karen ni tʰaneŋma	1
+karen ni moblib	1
+səlai	2
+səlai səlai	1
+səlai səlai nəŋtʰa	1
+səlai nəŋtʰa	1
+səlai nəŋtʰa zəŋa	1
+aɡaŋsonise	1
+aɡaŋsonise so	1
+aɡaŋsonise so ɾezəʋainəŋtʰəmona	1
+ənəŋtʰəmənə	1
+ənəŋtʰəmənə mənse	1
+ənəŋtʰəmənə mənse </s>	1
+beʋaidis	1
+beʋaidis siŋɡo	1
+beʋaidis siŋɡo akʰinə	1
+ʋenisən	1
+ʋenisən mənizəŋ	1
+ʋenisən mənizəŋ sauɾaiɡən	1
+munnaizei	1
+munnaizei da	1
+munnaizei da aŋnatʰe	1
+dedeɾma	1
+dedeɾma dʰatupʰəɾəuma	1
+dedeɾma dʰatupʰəɾəuma bepʰaɾnaisao	1
+saʋaeʋasʋi	1
+saʋaeʋasʋi sabonkotʰae	1
+saʋaeʋasʋi sabonkotʰae omotʰanənəŋtʰə	1
+iŋɡɾazi	2
+iŋɡɾazi ʋi	1
+iŋɡɾazi ʋi iŋɡɾazi	1
+iŋɡɾazi səŋguni	1
+iŋɡɾazi səŋguni kʰinaikə	1
+kʰontʰai	3
+kʰontʰai </s>	1
+kʰontʰai manema	1
+kʰontʰai manema mai	1
+kʰontʰai buŋa	1
+kʰontʰai buŋa </s>	1
+ɾokʰozəŋɡa	1
+ɾokʰozəŋɡa ɾuzutʰaiɾe	1
+ɾokʰozəŋɡa ɾuzutʰaiɾe tʰəŋɡa	1
+betʰiŋ	1
+betʰiŋ bekʰəziŋ	1
+betʰiŋ bekʰəziŋ metʰiʋa	1
+ʋitʰəŋ	1
+ʋitʰəŋ </s>	1
+menehai	1
+menehai niŋtʰam	1
+menehai niŋtʰam manam	1
+ikuasən	1
+ikuasən nə	1
+ikuasən nə be	1
+natabtʰai	1
+natabtʰai dizəi	1
+natabtʰai dizəi beʋaikə	1
+gadanəiŋ	1
+gadanəiŋ kʰon	1
+gadanəiŋ kʰon ʋaikʰulkʰuɾai	1
+binuna	1
+binuna muna	1
+binuna muna meze	1
+əls	1
+əls mabai	1
+əls mabai ti	1
+haŋnai	3
+haŋnai nudau	1
+haŋnai nudau haŋnai	1
+haŋnai nəzəu	1
+haŋnai nəzəu tʰəŋnau	1
+haŋnai eɾia	1
+haŋnai eɾia boŋnai	1
+kʰozuŋada	1
+kʰozuŋada ai	1
+kʰozuŋada ai mane	1
+besin	1
+besin muɹlisim	1
+besin muɹlisim mɔne	1
+besəba	1
+besəba laotʰaizəɡən	1
+besəba laotʰaizəɡən be	1
+kiobekʰo	1
+kiobekʰo buzi	1
+kiobekʰo buzi ikuenaga	1
+pastʰaona	1
+pastʰaona mamaneŋa	1
+pastʰaona mamaneŋa bekʰi	1
+muna	3
+muna moɡlidah	1
+muna moɡlidah ɾahmomuda	1
+muna meŋu	1
+muna meŋu muzida	1
+muna meze	1
+muna meze bai	1
+bekʰainə	1
+bekʰainə zəŋɡa	1
+bekʰainə zəŋɡa ai	1
+ligele	1
+ligele həŋna	1
+ligele həŋna zəŋnai	1
+tʰaimənait	1
+tʰaimənait dəŋa	1
+tʰaimənait dəŋa aɾatma	1
+zəŋɡa	35
+zəŋɡa ɾeʋaiti	1
+zəŋɡa ɾeʋaiti heŋtʰa	1
+zəŋɡa aɾkʰu	1
+zəŋɡa aɾkʰu ɾeʋaiti	1
+zəŋɡa minit	1
+zəŋɡa minit kʰo	1
+zəŋɡa mobla	1
+zəŋɡa mobla sənsəsəŋ	1
+zəŋɡa be	1
+zəŋɡa be omni	1
+zəŋɡa ɾesistens	1
+zəŋɡa ɾesistens tʰamitba	1
+zəŋɡa tʰahati	1
+zəŋɡa tʰahati pʰəɾəŋa	1
+zəŋɡa se	1
+zəŋɡa se bʰolt	1
+zəŋɡa ai	1
+zəŋɡa ai ikual	1
+zəŋɡa ʋe	2
+zəŋɡa ʋe simbol	1
+zəŋɡa ʋe kʰalamnan	1
+zəŋɡa uan	2
+zəŋɡa uan empieɾ	1
+zəŋɡa uan om	1
+zəŋɡa ɾozəŋ	1
+zəŋɡa ɾozəŋ intimezea	1
+zəŋɡa nə	1
+zəŋɡa nə zəʋa	1
+zəŋɡa beniza	1
+zəŋɡa beniza </s>	1
+zəŋɡa mənsəsən	1
+zəŋɡa mənsəsən kontʰaio	1
+zəŋɡa heŋtʰa	1
+zəŋɡa heŋtʰa ɡaɾa	1
+zəŋɡa bɔi	1
+zəŋɡa bɔi mə	1
+zəŋɡa t͜səɡənam	1
+zəŋɡa t͜səɡənam </s>	1
+zəŋɡa potensiel	1
+zəŋɡa potensiel difaɾens	1
+zəŋɡa tʰahalakʰinai	1
+zəŋɡa tʰahalakʰinai benizəbai	1
+zəŋɡa omə	1
+zəŋɡa omə məntʰie	1
+zəŋɡa məma	1
+zəŋɡa məma uan	1
+zəŋɡa sauɾaiɡən	1
+zəŋɡa sauɾaiɡən </s>	1
+zəŋɡa zeblaʋe	1
+zəŋɡa zeblaʋe </s>	1
+zəŋɡa besiŋ	1
+zəŋɡa besiŋ dakʰotʰai	1
+zəŋɡa kaɹen	1
+zəŋɡa kaɹen hən	1
+zəŋɡa tu	1
+zəŋɡa tu kuɾu	1
+zəŋɡa aɾ	2
+zəŋɡa aɾ mi	1
+zəŋɡa aɾ iz	1
+zəŋɡa ʋeni	1
+zəŋɡa ʋeni məntʰaditisiŋ	1
+zəŋɡa han	1
+zəŋɡa han be	1
+zəŋɡa ma	1
+zəŋɡa ma distens	1
+zəŋɡa vi	1
+zəŋɡa vi gə	1
+maməndəŋ	1
+maməndəŋ aɾ	1
+maməndəŋ aɾ ikuel	1
+vesolaki	1
+vesolaki aɾə	1
+vesolaki aɾə voltmitaɾkʰo	1
+nəŋtʰəmoni	1
+nəŋtʰəmoni mizəoɾanai	1
+nəŋtʰəmoni mizəoɾanai twelf	1
+ɡɾani	1
+ɡɾani ɡezeɾzo	1
+ɡɾani ɡezeɾzo tʰaŋnai	1
+besi	1
+besi lionadehaŋnaɡa	1
+besi lionadehaŋnaɡa aɾə	1
+nəzə	2
+nəzə nagoma	1
+nəzə nagoma ani	1
+nəzə </s>	1
+əŋnai	1
+əŋnai bekʰuni	1
+əŋnai bekʰuni tʰaboŋnai	1
+ɡeɾeman	1
+ɡeɾeman mua	1
+ɡeɾeman mua biɡianɡiɾi	1
+məsəsaŋ	1
+məsəsaŋ kontʰai	1
+məsəsaŋ kontʰai tʰənai	1
+pʰaɾaɡabe	1
+pʰaɾaɡabe ekʰeɾokʰame	1
+pʰaɾaɡabe ekʰeɾokʰame baŋɡa	1
+dedən	1
+dedən ɡaondiɡəzəzəŋ	1
+dedən ɡaondiɡəzəzəŋ aɾəneʋei	1
+vese	1
+vese səns	1
+vese səns tʰənəmnalan	1
+beʋasuŋa	1
+beʋasuŋa suŋa	1
+beʋasuŋa suŋa mahaɾauma	1
+beni	12
+beni ɡəzəzəŋ	1
+beni ɡəzəzəŋ tʰəŋnai	1
+beni laotʰeini	1
+beni laotʰeini səbsəhaɡən	1
+beni tʰəŋɡə	1
+beni tʰəŋɡə dasasəoni	1
+beni laotʰaini	1
+beni laotʰaini sɾeŋ	1
+beni saio	1
+beni saio sənəgən	1
+beni muapʰɾai	1
+beni muapʰɾai akʰutʰaini	1
+beni kʰama	1
+beni kʰama ani	1
+beni kʰəinə	1
+beni kʰəinə biohai	1
+beni mənsei	1
+beni mənsei foɾmula	1
+beni ɡezizəŋ	1
+beni ɡezizəŋ tʰaŋnai	1
+beni munipʰɾo	1
+beni munipʰɾo laɾazəŋgan	1
+beni kʰamani	1
+beni kʰamani moblib	1
+menifɾai	4
+menifɾai mesiŋmalana	1
+menifɾai mesiŋmalana lanaŋʋa	1
+menifɾai aɾanligoɾanma	1
+menifɾai aɾanligoɾanma kʰom	1
+menifɾai empijaɾ	1
+menifɾai empijaɾ aɾa	1
+menifɾai ʋelogoɾu	1
+menifɾai ʋelogoɾu kʰozuŋada	1
+kʰalamnan	1
+kʰalamnan la	1
+kʰalamnan la mənse	1
+kʰoɾonipʰɾai	2
+kʰoɾonipʰɾai ɡubun	1
+kʰoɾonipʰɾai ɡubun mənsei	1
+kʰoɾonipʰɾai gubun	1
+kʰoɾonipʰɾai gubun mənse	1
+gəsəlahi	1
+gəsəlahi aɾə	1
+gəsəlahi aɾə imitəɾ	1
+tʰaŋzəŋ	1
+tʰaŋzəŋ ɾuzutʰaiaɾi	1
+tʰaŋzəŋ ɾuzutʰaiaɾi bekʰo	1
+sale	1
+sale bekʰu	1
+sale bekʰu muŋɡa	1
+tu	31
+tu </s>	1
+tu kʰulum	1
+tu kʰulum saz	1
+tu dobliu	3
+tu dobliu ʋai	2
+tu dobliu ba	1
+tu tʰahati	1
+tu tʰahati pʰoɾa	1
+tu ai	1
+tu ai tʰametʋa	1
+tu mamonamon	1
+tu mamonamon kiu	1
+tu kiu	2
+tu kiu bai	2
+tu uan	2
+tu uan </s>	1
+tu uan bai	1
+tu kuɾu	1
+tu kuɾu saɾs	1
+tu kolom	1
+tu kolom saɾs	1
+tu el	1
+tu el bai	1
+tu ʋan	1
+tu ʋan si	1
+tu malinnaeɾ	1
+tu malinnaeɾ uan	1
+tu ten	1
+tu ten tu	1
+tu di	9
+tu di pauaɾ	2
+tu di pauvaɾ	2
+tu di pauʋaɾ	2
+tu di pauəɾ	1
+tu di paueɾ	1
+tu di aitin	1
+tu mau	2
+tu mau uanda	1
+tu mau bintʰi	1
+tu vi	2
+tu vi bai	2
+sionə	1
+sionə nəŋtʰəməna	1
+sionə nəŋtʰəməna ese	1
+bindeni	1
+bindeni moblib	1
+bindeni moblib tʰahatʰi	1
+tʰaneŋma	1
+tʰaneŋma moblib	1
+tʰaneŋma moblib saɾs	1
+nəŋtʰa	1
+nəŋtʰa zəŋa	1
+nəŋtʰa zəŋa bekʰu	1
+ɾezəʋainəŋtʰəmona	1
+ɾezəʋainəŋtʰəmona nonamədəŋ	1
+ɾezəʋainəŋtʰəmona nonamədəŋ moblib	1
+mənse	37
+mənse ɾeŋen	1
+mənse ɾeŋen ɡaneɡezizəzəm	1
+mənse zega	1
+mənse zega pʰɾai	1
+mənse </s>	2
+mənse kʰoɾsim	1
+mənse kʰoɾsim se	1
+mənse dedeŋɾani	1
+mənse dedeŋɾani heŋtʰai	1
+mənse nigezizəŋ	1
+mənse nigezizəŋ aɾə	1
+mənse kʰoɾoni	1
+mənse kʰoɾoni pʰə	1
+mənse diaɡɾamni	1
+mənse diaɡɾamni ɡəzərzəŋ	1
+mənse koɾosen	1
+mənse koɾosen ʋeseboŋ	1
+mənse moblib	2
+mənse moblib dedenɡani	1
+mənse moblib dedenɡɾani	1
+mənse mənise	1
+mənse mənise beɡunɡɾani	1
+mənse dedineɡezizəŋ	1
+mənse dedineɡezizəŋ baŋɾai	1
+mənse ɡəɾlə	1
+mənse ɡəɾlə simbol	1
+mənse deɡin	1
+mənse deɡin naɡeɡizəŋ	1
+mənse ɡidiŋ	1
+mənse ɡidiŋ pʰiaɡeŋɡəzə	1
+mənse zəŋga	1
+mənse zəŋga oŋa	1
+mənse bindesim	1
+mənse bindesim sima	1
+mənse tʰiduŋtʰeo	1
+mənse tʰiduŋtʰeo anai	1
+mənse sənɡodi	1
+mənse sənɡodi dazabtʰai	1
+mənse seŋɾuzutʰaijaɾi	1
+mənse seŋɾuzutʰaijaɾi didəm	1
+mənse ze	1
+mənse ze kʰeze	1
+mənse bubaia	1
+mənse bubaia tʰaŋbai	1
+mənse eɾia	1
+mənse eɾia moblib	1
+mənse dedin	1
+mənse dedin ɡɾani	1
+mənse kʰoɾonipʰɾai	2
+mənse kʰoɾonipʰɾai ɡubun	1
+mənse kʰoɾonipʰɾai gubun	1
+mənse dedən	1
+mənse dedən ɡaondiɡəzəzəŋ	1
+mənse kosən	1
+mənse kosən nəŋdan	1
+mənse maʋanaɡan	1
+mənse maʋanaɡan siɾitʰaŋnadaɡatʰai	1
+mənse dediŋɾani	1
+mənse dediŋɾani pʰaɾnə	1
+mənse piksaɾ	1
+mənse piksaɾ nədəŋmədən	1
+mənse maɡannaɡan	1
+mənse maɡannaɡan siɾtʰaŋnadazabtʰaiɡa	1
+mənse səŋkontʰai	1
+mənse səŋkontʰai toŋo	1
+mənse pʰaɾsəziŋ	1
+mənse pʰaɾsəziŋ dazabtʰaihannameʋai	1
+mənse pʰilament	1
+mənse pʰilament zi	1
+siŋɡo	1
+siŋɡo akʰinə	1
+siŋɡo akʰinə nəŋɡən	1
+mənizəŋ	1
+mənizəŋ sauɾaiɡən	1
+mənizəŋ sauɾaiɡən ʋeniozəŋ	1
+aŋnatʰe	1
+aŋnatʰe munə	1
+aŋnatʰe munə ʋeni	1
+dʰatupʰəɾəuma	1
+dʰatupʰəɾəuma bepʰaɾnaisao	1
+dʰatupʰəɾəuma bepʰaɾnaisao tʰeŋnai	1
+sabonkotʰae	1
+sabonkotʰae omotʰanənəŋtʰə	1
+sabonkotʰae omotʰanənəŋtʰə mona	1
+ʋi	6
+ʋi ʋai	1
+ʋi ʋai ai	1
+ʋi bosauʋaɾi	1
+ʋi bosauʋaɾi gətʰəŋ	1
+ʋi iŋɡɾazi	1
+ʋi iŋɡɾazi səŋguni	1
+ʋi ikual	2
+ʋi ikual tu	2
+ʋi is	1
+ʋi is daiɾekli	1
+amuŋsən	1
+amuŋsən kontʰe	1
+amuŋsən kontʰe na	1
+ɾuzutʰaiɾe	1
+ɾuzutʰaiɾe tʰəŋɡa	1
+ɾuzutʰaiɾe tʰəŋɡa na	1
+bekʰəziŋ	1
+bekʰəziŋ metʰiʋa	1
+bekʰəziŋ metʰiʋa beʋai	1
+mənkʰələŋ	1
+mənkʰələŋ kʰəlae	1
+mənkʰələŋ kʰəlae nəŋtʰəŋmona	1
+niŋtʰam	1
+niŋtʰam manam	1
+niŋtʰam manam biohai	1
+somman	2
+somman zinnəi	1
+somman zinnəi dusaŋ	1
+somman zəŋ	1
+somman zəŋ zodi	1
+dizəi	1
+dizəi beʋaikə	1
+dizəi beʋaikə nəŋtʰəŋməna	1
+kʰon	1
+kʰon ʋaikʰulkʰuɾai	1
+kʰon ʋaikʰulkʰuɾai nəçʰəŋmona	1
+meze	1
+meze bai	1
+meze bai </s>	1
+mabai	1
+mabai ti	1
+mabai ti bekʰu	1
+nudau	1
+nudau haŋnai	1
+nudau haŋnai nəzəu	1
+bekʰlukʰuzə	1
+bekʰlukʰuzə ti	1
+bekʰlukʰuzə ti mane	1
+muɹlisim	1
+muɹlisim mɔne	1
+muɹlisim mɔne zəŋa	1
+laotʰaizəɡən	1
+laotʰaizəɡən be	1
+laotʰaizəɡən be laotʰəŋsəzəŋ	1
+ikuenaga	1
+ikuenaga aɾabelnekʰae	1
+ikuenaga aɾabelnekʰae nəŋtʰəŋmənə	1
+mamaneŋa	1
+mamaneŋa bekʰi	1
+mamaneŋa bekʰi kʰilinənəŋa	1
+moɡlidah	1
+moɡlidah ɾahmomuda	1
+moɡlidah ɾahmomuda mamuzia	1
+kʰəzəŋa	1
+kʰəzəŋa aɾənnə	1
+kʰəzəŋa aɾənnə so	1
+həŋna	2
+həŋna zəŋnai	1
+həŋna zəŋnai haɾa	1
+həŋna ae	1
+həŋna ae be	1
+dəŋa	2
+dəŋa aɾatma	1
+dəŋa aɾatma anaidəŋ	1
+dəŋa </s>	1
+mə	1
+mə zəŋɡa	1
+mə zəŋɡa kaɹen	1
+ikuel	1
+ikuel tu	1
+ikuel tu vi	1
+voltmitaɾkʰo	1
+voltmitaɾkʰo zai	1
+voltmitaɾkʰo zai bindo	1
+mizəoɾanai	1
+mizəoɾanai twelf	1
+mizəoɾanai twelf poin	1
+ɡezeɾzo	1
+ɡezeɾzo tʰaŋnai	1
+ɡezeɾzo tʰaŋnai saɾskʰə	1
+lionadehaŋnaɡa	1
+lionadehaŋnaɡa aɾə	1
+lionadehaŋnaɡa aɾə zəŋɡa	1
+nagoma	1
+nagoma ani	1
+nagoma ani aɾazəkʰəkʰo	1
+tʰaboŋnai	1
+tʰaboŋnai zəzəŋ	1
+tʰaboŋnai zəzəŋ aɾ	1
+mua	2
+mua biɡianɡiɾi	1
+mua biɡianɡiɾi alsendɾo	1
+mua zədəŋ	1
+mua zədəŋ voltmitaɾ	1
+kontʰai	6
+kontʰai zeula	1
+kontʰai zeula tʰahati	1
+kontʰai mane	1
+kontʰai mane heŋtʰa	1
+kontʰai kʰoakʰi	1
+kontʰai kʰoakʰi nəɡənzae	1
+kontʰai zəŋa	1
+kontʰai zəŋa akʰia	1
+kontʰai tʰənai	1
+kontʰai tʰənai moblib	1
+kontʰai la	1
+kontʰai la ɾissi	1
+ekʰeɾokʰame	1
+ekʰeɾokʰame baŋɡa	1
+ekʰeɾokʰame baŋɡa bene	1
+ɡaondiɡəzəzəŋ	1
+ɡaondiɡəzəzəŋ aɾəneʋei	1
+ɡaondiɡəzəzəŋ aɾəneʋei za	1
+səns	1
+səns tʰənəmnalan	1
+səns tʰənəmnalan nəŋtʰəmona	1
+suŋa	1
+suŋa mahaɾauma	1
+suŋa mahaɾauma tʰahatʰi	1
+nəŋə	1
+nəŋə bezəʋai	1
+nəŋə bezəʋai mənne	1
+mesiŋmalana	1
+mesiŋmalana lanaŋʋa	1
+mesiŋmalana lanaŋʋa za	1
+kosən	1
+kosən nəŋdan	1
+kosən nəŋdan plie	1
+ɡubun	1
+ɡubun mənsei	1
+ɡubun mənsei kʰoɾosim	1
+imitəɾ	1
+imitəɾ gəssəsə	1
+imitəɾ gəssəsə </s>	1
+ɾuzutʰaiaɾi	1
+ɾuzutʰaiaɾi bekʰo	1
+ɾuzutʰaiaɾi bekʰo omne	1
+bekʰu	13
+bekʰu buzəʋai	1
+bekʰu buzəʋai zamanu	1
+bekʰu nəŋtʰəmənə	1
+bekʰu nəŋtʰəmənə besolakʰi	1
+bekʰu biniza	1
+bekʰu biniza kulmaeti	1
+bekʰu beʋai	1
+bekʰu beʋai dinəŋtʰəzə	1
+bekʰu ɾəsə	1
+bekʰu ɾəsə lakin	1
+bekʰu pʰoɾmula	1
+bekʰu pʰoɾmula ese	1
+bekʰu mənsə	1
+bekʰu mənsə baŋɡɾe	1
+bekʰu zəŋɡa	3
+bekʰu zəŋɡa tʰahalakʰinai	1
+bekʰu zəŋɡa məma	1
+bekʰu zəŋɡa ɾozəŋ	1
+bekʰu səŋɡa	1
+bekʰu səŋɡa bŋnaizədəŋ	1
+bekʰu muŋɡa	1
+bekʰu muŋɡa zade	1
+bekʰu nanəŋ	1
+bekʰu nanəŋ məntʰi	1
+di	10
+di pauaɾ	2
+di pauaɾ mainas	1
+di pauaɾ inʋəɾs	1
+di pauvaɾ	2
+di pauvaɾ mainas	2
+di pauʋaɾ	2
+di pauʋaɾ uan	1
+di pauʋaɾ mainəs	1
+di pauəɾ	1
+di pauəɾ mainəs	1
+di paueɾ	1
+di paueɾ mainas	1
+di haməkʰə	1
+di haməkʰə haŋnai	1
+di aitin	1
+di aitin electɾotʰaid	1
+bonpʰuɾluhunaiɡidəŋ	1
+bonpʰuɾluhunaiɡidəŋ boŋsi	1
+bonpʰuɾluhunaiɡidəŋ boŋsi hantʰi	1
+tʰahatʰi	6
+tʰahatʰi da	1
+tʰahatʰi da </s>	1
+tʰahatʰi məŋnai	1
+tʰahatʰi məŋnai zədəda	1
+tʰahatʰi pʰaɾak	1
+tʰahatʰi pʰaɾak ɡo	1
+tʰahatʰi faɾaɡ	1
+tʰahatʰi faɾaɡ tʰanai	1
+tʰahatʰi pʰaɾakʰə	1
+tʰahatʰi pʰaɾakʰə inkuizalamnai	1
+tʰahatʰi pʰaɾaɡabe	1
+tʰahatʰi pʰaɾaɡabe ekʰeɾokʰame	1
+saɾs	11
+saɾs hala	1
+saɾs hala zəŋɡa	1
+saɾs tʰəŋoɡə	1
+saɾs tʰəŋoɡə besaɾs	1
+saɾs ni	1
+saɾs ni esse	1
+saɾs tʰaijo	1
+saɾs tʰaijo femuze	1
+saɾs san	1
+saɾs san godijamma	1
+saɾs tʰananəzəŋ	1
+saɾs tʰananəzəŋ kʰəmanimaunizəŋgan	1
+saɾs tʰaŋanənənəi	1
+saɾs tʰaŋanənənəi se	1
+saɾs aɾazətʰəzaŋa	1
+saɾs aɾazətʰəzaŋa </s>	1
+saɾs tʰəŋhənə	1
+saɾs tʰəŋhənə beseba	1
+saɾs ɡohiŋai	1
+saɾs ɡohiŋai battahaɾbohinai	1
+saɾs tʰəŋhənajob	1
+saɾs tʰəŋhənajob maʋnai	1
+dinəŋtʰəzə	1
+dinəŋtʰəzə ʋekʰu	1
+dinəŋtʰəzə ʋekʰu nəŋtʰəmənə	1
+nonamədəŋ	1
+nonamədəŋ moblib	1
+nonamədəŋ moblib tʰahaɾtʰi	1
+impoɾten	3
+impoɾten </s>	1
+impoɾten steiŋ	1
+impoɾten steiŋ ilektɾoɾo	1
+impoɾten zai	1
+impoɾten zai kʰizəzəŋa	1
+akʰinə	3
+akʰinə nəŋɡən	1
+akʰinə nəŋɡən aɾə	1
+akʰinə bazəŋɡa	1
+akʰinə bazəŋɡa se	1
+akʰinə hae	1
+akʰinə hae </s>	1
+ʋeniozəŋ	1
+ʋeniozəŋ osen	1
+ʋeniozəŋ osen kʰantʰipʰuɾ	1
+munə	1
+munə ʋeni	1
+munə ʋeni pʰupʰuɾlə	1
+bepʰaɾnaisao	1
+bepʰaɾnaisao tʰeŋnai	1
+bepʰaɾnaisao tʰeŋnai ɾəsə	1
+omotʰanənəŋtʰə	1
+omotʰanənəŋtʰə mona	1
+omotʰanənəŋtʰə mona ɾeʋaieti	1
+səŋguni	1
+səŋguni kʰinaikə	1
+səŋguni kʰinaikə kʰəʋazəŋ	1
+kontʰe	1
+kontʰe na	1
+kontʰe na muŋme	1
+mensə	1
+mensə nəŋtʰəmənə	1
+mensə nəŋtʰəmənə ɡəssəlakʰi	1
+metʰiʋa	1
+metʰiʋa beʋai	1
+metʰiʋa beʋai beʋai	1
+kʰəlae	1
+kʰəlae nəŋtʰəŋmona	1
+kʰəlae nəŋtʰəŋmona ʋesemil	1
+manam	1
+manam biohai	1
+manam biohai nunu	1
+zinnəi	1
+zinnəi dusaŋ	1
+zinnəi dusaŋ nai	1
+beʋaikə	1
+beʋaikə nəŋtʰəŋməna	1
+beʋaikə nəŋtʰəŋməna zude	1
+ʋaikʰulkʰuɾai	1
+ʋaikʰulkʰuɾai nəçʰəŋmona	1
+ʋaikʰulkʰuɾai nəçʰəŋmona nəzəilaɡe	1
+bai	13
+bai </s>	1
+bai e	2
+bai e nəŋtʰəmənə	1
+bai e bekʰə	1
+bai ai	1
+bai ai bekʰu	1
+bai uan	1
+bai uan empijaɾ	1
+bai ti	2
+bai ti be	1
+bai ti ni	1
+bai aini	1
+bai aini zezəŋ	1
+bai ʋan	1
+bai ʋan es	1
+bai nəŋtʰəmona	1
+bai nəŋtʰəmona gasimbaɾsən	1
+bai saɾs	1
+bai saɾs hala	1
+bai aitin	1
+bai aitin be	1
+bai aɾ	1
+bai aɾ kʰəzəŋa	1
+səŋɡa	1
+səŋɡa bŋnaizədəŋ	1
+səŋɡa bŋnaizədəŋ biohai	1
+nəzəu	1
+nəzəu tʰəŋnau	1
+nəzəu tʰəŋnau </s>	1
+diu	1
+diu na	1
+diu na lakʰaʋai	1
+mɔne	1
+mɔne zəŋa	1
+mɔne zəŋa </s>	1
+laotʰəŋsəzəŋ	1
+laotʰəŋsəzəŋ bediŋ	1
+laotʰəŋsəzəŋ bediŋ kʰopʰuzəŋnaize	1
+aɾabelnekʰae	1
+aɾabelnekʰae nəŋtʰəŋmənə	1
+aɾabelnekʰae nəŋtʰəŋmənə maukʰaunadəŋ	1
+bekʰi	2
+bekʰi kʰilinənəŋa	1
+bekʰi kʰilinənəŋa ela	1
+bekʰi məzə	1
+bekʰi məzə tʰoa	1
+ɾahmomuda	1
+ɾahmomuda mamuzia	1
+ɾahmomuda mamuzia </s>	1
+aɾənnə	1
+aɾənnə so	1
+aɾənnə so mopʰaia	1
+zəŋnai	1
+zəŋnai haɾa	1
+zəŋnai haɾa imitaɾ	1
+aɾatma	1
+aɾatma anaidəŋ	1
+aɾatma anaidəŋ ziɾo	1
+hən	1
+hən blasenbidzi	1
+hən blasenbidzi mominta	1
+əluzəŋ	1
+əluzəŋ sauɾə	1
+əluzəŋ sauɾə tʰəŋbai	1
+zai	2
+zai bindo	1
+zai bindo moneni	1
+zai kʰizəzəŋa	1
+zai kʰizəzəŋa </s>	1
+twelf	2
+twelf poin	2
+twelf poin uan	2
+saɾskʰə	1
+saɾskʰə hentʰa	1
+saɾskʰə hentʰa hənajanə	1
+bʰolt	1
+bʰolt ikual	1
+bʰolt ikual tu	1
+ani	3
+ani aɾazəkʰəkʰo	1
+ani aɾazəkʰəkʰo ze	1
+ani nikʰid	1
+ani nikʰid nibue	1
+ani moblib	1
+ani moblib entʰani	1
+aɾ	7
+aɾ manema	1
+aɾ manema be	1
+aɾ mi	1
+aɾ mi mənə	1
+aɾ iz	2
+aɾ iz daiɾekli	1
+aɾ iz </s>	1
+aɾ invəɾsli	1
+aɾ invəɾsli pɾəpoɾsənel	1
+aɾ ikuel	1
+aɾ ikuel tu	1
+aɾ kʰəzəŋa	1
+aɾ kʰəzəŋa aɾənnə	1
+biɡianɡiɾi	1
+biɡianɡiɾi alsendɾo	1
+biɡianɡiɾi alsendɾo volta	1
+tʰənai	1
+tʰənai moblib	1
+tʰənai moblib dahaɾ	1
+baŋɡa	1
+baŋɡa bene	1
+baŋɡa bene zadə	1
+aɾəneʋei	1
+aɾəneʋei za	1
+aɾəneʋei za saɾstʰaŋəinəzəŋ	1
+tʰənəmnalan	1
+tʰənəmnalan nəŋtʰəmona	1
+tʰənəmnalan nəŋtʰəmona aɾa	1
+mahaɾauma	1
+mahaɾauma tʰahatʰi	1
+mahaɾauma tʰahatʰi pʰaɾakʰə	1
+bezəʋai	1
+bezəʋai mənne	1
+bezəʋai mənne bidenifezəŋ	1
+lanaŋʋa	1
+lanaŋʋa za	1
+lanaŋʋa za maŋbai	1
+nəŋdan	1
+nəŋdan plie	1
+nəŋdan plie ʋezəʋai	1
+kʰoɾosim	1
+kʰoɾosim se	1
+kʰoɾosim se saɡodi	1
+gəssəsə	1
+gəssəsə </s>	1
+omne	1
+omne kʰantʰi	1
+omne kʰantʰi buŋnai	1
+muŋɡa	1
+muŋɡa zade	1
+muŋɡa zade aɾə	1
+aitin	2
+aitin electɾotʰaid	1
+aitin electɾotʰaid meʋai	1
+aitin be	1
+aitin be </s>	1
+hantʰi	1
+hantʰi manema	1
+hantʰi manema </s>	1
+sali	5
+sali moblib	1
+sali moblib sali	1
+sali ekʰana	1
+sali ekʰana sali	1
+sali nəŋtʰəmətʋa	1
+sali nəŋtʰəmətʋa boa	1
+sali puŋla	1
+sali puŋla mamuzəŋɡa	1
+sali puŋoblan	1
+sali puŋoblan holanna	1
+esse	1
+esse sanu	1
+esse sanu mudeizəŋga	1
+ʋekʰu	7
+ʋekʰu nəŋtʰəmənə	1
+ʋekʰu nəŋtʰəmənə ɡəɾə	1
+ʋekʰu simbol	1
+ʋekʰu simbol impoɾten	1
+ʋekʰu zəŋmənə	1
+ʋekʰu zəŋmənə ʋe	1
+ʋekʰu buŋnai	1
+ʋekʰu buŋnai zədə	1
+ʋekʰu zəŋ	1
+ʋekʰu zəŋ emitaɾ	1
+ʋekʰu zəŋɡa	1
+ʋekʰu zəŋɡa omə	1
+ʋekʰu mənse	1
+ʋekʰu mənse diaɡɾamni	1
+tʰahaɾtʰi	2
+tʰahaɾtʰi aɾə	1
+tʰahaɾtʰi aɾə tʰahaɾtʰi	1
+tʰahaɾtʰi baɾaɡ	1
+tʰahaɾtʰi baɾaɡ electɾik	1
+ninnae	1
+ninnae moblib	1
+ninnae moblib saŋ	1
+nəŋɡən	1
+nəŋɡən aɾə	1
+nəŋɡən aɾə zə	1
+osen	1
+osen kʰantʰipʰuɾ	1
+osen kʰantʰipʰuɾ sauɾaiɡən	1
+ʋeni	2
+ʋeni pʰupʰuɾlə	1
+ʋeni pʰupʰuɾlə kullizaha	1
+ʋeni məntʰaditisiŋ	1
+ʋeni məntʰaditisiŋ pʰeizəŋdetesiŋ	1
+bi	1
+bi tʰəŋai	1
+bi tʰəŋai məzəŋ	1
+ɾeʋaieti	1
+ɾeʋaieti akʰəkʰəɾʋainəŋdən	1
+ɾeʋaieti akʰəkʰəɾʋainəŋdən </s>	1
+kʰinaikə	1
+kʰinaikə kʰəʋazəŋ	1
+kʰinaikə kʰəʋazəŋ kʰəʋai	1
+na	7
+na mənse	1
+na mənse eɾia	1
+na buhi	1
+na buhi nai	1
+na bol	1
+na bol aikon	1
+na kʰoɾəisə	1
+na kʰoɾəisə nəŋtʰəməna	1
+na mensə	1
+na mensə nəŋtʰəmənə	1
+na muŋme	1
+na muŋme zəŋga	1
+na lakʰaʋai	1
+na lakʰaʋai siks	1
+ɡəssəlakʰi	1
+ɡəssəlakʰi naza	1
+ɡəssəlakʰi naza aɾə	1
+kʰələmnəi	1
+kʰələmnəi mənse	1
+kʰələmnəi mənse maʋanaɡan	1
+nəŋtʰəŋmona	2
+nəŋtʰəŋmona ʋesemil	1
+nəŋtʰəŋmona ʋesemil be	1
+nəŋtʰəŋmona zə	1
+nəŋtʰəŋmona zə pʰaɾənai	1
+nunu	1
+nunu munim	1
+nunu munim </s>	1
+dusaŋ	1
+dusaŋ nai	1
+dusaŋ nai zinne	1
+zude	1
+zude ʋeʋaiti	1
+zude ʋeʋaiti siŋɡəl	1
+nəçʰəŋmona	1
+nəçʰəŋmona nəzəilaɡe	1
+nəçʰəŋmona nəzəilaɡe so	1
+balkʰokʰurmai	1
+balkʰokʰurmai ərə	1
+balkʰokʰurmai ərə biokʰai	1
+bŋnaizədəŋ	1
+bŋnaizədəŋ biohai	1
+bŋnaizədəŋ biohai dapel	1
+tʰəŋnau	1
+tʰəŋnau </s>	1
+lakʰaʋai	1
+lakʰaʋai siks	1
+lakʰaʋai siks handɾed	1
+unni	4
+unni vidio	3
+unni vidio dissa	1
+unni vidio bissi	1
+unni vidio solamna	1
+unni ʋidio	1
+unni ʋidio salamna	1
+bediŋ	1
+bediŋ kʰopʰuzəŋnaize	1
+bediŋ kʰopʰuzəŋnaize laotʰaizudi	1
+maukʰaunadəŋ	1
+maukʰaunadəŋ da	1
+maukʰaunadəŋ da biohai	1
+kʰilinənəŋa	1
+kʰilinənəŋa ela	1
+kʰilinənəŋa ela eihenadoŋ	1
+mamuzia	1
+mamuzia </s>	1
+mopʰaia	1
+mopʰaia zəŋɡa	1
+mopʰaia zəŋɡa vi	1
+haɾa	1
+haɾa imitaɾ	1
+haɾa imitaɾ həzəŋga	1
+anaidəŋ	1
+anaidəŋ ziɾo	1
+anaidəŋ ziɾo poin	1
+blasenbidzi	1
+blasenbidzi mominta	1
+blasenbidzi mominta haua	1
+sauɾə	1
+sauɾə tʰəŋbai	1
+sauɾə tʰəŋbai </s>	1
+bindo	2
+bindo moneni	1
+bindo moneni tʰahati	1
+bindo monne	1
+bindo monne ɡi	1
+twel	1
+twel poin	1
+twel poin ʋan	1
+hentʰa	1
+hentʰa hənajanə	1
+hentʰa hənajanə be	1
+mau	2
+mau uanda	1
+mau uanda se	1
+mau bintʰi	1
+mau bintʰi biohai	1
+aɾazəkʰəkʰo	1
+aɾazəkʰəkʰo ze	1
+aɾazəkʰəkʰo ze nəŋtʰəmona	1
+zabai	1
+zabai entaɾə	1
+zabai entaɾə bainəzəi	1
+alsendɾo	1
+alsendɾo volta	1
+alsendɾo volta be	1
+husunai	1
+husunai zə	1
+husunai zə bekʰuzəbla	1
+bene	1
+bene zadə	1
+bene zadə omni	1
+saɾstʰaŋəinəzəŋ	1
+saɾstʰaŋəinəzəŋ kʰamanimozəŋ	1
+saɾstʰaŋəinəzəŋ kʰamanimozəŋ besəŋhaʋamonazəŋ	1
+kaɾeksən	1
+kaɾeksən kʰalamnaliŋ	1
+kaɾeksən kʰalamnaliŋ mezoi	1
+pʰaɾakʰə	1
+pʰaɾakʰə inkuizalamnai	1
+pʰaɾakʰə inkuizalamnai nəŋtʰəməna	1
+mənne	1
+mənne bidenifezəŋ	1
+mənne bidenifezəŋ tʰahate	1
+maŋbai	1
+maŋbai maɾkʰoa	1
+maŋbai maɾkʰoa meo	1
+plie	1
+plie ʋezəʋai	1
+plie ʋezəʋai əɾa	1
+saɡodi	1
+saɡodi saɾs	1
+saɡodi saɾs tʰəŋhənajob	1
+saintis	1
+saintis bezo	1
+saintis bezo foɾasi	1
+tʰaɾaibazəŋ	1
+tʰaɾaibazəŋ ɡubon	1
+tʰaɾaibazəŋ ɡubon ɾauɾəŋ	1
+zade	1
+zade aɾə	1
+zade aɾə zebla	1
+electɾotʰaid	1
+electɾotʰaid meʋai	1
+electɾotʰaid meʋai edi	1
+moŋsi	1
+moŋsi kʰandehiki	1
+moŋsi kʰandehiki kibiɡio	1
+puŋla	1
+puŋla mamuzəŋɡa	1
+puŋla mamuzəŋɡa moblib	1
+sanu	1
+sanu mudeizəŋga	1
+sanu mudeizəŋga kulum	1
+ɡəɾə	1
+ɡəɾə lakʰe	1
+ɡəɾə lakʰe naze	1
+baɾaɡ	1
+baɾaɡ electɾik	1
+baɾaɡ electɾik potensiel	1
+mai	1
+mai ilectrik	1
+mai ilectrik sarkit	1
+seʋen	1
+seʋen nambaɾə	1
+seʋen nambaɾə nəŋtʰəmənə	1
+kʰantʰipʰuɾ	1
+kʰantʰipʰuɾ sauɾaiɡən	1
+kʰantʰipʰuɾ sauɾaiɡən aɾa	1
+pʰupʰuɾlə	1
+pʰupʰuɾlə kullizaha	1
+pʰupʰuɾlə kullizaha naŋohai	1
+tʰəŋai	1
+tʰəŋai məzəŋ	1
+tʰəŋai məzəŋ dedinnaijəɾ	1
+akʰəkʰəɾʋainəŋdən	1
+akʰəkʰəɾʋainəŋdən </s>	1
+kʰəʋazəŋ	1
+kʰəʋazəŋ kʰəʋai	1
+kʰəʋazəŋ kʰəʋai nəŋtʰəmona	1
+muŋme	1
+muŋme zəŋga	1
+muŋme zəŋga </s>	1
+beduzədə	1
+beduzədə tʰeŋnai	1
+beduzədə tʰeŋnai esaiɾaŋ	1
+maʋanaɡan	1
+maʋanaɡan siɾitʰaŋnadaɡatʰai	1
+maʋanaɡan siɾitʰaŋnadaɡatʰai mənse	1
+ʋesemil	1
+ʋesemil be	1
+ʋesemil be gezezəŋ	1
+munim	1
+munim </s>	1
+zinne	1
+zinne sonne	1
+zinne sonne mənnei	1
+ʋeʋaiti	1
+ʋeʋaiti siŋɡəl	1
+ʋeʋaiti siŋɡəl lə	1
+nəzəilaɡe	1
+nəzəilaɡe so	1
+nəzəilaɡe so ləɡəɾdinei	1
+ərə	1
+ərə biokʰai	1
+ərə biokʰai nəŋtʰən	1
+dapel	1
+dapel nəŋtʰəŋ	1
+dapel nəŋtʰəŋ sakʰai	1
+eulibkʰau	1
+eulibkʰau aɾa	1
+eulibkʰau aɾa habanə	1
+handɾed	2
+handɾed seken	1
+handɾed seken aɾa	1
+handɾed kolum	1
+handɾed kolum məŋan	1
+vidio	4
+vidio dissa	1
+vidio dissa savanneɾi	1
+vidio bissi	1
+vidio bissi sammɔn	1
+vidio pʰoɾa	1
+vidio pʰoɾa nəŋtʰaŋmona	1
+vidio solamna	1
+vidio solamna benipʰɾai	1
+kʰopʰuzəŋnaize	1
+kʰopʰuzəŋnaize laotʰaizudi	1
+kʰopʰuzəŋnaize laotʰaizudi baŋɾaizebula	1
+sənnaomaɾɡao	1
+sənnaomaɾɡao ikual	1
+sənnaomaɾɡao ikual tu	1
+ela	1
+ela eihenadoŋ	1
+ela eihenadoŋ ai	1
+bikʰəŋ	1
+bikʰəŋ məsei	1
+bikʰəŋ məsei ipsani	1
+gə	1
+gə zəŋɡa	1
+gə zəŋɡa han	1
+həzəŋga	1
+həzəŋga siɾiebalaɾie	1
+həzəŋga siɾiebalaɾie hənəŋzaŋnaizebə	1
+ie	1
+ie mane	1
+ie mane empijaɾ	1
+mominta	1
+mominta haua	1
+mominta haua hakakʰaipo	1
+tʰəŋbai	1
+tʰəŋbai </s>	1
+moneni	1
+moneni tʰahati	1
+moneni tʰahati pʰaɾaɡo	1
+os	1
+os səŋlə	1
+os səŋlə soŋdan	1
+hənajanə	1
+hənajanə be	1
+hənajanə be dedinɡɾani	1
+uanda	1
+uanda se	1
+uanda se zul	1
+maʋa	1
+maʋa səŋo	1
+maʋa səŋo nənəŋmona	1
+entaɾə	1
+entaɾə bainəzəi	1
+entaɾə bainəzəi ɾesistens	1
+volta	2
+volta be	1
+volta be muŋni	1
+volta tʰakʰati	1
+volta tʰakʰati pʰaɾa	1
+bekʰuzəbla	1
+bekʰuzəbla osəŋ	1
+bekʰuzəbla osəŋ kontʰai	1
+zadə	1
+zadə omni	1
+zadə omni kʰantʰi	1
+kʰamanimozəŋ	1
+kʰamanimozəŋ besəŋhaʋamonazəŋ	1
+kʰamanimozəŋ besəŋhaʋamonazəŋ bekʰuna	1
+kʰalamnaliŋ	1
+kʰalamnaliŋ mezoi	1
+kʰalamnaliŋ mezoi mili	1
+inkuizalamnai	2
+inkuizalamnai nəŋtʰəməna	1
+inkuizalamnai nəŋtʰəməna ʋe	1
+inkuizalamnai ʋenəkʰainə	1
+inkuizalamnai ʋenəkʰainə ʋekʰu	1
+bidenifezəŋ	1
+bidenifezəŋ tʰahate	1
+bidenifezəŋ tʰahate pʰaɾak	1
+maɾkʰoa	1
+maɾkʰoa meo	1
+maɾkʰoa meo onli	1
+ikualtu	1
+ikualtu aiaɾ	1
+ikualtu aiaɾ bekʰə	1
+tʰəŋhənajob	1
+tʰəŋhənajob maʋnai	1
+tʰəŋhənajob maʋnai haʋa	1
+bezo	1
+bezo foɾasi	1
+bezo foɾasi bigiangiɾi	1
+ɡubon	1
+ɡubon ɾauɾəŋ	1
+ɡubon ɾauɾəŋ ɾeʋaiti	1
+zebla	2
+zebla zəŋga	1
+zebla zəŋga boɾla	1
+zebla mənse	1
+zebla mənse kʰoɾonipʰɾai	1
+edi	1
+edi lenahaŋna	1
+edi lenahaŋna </s>	1
+kʰandehiki	1
+kʰandehiki kibiɡio	1
+kʰandehiki kibiɡio zidenzə	1
+mamuzəŋɡa	1
+mamuzəŋɡa moblib	1
+mamuzəŋɡa moblib sali	1
+mudeizəŋga	1
+mudeizəŋga kulum	1
+mudeizəŋga kulum zəŋga	1
+lakʰe	1
+lakʰe naze	1
+lakʰe naze imitaɾ	1
+electɾik	1
+electɾik potensiel	1
+electɾik potensiel en	1
+ilectrik	1
+ilectrik sarkit	1
+ilectrik sarkit maema	1
+nambaɾə	1
+nambaɾə nəŋtʰəmənə	1
+nambaɾə nəŋtʰəmənə </s>	1
+makʰəzəzəŋ	1
+makʰəzəzəŋ piksaɾ	1
+makʰəzəzəŋ piksaɾ saɾainəiŋ	1
+kullizaha	1
+kullizaha naŋohai	1
+kullizaha naŋohai </s>	1
+dedinnaijəɾ	1
+dedinnaijəɾ ba	1
+dedinnaijəɾ ba kaɾen	1
+tʰanaŋdən	1
+tʰanaŋdən siɾfnaŋzabnaita	1
+tʰanaŋdən siɾfnaŋzabnaita kʰəzəŋɡa	1
+asaido	1
+asaido tʰəŋo	1
+asaido tʰəŋo nəŋtʰəmona	1
+johai	5
+johai nəŋtʰmona	1
+johai nəŋtʰmona betaɾi	1
+johai ladaŋ	1
+johai ladaŋ nəŋtʰəmona	1
+johai nəŋtʰəmona	1
+johai nəŋtʰəmona nəboudəŋ	1
+johai aɾə	1
+johai aɾə kaɾen	1
+johai semləzəŋ	1
+johai semləzəŋ swis	1
+tʰeŋnai	2
+tʰeŋnai esaiɾaŋ	1
+tʰeŋnai esaiɾaŋ udeizəŋ	1
+tʰeŋnai ɾəsə	1
+tʰeŋnai ɾəsə moblib	1
+siɾitʰaŋnadaɡatʰai	1
+siɾitʰaŋnadaɡatʰai mənse	1
+siɾitʰaŋnadaɡatʰai mənse maɡannaɡan	1
+gezezəŋ	1
+gezezəŋ nəŋtʰəŋmona	1
+gezezəŋ nəŋtʰəŋmona zə	1
+ke	2
+ke mane	1
+ke mane biohaissa	1
+ke </s>	1
+sonne	1
+sonne mənnei	1
+sonne mənnei somman	1
+siŋɡəl	1
+siŋɡəl lə	1
+siŋɡəl lə bekʰəi	1
+ləɡəɾdinei	1
+ləɡəɾdinei </s>	1
+biokʰai	1
+biokʰai nəŋtʰən	1
+biokʰai nəŋtʰən mona	1
+nəŋtʰəŋ	1
+nəŋtʰəŋ sakʰai	1
+nəŋtʰəŋ sakʰai nəŋtʰəŋmənə	1
+habanə	2
+habanə zunzei	2
+habanə zunzei nəŋtʰəmənə	2
+ziptʰəŋə	1
+ziptʰəŋə zəŋga	1
+ziptʰəŋə zəŋga muntən	1
+dissa	1
+dissa savanneɾi	1
+dissa savanneɾi simbola	1
+laotʰaizudi	1
+laotʰaizudi baŋɾaizebula	1
+laotʰaizudi baŋɾaizebula zəŋa	1
+maməŋnəi	1
+maməŋnəi lanae	1
+maməŋnəi lanae nəŋtʰəmənə	1
+eihenadoŋ	1
+eihenadoŋ ai	1
+eihenadoŋ ai zə	1
+məsei	1
+məsei ipsani	1
+məsei ipsani gizəŋə	1
+han	1
+han be	1
+han be vai	1
+siɾiebalaɾie	1
+siɾiebalaɾie hənəŋzaŋnaizebə	1
+siɾiebalaɾie hənəŋzaŋnaizebə nəŋtʰəmənə	1
+ənəi	1
+ənəi dəŋa	1
+ənəi dəŋa </s>	1
+haua	1
+haua hakakʰaipo	1
+haua hakakʰaipo suɹuŋa	1
+dediŋɾani	2
+dediŋɾani pʰaɾnə	1
+dediŋɾani pʰaɾnə kʰoɾon	1
+dediŋɾani ɾuzutʰuijiaɾi	1
+dediŋɾani ɾuzutʰuijiaɾi heŋtʰa	1
+pʰaɾaɡo	2
+pʰaɾaɡo suno	1
+pʰaɾaɡo suno naɡo	1
+pʰaɾaɡo uan	1
+pʰaɾaɡo uan bo	1
+səŋlə	1
+səŋlə soŋdan	1
+səŋlə soŋdan oŋse	1
+dedinɡɾani	3
+dedinɡɾani hamani	1
+dedinɡɾani hamani </s>	1
+dedinɡɾani tʰeŋtʰai	1
+dedinɡɾani tʰeŋtʰai zəɡən	1
+dedinɡɾani heŋtʰa	1
+dedinɡɾani heŋtʰa beni	1
+haŋaŋ	1
+haŋaŋ niʋei	1
+haŋaŋ niʋei kʰamani	1
+səŋo	1
+səŋo nənəŋmona	1
+səŋo nənəŋmona </s>	1
+bainəzəi	1
+bainəzəi ɾesistens	1
+bainəzəi ɾesistens boŋnai	1
+muŋni	1
+muŋni pʰɾai	1
+muŋni pʰɾai zəŋga	1
+osəŋ	1
+osəŋ kontʰai	1
+osəŋ kontʰai la	1
+nanəŋ	1
+nanəŋ məntʰi	1
+nanəŋ məntʰi kʰaʋai	1
+besəŋhaʋamonazəŋ	1
+besəŋhaʋamonazəŋ bekʰuna	1
+besəŋhaʋamonazəŋ bekʰuna məŋna	1
+mezoi	1
+mezoi mili	1
+mezoi mili empijaɾ	1
+ɾeʋai	2
+ɾeʋai suman	1
+ɾeʋai suman suman	1
+ɾeʋai inkuizalamnai	1
+ɾeʋai inkuizalamnai ʋenəkʰainə	1
+tʰahate	2
+tʰahate pʰaɾak	2
+tʰahate pʰaɾak zəŋ	1
+tʰahate pʰaɾak pʰiziŋ	1
+meo	2
+meo onli	1
+meo onli uan	1
+meo nəŋtʰəmono	1
+meo nəŋtʰəmono zənənai	1
+aiaɾ	1
+aiaɾ bekʰə	1
+aiaɾ bekʰə nəŋtʰəməna	1
+maʋnai	1
+maʋnai haʋa	1
+maʋnai haʋa mənse	1
+foɾasi	1
+foɾasi bigiangiɾi	1
+foɾasi bigiangiɾi endɾi	1
+ɾauɾəŋ	1
+ɾauɾəŋ ɾeʋaiti	1
+ɾauɾəŋ ɾeʋaiti ikuəsən	1
+boɾla	1
+boɾla mənse	1
+boɾla mənse ze	1
+lenahaŋna	1
+lenahaŋna </s>	1
+kibiɡio	1
+kibiɡio zidenzə	1
+kibiɡio zidenzə nəzziseni	1
+puŋoblan	1
+puŋoblan holanna	1
+puŋoblan holanna manse	1
+kulum	2
+kulum zəŋga	1
+kulum zəŋga beikʰis	1
+kulum saz	1
+kulum saz mohinai	1
+naze	1
+naze imitaɾ	1
+naze imitaɾ ɡazeŋɡa	1
+en	1
+en potensiel	1
+en potensiel difəɾens	1
+sarkit	2
+sarkit maema	1
+sarkit maema </s>	1
+sarkit nu	1
+sarkit nu mola	1
+batʰi	1
+batʰi ʋezeblazəŋ	1
+batʰi ʋezeblazəŋ moblib	1
+piksaɾ	3
+piksaɾ saɾainəiŋ	1
+piksaɾ saɾainəiŋ ma	1
+piksaɾ nəŋinəjizae	1
+piksaɾ nəŋinəjizae tʰaɾazəŋ	1
+piksaɾ nədəŋmədən	1
+piksaɾ nədəŋmədən ʋe	1
+naŋohai	1
+naŋohai </s>	1
+bəhi	1
+bəhi nəzəŋ	1
+bəhi nəzəŋ uzu	1
+siɾfnaŋzabnaita	1
+siɾfnaŋzabnaita kʰəzəŋɡa	1
+siɾfnaŋzabnaita kʰəzəŋɡa ɾeʋaiti	1
+tʰəŋo	1
+tʰəŋo nəŋtʰəmona	1
+tʰəŋo nəŋtʰəmona aɡan	1
+semləzəŋ	1
+semləzəŋ swis	1
+semləzəŋ swis ke	1
+esaiɾaŋ	1
+esaiɾaŋ udeizəŋ	1
+esaiɾaŋ udeizəŋ om	1
+maɡannaɡan	1
+maɡannaɡan siɾtʰaŋnadazabtʰaiɡa	1
+maɡannaɡan siɾtʰaŋnadazabtʰaiɡa mənse	1
+pʰaɾənai	1
+pʰaɾənai pʰoɾakʰəi	1
+pʰaɾənai pʰoɾakʰəi tʰamin	1
+mane	14
+mane </s>	2
+mane empijaɾ	1
+mane empijaɾ ma	1
+mane ziɾo	1
+mane ziɾo poin	1
+mane zul	1
+mane zul kukuɾməinə	1
+mane ohoi	1
+mane ohoi dediŋɡɾani	1
+mane saɾsabaɾ	1
+mane saɾsabaɾ laŋga	1
+mane heŋtʰa	1
+mane heŋtʰa kʰobo	1
+mane zuɾupʰɾa	1
+mane zuɾupʰɾa ruztʰaijaɾ	1
+mane boɾo	1
+mane boɾo mənse	1
+mane metɾ	1
+mane metɾ gonaizədəŋ	1
+mane baɾboəɡan	1
+mane baɾboəɡan olanəŋtʰəmənə	1
+mane dedingɾa	1
+mane dedingɾa besəba	1
+mane biohaissa	1
+mane biohaissa əzəŋzə	1
+konse	1
+konse zodi	1
+konse zodi zoveleona	1
+bekʰəi	1
+bekʰəi nəŋtʰəŋməna	1
+bekʰəi nəŋtʰəŋməna azab	1
+itopipʰəɾə	1
+itopipʰəɾə ekʰinənə	1
+itopipʰəɾə ekʰinənə aŋbanɾai	1
+nəŋtʰən	1
+nəŋtʰən mona	1
+nəŋtʰən mona nənəmənai	1
+sakʰai	1
+sakʰai nəŋtʰəŋmənə	1
+sakʰai nəŋtʰəŋmənə gazə	1
+zunzei	2
+zunzei nəŋtʰəmənə	2
+zunzei nəŋtʰəmənə beso	2
+muntən	1
+muntən tʰɾi	1
+muntən tʰɾi handɾed	1
+savanneɾi	1
+savanneɾi simbola	1
+savanneɾi simbola ma	1
+baŋɾaizebula	1
+baŋɾaizebula zəŋa	1
+baŋɾaizebula zəŋa bekʰu	1
+aɾazəŋ	2
+aɾazəŋ mənsi	1
+aɾazəŋ mənsi pʰoɾmula	1
+aɾazəŋ mobaudusomantʰai	1
+aɾazəŋ mobaudusomantʰai zini	1
+empiaɾ	1
+empiaɾ aɾə	1
+empiaɾ aɾə taim	1
+ipsani	1
+ipsani gizəŋə	1
+ipsani gizəŋə fəɹiməini	1
+vai	1
+vai kiu	1
+vai kiu linnə	1
+hənəŋzaŋnaizebə	1
+hənəŋzaŋnaizebə nəŋtʰəmənə	1
+hənəŋzaŋnaizebə nəŋtʰəmənə gəsəlaɾieza	1
+əɾədəŋa	1
+əɾədəŋa moblib	1
+əɾədəŋa moblib dahaɾ	1
+hakakʰaipo	1
+hakakʰaipo suɹuŋa	1
+hakakʰaipo suɹuŋa ba	1
+pʰaɾnə	1
+pʰaɾnə kʰoɾon	1
+pʰaɾnə kʰoɾon tʰahati	1
+suno	1
+suno naɡo	1
+suno naɡo be	1
+soŋdan	1
+soŋdan oŋse	1
+soŋdan oŋse baʋni	1
+hamani	1
+hamani </s>	1
+niʋei	1
+niʋei kʰamani	1
+niʋei kʰamani molgʰugul	1
+nənəŋmona	1
+nənəŋmona </s>	1
+zeŋnai	1
+zeŋnai zə	1
+zeŋnai zə monse	1
+munipʰɾo	1
+munipʰɾo laɾazəŋgan	1
+munipʰɾo laɾazəŋgan </s>	1
+la	4
+la ɾissi	1
+la ɾissi sazai	1
+la manse	1
+la manse zəŋa	1
+la pʰoɾmula	1
+la pʰoɾmula lanae	1
+la mənse	1
+la mənse kosən	1
+məntʰi	1
+məntʰi kʰaʋai	1
+məntʰi kʰaʋai ɡazib	1
+bekʰuna	1
+bekʰuna məŋna	1
+bekʰuna məŋna zəŋtʰahati	1
+əzəŋ	1
+əzəŋ emezənzəŋ	1
+əzəŋ emezənzəŋ nizəzai	1
+suman	4
+suman suman	2
+suman suman aɾau	1
+suman suman inkizaɡən	1
+suman aɾau	1
+suman aɾau ɾeʋai	1
+suman inkizaɡən	1
+suman inkizaɡən tʰamaʋabaɾi	1
+pʰiziŋ	1
+pʰiziŋ diziŋae	1
+pʰiziŋ diziŋae aɾə	1
+onli	1
+onli uan	1
+onli uan maɾk	1
+bekʰə	3
+bekʰə nəŋtʰəməna	1
+bekʰə nəŋtʰəməna məme	1
+bekʰə nəŋtʰəmənə	1
+bekʰə nəŋtʰəmənə bekʰə	1
+bekʰə nəɡəm	1
+bekʰə nəɡəm aɾəzə	1
+haʋa	8
+haʋa maupʰuŋnai	1
+haʋa maupʰuŋnai diʋaid	1
+haʋa nəŋtʰəŋmənə	1
+haʋa nəŋtʰəŋmənə ʋe	1
+haʋa maupʰəiməzə	1
+haʋa maupʰəiməzə dobliu	1
+haʋa maunai	1
+haʋa maunai zəjobla	1
+haʋa kʰobihəŋɡa	1
+haʋa kʰobihəŋɡa tʰamitba	1
+haʋa maunaŋɡon	1
+haʋa maunaŋɡon a	1
+haʋa mənse	1
+haʋa mənse səŋkontʰai	1
+haʋa kʰamani	1
+haʋa kʰamani molgʰugul	1
+bigiangiɾi	1
+bigiangiɾi endɾi	1
+bigiangiɾi endɾi meɾi	1
+ikuəsən	1
+ikuəsən vi	1
+ikuəsən vi is	1
+kʰeze	1
+kʰeze moa	1
+kʰeze moa kʰo	1
+meniuɾ	1
+meniuɾ ʋeu	1
+meniuɾ ʋeu matʰəŋan	1
+zidenzə	1
+zidenzə nəzziseni	1
+zidenzə nəzziseni məitʰə	1
+holanna	1
+holanna manse	1
+holanna manse ma	1
+beikʰis	1
+beikʰis </s>	1
+ɡazeŋɡa	1
+ɡazeŋɡa beʋaiti	1
+ɡazeŋɡa beʋaiti nəŋtʰəŋamazea	1
+difəɾens	1
+difəɾens da	1
+difəɾens da moblib	1
+maema	1
+maema </s>	1
+ʋezeblazəŋ	1
+ʋezeblazəŋ moblib	1
+ʋezeblazəŋ moblib batʰibabaɾkʰua	1
+saɾainəiŋ	1
+saɾainəiŋ ma	1
+saɾainəiŋ ma zəŋga	1
+bezəsas	1
+bezəsas sauaɾi	1
+bezəsas sauaɾi bikʰaŋ	1
+uzu	1
+uzu ɾedi	1
+uzu ɾedi zaieɾ	1
+simbozəŋditʰənəizə	1
+simbozəŋditʰənəizə ʋekʰənəŋtʰəmənə	1
+simbozəŋditʰənəizə ʋekʰənəŋtʰəmənə solagibeniuonde	1
+aɡan	2
+aɡan aɾa	1
+aɡan aɾa </s>	1
+aɡan beni	1
+aɡan beni tʰəŋɡə	1
+swis	2
+swis ke	1
+swis ke </s>	1
+swis zubuŋ	1
+swis zubuŋ nai	1
+udeizəŋ	1
+udeizəŋ om	1
+udeizəŋ om mitaɾ	1
+siɾtʰaŋnadazabtʰaiɡa	1
+siɾtʰaŋnadazabtʰaiɡa mənse	1
+siɾtʰaŋnadazabtʰaiɡa mənse pʰaɾsəziŋ	1
+pʰoɾakʰəi	1
+pʰoɾakʰəi tʰamin	1
+pʰoɾakʰəi tʰamin ba	1
+biohaissa	1
+biohaissa əzəŋzə	1
+biohaissa əzəŋzə ola	1
+zoveleona	1
+zoveleona gozaibla	1
+zoveleona gozaibla oɾla	1
+azab	1
+azab tʰai	1
+azab tʰai mitʰumtʰinaŋɡan	1
+ekʰinənə	1
+ekʰinənə aŋbanɾai	1
+ekʰinənə aŋbanɾai kəpi	1
+mona	6
+mona moblib	1
+mona moblib dahaɾ	1
+mona kaɾen	1
+mona kaɾen ni	1
+mona nunə	1
+mona nunə monai	1
+mona meʋai	1
+mona meʋai dibuŋ	1
+mona ɾeʋaieti	1
+mona ɾeʋaieti akʰəkʰəɾʋainəŋdən	1
+mona nənəmənai	1
+mona nənəmənai je	1
+gazə	1
+gazə lakʰim	1
+gazə lakʰim nəzə	1
+beso	2
+beso laɡe	2
+beso laɡe aɾa	2
+kolum	1
+kolum məŋan	1
+kolum məŋan nəɾə	1
+simbola	1
+simbola ma	1
+simbola ma </s>	1
+baŋɡɾe	1
+baŋɡɾe kʰu	1
+baŋɡɾe kʰu zuŋ	1
+nəŋdəmənən	1
+nəŋdəmənən bepʰoɾmule	1
+nəŋdəmənən bepʰoɾmule ese	1
+taim	1
+taim maŋnəi	1
+taim maŋnəi daŋa	1
+gizəŋə	1
+gizəŋə fəɹiməini	1
+gizəŋə fəɹiməini nəiɡiʈaŋ	1
+linnə	1
+linnə həŋna	1
+linnə həŋna ae	1
+gəsəlaɾieza	1
+gəsəlaɾieza unni	1
+gəsəlaɾieza unni ʋidio	1
+əɾəzəŋ	1
+əɾəzəŋ kʰoma	1
+əɾəzəŋ kʰoma niunədə	1
+suɹuŋa	1
+suɹuŋa ba	1
+suɹuŋa ba lekʰa	1
+ləɡən	1
+ləɡən beni	1
+ləɡən beni ɡəzəzəŋ	1
+naɡo	1
+naɡo be	1
+naɡo be bindo	1
+oŋse	1
+oŋse baʋni	1
+oŋse baʋni mənse	1
+tʰaɾa	1
+tʰaɾa be	1
+tʰaɾa be heŋtʰa	1
+kʰamani	3
+kʰamani molgʰugul	2
+kʰamani molgʰugul meisan	2
+kʰamani moblib	1
+kʰamani moblib entʰani	1
+zəŋhai	1
+zəŋhai bisʋisano	1
+zəŋhai bisʋisano liŋkʰənaidoŋo	1
+ɡezeɾo	1
+ɡezeɾo tʰaŋnai	1
+ɡezeɾo tʰaŋnai saɾso	1
+laɾazəŋgan	1
+laɾazəŋgan </s>	1
+ɾissi	1
+ɾissi sazai	1
+ɾissi sazai mezaie	1
+kʰaʋai	1
+kʰaʋai ɡazib	1
+kʰaʋai ɡazib ani	1
+məŋna	1
+məŋna zəŋtʰahati	1
+məŋna zəŋtʰahati pʰaɾak	1
+emezənzəŋ	1
+emezənzəŋ nizəzai	1
+emezənzəŋ nizəzai aɾa	1
+aɾau	1
+aɾau ɾeʋai	1
+aɾau ɾeʋai inkuizalamnai	1
+diziŋae	1
+diziŋae aɾə	1
+diziŋae aɾə saʋ	1
+maɾk	1
+maɾk saga	1
+maɾk saga </s>	1
+məme	1
+məme aɡen	1
+məme aɡen ɡəzeula	1
+səŋkontʰai	1
+səŋkontʰai toŋo	1
+səŋkontʰai toŋo eisəŋ	1
+endɾi	1
+endɾi meɾi	1
+endɾi meɾi enoijaɾ	1
+vi	5
+vi is	1
+vi is daiɾekli	1
+vi ikualtu	1
+vi ikualtu aiaɾ	1
+vi bai	2
+vi bai ai	1
+vi bai aɾ	1
+vi gə	1
+vi gə zəŋɡa	1
+moa	1
+moa kʰo	1
+moa kʰo </s>	1
+ʋeu	1
+ʋeu matʰəŋan	1
+ʋeu matʰəŋan nəsə	1
+nəzziseni	1
+nəzziseni məitʰə	1
+nəzziseni məitʰə səsse	1
+manse	3
+manse ma	1
+manse ma moblib	1
+manse zəŋa	1
+manse zəŋa </s>	1
+manse zətʰai	1
+manse zətʰai </s>	1
+siszen	1
+siszen dinçʰiŋeize	1
+siszen dinçʰiŋeize aɾə	1
+nəŋtʰəŋamazea	1
+nəŋtʰəŋamazea </s>	1
+tʰakʰatʰi	1
+tʰakʰatʰi ru	1
+tʰakʰatʰi ru pʰoɾesi	1
+ilektrik	1
+ilektrik sarkit	1
+ilektrik sarkit nu	1
+batʰibabaɾkʰua	1
+batʰibabaɾkʰua olanəŋtʰəmənə	1
+batʰibabaɾkʰua olanəŋtʰəmənə meʋai	1
+mənsəsəɾ	1
+mənsəsəɾ saɾkit	1
+mənsəsəɾ saɾkit diegɾam	1
+sauaɾi	1
+sauaɾi bikʰaŋ	1
+sauaɾi bikʰaŋ məzə	1
+ɾedi	1
+ɾedi zaieɾ	1
+ɾedi zaieɾ aɾə	1
+ʋekʰənəŋtʰəmənə	1
+ʋekʰənəŋtʰəmənə solagibeniuonde	1
+ʋekʰənəŋtʰəmənə solagibeniuonde </s>	1
+zaipʰəɾai	1
+zaipʰəɾai nəŋtʰəmona	1
+zaipʰəɾai nəŋtʰəmona bai	1
+seɾnagaŋ	1
+seɾnagaŋ oɾlanegeu	1
+seɾnagaŋ oɾlanegeu balbazəŋ	1
+besolakʰi	1
+besolakʰi aɾə	1
+besolakʰi aɾə biohai	1
+pʰaɾsəziŋ	1
+pʰaɾsəziŋ dazabtʰaihannameʋai	1
+pʰaɾsəziŋ dazabtʰaihannameʋai nəŋtʰəŋmənə	1
+tʰamin	1
+tʰamin ba	1
+tʰamin ba tʰakʰizio	1
+əzəŋzə	1
+əzəŋzə ola	1
+əzəŋzə ola suissega	1
+gozaibla	1
+gozaibla oɾla	1
+gozaibla oɾla besuməi	1
+mitʰumtʰinaŋɡan	1
+mitʰumtʰinaŋɡan aɾasəŋzəŋa	1
+mitʰumtʰinaŋɡan aɾasəŋzəŋa ɾeʋaiti	1
+aŋbanɾai	1
+aŋbanɾai kəpi	1
+aŋbanɾai kəpi kʰalanəŋ	1
+nənəmənai	1
+nənəmənai je	1
+nənəmənai je je	1
+lakʰim	1
+lakʰim nəzə	1
+lakʰim nəzə </s>	1
+laɡe	2
+laɡe aɾa	2
+laɡe aɾa tʰahati	2
+məŋan	1
+məŋan nəɾə	1
+məŋan nəɾə nəŋtʰəməna	1
+ma	12
+ma </s>	1
+ma moblib	1
+ma moblib tʰaŋai	1
+ma mənəzəŋ	1
+ma mənəzəŋ məsəsaɾkidau	1
+ma zəŋga	1
+ma zəŋga mənsəsəɾ	1
+ma distens	1
+ma distens si	1
+ma munizəŋ	1
+ma munizəŋ volmitaɾ	1
+ma maɾi	1
+ma maɾi sənəɡən	1
+ma zabod	1
+ma zabod kʰom	1
+ma biɡen	1
+ma biɡen mili	1
+ma aɾ	1
+ma aɾ invəɾsli	1
+ma ənəi	1
+ma ənəi dəŋa	1
+ma mənəizəŋ	1
+ma mənəizəŋ kʰaneikʰələmnə	1
+kʰu	1
+kʰu zuŋ	1
+kʰu zuŋ baŋ	1
+bepʰoɾmule	1
+bepʰoɾmule ese	1
+bepʰoɾmule ese aləŋəzən	1
+maŋnəi	1
+maŋnəi daŋa	1
+maŋnəi daŋa </s>	1
+fəɹiməini	1
+fəɹiməini nəiɡiʈaŋ	1
+fəɹiməini nəiɡiʈaŋ </s>	1
+ae	1
+ae be	1
+ae be nettezəŋə	1
+salamna	1
+salamna </s>	1
+kʰoma	1
+kʰoma niunədə	1
+kʰoma niunədə beisən	1
+ba	7
+ba tʰakʰizio	1
+ba tʰakʰizio ŋənai	1
+ba tʰametʋa	1
+ba tʰametʋa dazabtʰei	1
+ba imitaɾ	1
+ba imitaɾ pʰuɾaŋzab	1
+ba kiu	1
+ba kiu seʋai	1
+ba eks	1
+ba eks eksis	1
+ba kaɾen	1
+ba kaɾen bəhi	1
+ba lekʰa	1
+ba lekʰa leɹisuɹuŋ	1
+ɡəzəzəŋ	1
+ɡəzəzəŋ tʰəŋnai	1
+ɡəzəzəŋ tʰəŋnai moblib	1
+monne	2
+monne ɡi	1
+monne ɡi </s>	1
+monne bideni	1
+monne bideni ɡezeɾzəŋ	1
+baʋni	1
+baʋni mənse	1
+baʋni mənse pʰilament	1
+ɡɾakʰozzi	1
+ɡɾakʰozzi zəhənəi	1
+ɡɾakʰozzi zəhənəi zəbai	1
+molgʰugul	2
+molgʰugul meisan	2
+molgʰugul meisan haʋa	1
+molgʰugul meisan haʋakʰauzəŋga	1
+bisʋisano	1
+bisʋisano liŋkʰənaidoŋo	1
+bisʋisano liŋkʰənaidoŋo watsaʋu	1
+saɾso	1
+saɾso heŋtʰa	1
+saɾso heŋtʰa be	1
+dedenɡani	2
+dedenɡani pʰaɾne	1
+dedenɡani pʰaɾne kʰoɾoni	1
+dedenɡani ɡezeɾo	1
+dedenɡani ɡezeɾo tʰaŋnai	1
+sazai	1
+sazai mezaie	1
+sazai mezaie </s>	1
+ɡazib	1
+ɡazib ani	1
+ɡazib ani nikʰid	1
+zəŋtʰahati	1
+zəŋtʰahati pʰaɾak	1
+zəŋtʰahati pʰaɾak </s>	1
+nizəzai	1
+nizəzai aɾa	1
+nizəzai aɾa </s>	1
+ʋenəkʰainə	1
+ʋenəkʰainə ʋekʰu	1
+ʋenəkʰainə ʋekʰu buŋnai	1
+saʋ	1
+saʋ pʰəgən	1
+saʋ pʰəgən haʋa	1
+saga	1
+saga </s>	1
+aɡen	1
+aɡen ɡəzeula	1
+aɡen ɡəzeula </s>	1
+toŋo	1
+toŋo eisəŋ	1
+toŋo eisəŋ kontʰaini	1
+meɾi	1
+meɾi enoijaɾ	1
+meɾi enoijaɾ da	1
+is	2
+is daiɾekli	2
+is daiɾekli pɾopoɾsənəl	1
+is daiɾekli tʰauɾa	1
+dazabtʰei	1
+dazabtʰei saɾskʰa	1
+dazabtʰei saɾskʰa zeŋboa	1
+matʰəŋan	1
+matʰəŋan nəsə	1
+matʰəŋan nəsə elektɾon	1
+məitʰə	1
+məitʰə səsse	1
+məitʰə səsse zaman	1
+tʰametʋa	6
+tʰametʋa zeula	1
+tʰametʋa zeula nikʰi	1
+tʰametʋa ɾia	1
+tʰametʋa ɾia istoa	1
+tʰametʋa zəŋɡa	2
+tʰametʋa zəŋɡa besiŋ	1
+tʰametʋa zəŋɡa heŋtʰa	1
+tʰametʋa mənse	1
+tʰametʋa mənse zəŋga	1
+tʰametʋa dazabtʰei	1
+tʰametʋa dazabtʰei saɾskʰa	1
+dinçʰiŋeize	1
+dinçʰiŋeize aɾə	1
+dinçʰiŋeize aɾə dabe	1
+ɡezeɾao	1
+ɡezeɾao imitaɾ	1
+ɡezeɾao imitaɾ manema	1
+ru	1
+ru pʰoɾesi	1
+ru pʰoɾesi nətʰəŋmona	1
+nu	1
+nu mola	1
+nu mola nətʰəŋ	1
+simbəl	1
+simbəl kʰə	1
+simbəl kʰə lana	1
+saɾkit	3
+saɾkit diegɾam	1
+saɾkit diegɾam akʰinila	1
+saɾkit niɡezizəm	1
+saɾkit niɡezizəm ʋesəʋa	1
+saɾkit diaɡɾam	1
+saɾkit diaɡɾam baseŋ	1
+bikʰaŋ	1
+bikʰaŋ məzə	1
+bikʰaŋ məzə moni	1
+zaieɾ	1
+zaieɾ aɾə	1
+zaieɾ aɾə </s>	1
+solagibeniuonde	1
+solagibeniuonde </s>	1
+gasimbaɾsən	1
+gasimbaɾsən səbse	1
+gasimbaɾsən səbse zəlamna	1
+oɾlanegeu	1
+oɾlanegeu balbazəŋ	1
+oɾlanegeu balbazəŋ naga	1
+libonai	1
+libonai lədə	1
+libonai lədə mədəŋ	1
+dazabtʰaihannameʋai	1
+dazabtʰaihannameʋai nəŋtʰəŋmənə	1
+dazabtʰaihannameʋai nəŋtʰəŋmənə nənəmədəŋ	1
+tʰakʰizio	1
+tʰakʰizio ŋənai	1
+tʰakʰizio ŋənai </s>	1
+ola	6
+ola suissega	1
+ola suissega </s>	1
+ola nəŋtʰəmona	3
+ola nəŋtʰəmona sekʰolo	1
+ola nəŋtʰəmona menifai	1
+ola nəŋtʰəmona ʋe	1
+ola nəŋtʰəməna	1
+ola nəŋtʰəməna beʋai	1
+ola zəŋa	1
+ola zəŋa </s>	1
+besuməi	1
+besuməi zeŋɡa	1
+besuməi zeŋɡa revaiti	1
+aɾasəŋzəŋa	1
+aɾasəŋzəŋa ɾeʋaiti	1
+aɾasəŋzəŋa ɾeʋaiti dapʰuɾ	1
+kəpi	1
+kəpi kʰalanəŋ	1
+kəpi kʰalanəŋ ze	1
+je	2
+je je	1
+je je manei	1
+je manei	1
+je manei </s>	1
+aɾabə	1
+aɾabə biohai	1
+aɾabə biohai nəŋboadəŋ	1
+pʰaɾakni	2
+pʰaɾakni kolsae	2
+pʰaɾakni kolsae aɾa	1
+pʰaɾakni kolsae aɾə	1
+nəɾə	2
+nəɾə nəŋtʰəməna	1
+nəɾə nəŋtʰəməna kolomənə	1
+nəɾə eɾia	1
+nəɾə eɾia niseb	1
+mevai	1
+mevai bisim	1
+mevai bisim muɹtʰeklam	1
+zuŋ	1
+zuŋ baŋ	1
+zuŋ baŋ niɡemeŋtʰəiza	1
+aləŋəzən	1
+aləŋəzən be	1
+aləŋəzən be zəŋai	1
+daŋa	1
+daŋa </s>	1
+nəiɡiʈaŋ	1
+nəiɡiʈaŋ </s>	1
+nettezəŋə	1
+nettezəŋə </s>	1
+mənəizəŋ	1
+mənəizəŋ kʰaneikʰələmnə	1
+mənəizəŋ kʰaneikʰələmnə voltmtaɾda	1
+niunədə	1
+niunədə beisən	1
+niunədə beisən kontʰaini	1
+lekʰa	1
+lekʰa leɹisuɹuŋ	1
+lekʰa leɹisuɹuŋ kɔnfiuza	1
+tʰəŋnai	1
+tʰəŋnai moblib	1
+tʰəŋnai moblib dahaɾa	1
+ɡi	1
+ɡi </s>	1
+pʰilament	1
+pʰilament zi	1
+pʰilament zi mininsuŋni	1

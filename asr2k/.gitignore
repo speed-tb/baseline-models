@@ -128,7 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-data
+# data
+asr2k/data
 transphone/output
 transphone/runs
 transphone/pretrained
@@ -139,10 +140,10 @@ docs/
 .DS_Store
 .vscode
 cv-corpus-17.0-2024-03-15-hi
-bodo_data
+# bodo_data
 kokborok_data_train
 meitei_data_train
 srilm-1.7.3
 toto_data_train
-test
+# test
 stdout

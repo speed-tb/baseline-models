@@ -1,0 +1,1950 @@
+<eps> 0
+<SIL> 1
+<UNK> 2
+a 3
+adaŋ 4
+ae 5
+agolo 6
+agoloson 7
+ai 8
+aiaɡo 9
+aiaɾ 10
+aikon 11
+aini 12
+aiohai 13
+ait 14
+aitin 15
+aitʰəŋ 16
+aizen 17
+aizə 18
+akəlaŋzəʋai 19
+akʰi 20
+akʰia 21
+akʰilanzəʋai 22
+akʰinila 23
+akʰinə 24
+akʰutʰaini 25
+akʰəkʰəɾʋainəŋdən 26
+al 27
+alsendɾo 28
+aləŋəzən 29
+amalulaʋa 30
+amaro 31
+amma 32
+amus 33
+amuŋsən 34
+anaga 35
+anahaɡan 36
+anai 37
+anaidəŋ 38
+ane 39
+anei 40
+ani 41
+anəi 42
+aptʰənəmədəŋ 43
+arə 44
+asahalamnai 45
+asaido 46
+asaŋ 47
+ase 48
+asin 49
+asəŋ 50
+atsa 51
+auɾəilitʰəɡə 52
+azab 53
+azaŋa 54
+azaʋai 55
+aŋ 56
+aŋasəi 57
+aŋbanɾai 58
+aŋgan 59
+aŋgən 60
+aŋkʰə 61
+aŋnatʰe 62
+aɡan 63
+aɡaŋsonise 64
+aɡen 65
+aɡse 66
+aɡteatʰiŋ 67
+aɡən 68
+aɹa 69
+aɾ 70
+aɾa 71
+aɾabelnekʰae 72
+aɾabə 73
+aɾaebeni 74
+aɾai 75
+aɾanieʋe 76
+aɾanligoɾanma 77
+aɾanən 78
+aɾasə 79
+aɾasəŋzəŋa 80
+aɾatma 81
+aɾau 82
+aɾazəkʰəkʰo 83
+aɾazətʰəzaŋa 84
+aɾazəŋ 85
+aɾazəŋsəbikʰo 86
+aɾial 87
+aɾkʰu 88
+aɾne 89
+aɾni 90
+aɾo 91
+aɾçʰəcʰiŋ 92
+aɾə 93
+aɾəneʋei 94
+aɾənnə 95
+aɾəzodi 96
+aɾəzə 97
+aɾəzəŋ 98
+aʋekʰi 99
+ba 100
+bahainai 101
+bai 102
+bainəzəi 103
+balb 104
+balba 105
+balbanə 106
+balbazəŋ 107
+balkʰokʰurmai 108
+balkʰulla 109
+banai 110
+bapʰius 111
+base 112
+baseŋ 113
+basuɹasuŋsei 114
+battahaɾbohinai 115
+batʰahatipʰaɾə 116
+batʰi 117
+batʰibabaɾkʰua 118
+bau 119
+bazəŋɡa 120
+baŋ 121
+baŋkɾain 122
+baŋnai 123
+baŋɡa 124
+baŋɡɾe 125
+baŋɾai 126
+baŋɾaizebula 127
+baə 128
+baɡamissəɹəu 129
+baɾabeti 130
+baɾaɡ 131
+baɾboəɡan 132
+baɾkʰu 133
+baɾkʰuzənəngai 134
+baɾmaɾsekʰo 135
+baɾsohonnai 136
+baɾtan 137
+baʋni 138
+be 139
+beai 140
+bebəike 141
+bediŋ 142
+beduzədə 143
+beguguzə 144
+beha 145
+behu 146
+behən 147
+beikʰis 148
+beimmizi 149
+beisiman 150
+beisən 151
+beizə 152
+bekʰa 153
+bekʰai 154
+bekʰainə 155
+bekʰe 156
+bekʰi 157
+bekʰlai 158
+bekʰlukʰuzə 159
+bekʰo 160
+bekʰol 161
+bekʰu 162
+bekʰubuzibainaŋ 163
+bekʰuna 164
+bekʰuni 165
+bekʰunumuŋ 166
+bekʰunə 167
+bekʰunəŋtʰəməna 168
+bekʰuzəbla 169
+bekʰuzəŋɡa 170
+bekʰuɾni 171
+bekʰə 172
+bekʰəi 173
+bekʰənə 174
+bekʰəziŋ 175
+belena 176
+belipʰenisə 177
+bemoblib 178
+bemunidi 179
+bene 180
+beni 181
+benia 182
+benimo 183
+benipʰɾai 184
+beniza 185
+benizəbai 186
+beo 187
+beostʰaksa 188
+beozəŋɡa 189
+bepʰanisəŋ 190
+bepʰaɾnaisao 191
+bepʰlaɾ 192
+bepʰomolakʰala 193
+bepʰoɾmule 194
+bepʰəɾauba 195
+besa 196
+besauʋaɾi 197
+besaŋ 198
+besaɾs 199
+beseba 200
+besebaŋ 201
+besepe 202
+besi 203
+besik 204
+besima 205
+besin 206
+besiŋ 207
+besiŋkʰala 208
+beso 209
+besolakʰi 210
+besuməi 211
+besəba 212
+besən 213
+besəŋhaʋamonazəŋ 214
+betaɾi 215
+betaɾko 216
+betaɾtozəŋɡa 217
+betɾi 218
+betʰiŋ 219
+beu 220
+bewai 221
+bezo 222
+bezəsas 223
+bezəʋai 224
+beɡeziŋ 225
+beɡunɡɾani 226
+beʋai 227
+beʋaidis 228
+beʋaiki 229
+beʋaikə 230
+beʋaiti 231
+beʋaitizəi 232
+beʋasuŋa 233
+bi 234
+bia 235
+bibaikʰo 236
+bibaŋi 237
+bibaŋkʰo 238
+bideni 239
+bidenifezəŋ 240
+bidibouna 241
+biezaʋai 242
+bigiangiɾi 243
+bikʰaŋ 244
+bikʰuma 245
+bikʰunə 246
+bikʰəŋ 247
+bindeni 248
+bindesim 249
+bindo 250
+biniza 251
+bintʰi 252
+binuna 253
+bio 254
+bioe 255
+biohai 256
+biohaissa 257
+biokʰai 258
+biosezəŋnamə 259
+bipʰai 260
+bisim 261
+bissi 262
+bisəŋau 263
+bisʋisano 264
+biti 265
+bitʰiŋ 266
+bizao 267
+bizəŋ 268
+bizəʋo 269
+biə 270
+biɡen 271
+biɡianɡiɾi 272
+biɾia 273
+blasenbidzi 274
+bluzu 275
+bo 276
+boa 277
+bobli 278
+bobliŋni 279
+bohaɡa 280
+bohenna 281
+bohidiŋ 282
+bokʰu 283
+bol 284
+bolni 285
+bonpʰuɾluhunaiɡidəŋ 286
+bonsi 287
+bosauʋaɾi 288
+boŋnai 289
+boŋnipʰɾai 290
+boŋse 291
+boŋsi 292
+boŋsidai 293
+boŋəla 294
+boŋɡa 295
+boɡʰe 296
+boɾla 297
+boɾo 298
+boɾsəɡə 299
+boɾua 300
+bubaia 301
+bugo 302
+buhi 303
+buzdail 304
+buze 305
+buzekʰə 306
+buzi 307
+buzəʋai 308
+buŋa 309
+buŋgaizədəŋ 310
+buŋgo 311
+buŋkoɾola 312
+buŋna 313
+buŋnai 314
+buŋnəi 315
+buŋɡo 316
+bŋnaizədəŋ 317
+bɔi 318
+bɔioi 319
+bəhi 320
+bəikʰə 321
+bəkʰə 322
+bəpʰəɾ 323
+bʰolt 324
+da 325
+dabe 326
+dabei 327
+dabi 328
+dahaɾ 329
+dahaɾa 330
+dahaɾni 331
+dairekson 332
+daiɾekli 333
+dakʰotʰai 334
+danakʰ 335
+dani 336
+danse 337
+dansəni 338
+dapel 339
+dapʰuɾ 340
+dasasəoni 341
+dau 342
+dazabtʰai 343
+dazabtʰaihannameʋai 344
+dazabtʰei 345
+dazəptʰai 346
+dazəptʰəi 347
+dazəŋ 348
+daŋa 349
+daɾekson 350
+dedenɡani 351
+dedenɡɾani 352
+dedeŋɾani 353
+dedeɾma 354
+dedin 355
+dedineɡezizəŋ 356
+dedingɾa 357
+dedinnaijəɾ 358
+dedinɡɾani 359
+dediŋɡɾani 360
+dediŋɾani 361
+dedən 362
+deitən 363
+deninɡɾani 364
+deɡin 365
+di 366
+diaɡɾam 367
+diaɡɾamni 368
+dibuŋ 369
+didau 370
+didəm 371
+diegɾam 372
+difaɾens 373
+difəɾens 374
+dihun 375
+diksei 376
+dinçʰiŋeize 377
+dinəŋtʰəzə 378
+dissa 379
+distens 380
+ditʰiadi 381
+diu 382
+divaid 383
+diziŋae 384
+dizəi 385
+diʋaid 386
+doa 387
+doblaitʰi 388
+doblaitʰini 389
+dobliu 390
+dot 391
+dozizə 392
+dusaŋ 393
+dusumi 394
+dusunibeo 395
+dəm 396
+dənbəi 397
+dəŋa 398
+dəŋsə 399
+dʰattu 400
+dʰattupʰəɾə 401
+dʰatu 402
+dʰatupʰəɾəuma 403
+e 404
+eba 405
+edi 406
+ednaɾ 407
+efɾaizəŋ 408
+eihenadoŋ 409
+eisəŋ 410
+eks 411
+eksis 412
+ekskʰalamnai 413
+ekui 414
+ekʰana 415
+ekʰeɾokʰame 416
+ekʰinənə 417
+ekʰu 418
+el 419
+ela 420
+electɾik 421
+electɾotʰaid 422
+elektɾo 423
+elektɾon 424
+elənəzəŋ 425
+em 426
+emezənzəŋ 427
+emitaɾ 428
+emitəɾ 429
+empiaɾ 430
+empieɾ 431
+empijaɾ 432
+empijaɾə 433
+en 434
+endɾi 435
+ene 436
+eni 437
+enoijaɾ 438
+ensəɾkʰəmona 439
+entaɾə 440
+entʰakʰo 441
+entʰani 442
+entʰaŋ 443
+enəŋɡanəŋzəʋa 444
+es 445
+esai 446
+esaiɾaŋ 447
+ese 448
+esse 449
+eulibkʰau 450
+eus 451
+eze 452
+ezizə 453
+eɡzampəl 454
+eɾia 455
+eɾiasim 456
+eʋa 457
+eʋaibisin 458
+eʋe 459
+faiʋ 460
+fanəŋzə 461
+faɾaɡ 462
+feisbukʋu 463
+femuze 464
+fidam 465
+foɾaima 466
+foɾasi 467
+foɾmula 468
+fəɹiməini 469
+fəɾə 470
+fɾai 471
+gadanai 472
+gadanəiŋ 473
+ganəŋtʰənəzə 474
+gasimbaɾsən 475
+gazə 476
+gazəzə 477
+gazəŋa 478
+ge 479
+gehunanam 480
+gelazəŋ 481
+gesin 482
+geze 483
+gezesei 484
+gezezəŋ 485
+gi 486
+gizəzəŋ 487
+gizəŋə 488
+giʋeon 489
+godijamma 490
+gola 491
+gonaizədəŋ 492
+gozaibla 493
+goŋse 494
+gubun 495
+gunibo 496
+gusununado 497
+gə 498
+gələzi 499
+gənənətʰəkʰəlaŋa 500
+gəso 501
+gəssəsə 502
+gəsəlage 503
+gəsəlahi 504
+gəsəlaɾieza 505
+gətʰəŋ 506
+gəɹli 507
+gəɾlənəzəŋ 508
+gɾapʰə 509
+gɾapʰəɾ 510
+ha 511
+hababɔɡɔbimɔ 512
+habanə 513
+hae 514
+hagon 515
+haie 516
+haigən 517
+hakakʰaipo 518
+hala 519
+halaɡə 520
+hamani 521
+haməkʰə 522
+han 523
+handɾed 524
+hanti 525
+hantʰi 526
+hantʰiamnəi 527
+haua 528
+haŋai 529
+haŋaŋ 530
+haŋkʰo 531
+haŋnai 532
+haɡən 533
+haɾa 534
+haɾabosusiŋzəŋɡa 535
+haɾazebla 536
+haʋa 537
+haʋajano 538
+haʋakʰauzəŋga 539
+hentʰa 540
+heŋazeŋzələ 541
+heŋtʰa 542
+heŋtʰai 543
+heŋtʰaia 544
+heŋtʰaŋanainə 545
+himalaiɡe 546
+hoise 547
+holanna 548
+homesonli 549
+homitʋa 550
+hona 551
+honaidoŋ 552
+honaieze 553
+hoŋnamuda 554
+hunda 555
+husunai 556
+huɾhənəza 557
+hə 558
+hən 559
+hənae 560
+hənajanə 561
+hənəŋzaŋnaizebə 562
+həzəŋga 563
+həŋa 564
+həŋna 565
+həŋnai 566
+həŋənalonio 567
+həŋɡa 568
+ie 569
+iema 570
+ikual 571
+ikualtu 572
+ikuasən 573
+ikuel 574
+ikuenaga 575
+ikuesən 576
+ikuəsən 577
+ilectrik 578
+ilektrik 579
+ilektɾoɾo 580
+imitaɾ 581
+imitəɾ 582
+impizəɡən 583
+impoɾten 584
+impoɾtən 585
+ina 586
+indiksiŋ 587
+ine 588
+inizamapʰu 589
+inkezəɡanna 590
+inkizaɡən 591
+inkizəŋɡon 592
+inkuizaie 593
+inkuizalamnai 594
+intimezea 595
+intisin 596
+intizalamnə 597
+intu 598
+invərsli 599
+invəɾsli 600
+inəizəŋ 601
+inʋəɾs 602
+ipsani 603
+is 604
+issi 605
+issinamani 606
+istoa 607
+itopipʰəɾə 608
+ittalini 609
+iunit 610
+ius 611
+iva 612
+iz 613
+iŋɡɾazi 614
+iŋɾazə 615
+je 616
+johai 617
+kamekʰlaŋən 618
+kaneksəŋa 619
+kanekʰamə 620
+kanekʰlaoke 621
+karen 622
+kaɹen 623
+kaɾeksən 624
+kaɾem 625
+kaɾen 626
+kaɾennə 627
+ke 628
+kelkuleson 629
+keta 630
+kezizəŋ 631
+kibaizəŋ 632
+kibiɡio 633
+kiobekʰo 634
+kiu 635
+ko 636
+koa 637
+kolom 638
+kolomam 639
+kolomənə 640
+kolsae 641
+kolum 642
+kom 643
+koma 644
+komplisen 645
+komplit 646
+konaikʰəlaŋɡən 647
+konakʰanəm 648
+konse 649
+kontai 650
+kontʰa 651
+kontʰai 652
+kontʰaini 653
+kontʰaio 654
+kontʰe 655
+konwakʰalam 656
+kopi 657
+kosən 658
+koɾosen 659
+kui 660
+kuizəhana 661
+kukuɾməinə 662
+kullizaha 663
+kulmaeti 664
+kulom 665
+kulum 666
+kulumbə 667
+kulumzəŋ 668
+kuntʰeini 669
+kusno 670
+kususəŋga 671
+kuɾoɾo 672
+kuɾu 673
+kɔ 674
+kɔnfiuza 675
+kɔntai 676
+kɔntʰai 677
+kə 678
+kəpi 679
+kɯ 680
+kʰaikʰa 681
+kʰaiəɾ 682
+kʰaiʋa 683
+kʰalamna 684
+kʰalamnaliŋ 685
+kʰalamnan 686
+kʰalanəŋ 687
+kʰama 688
+kʰaman 689
+kʰamane 690
+kʰamani 691
+kʰamanimozəŋ 692
+kʰandehiki 693
+kʰaneikʰələmnə 694
+kʰantipuɾkʰə 695
+kʰantʰi 696
+kʰantʰipʰuɾ 697
+kʰaʋai 698
+kʰeloma 699
+kʰeze 700
+kʰilinənəŋa 701
+kʰinaikə 702
+kʰizepʰuɾ 703
+kʰizə 704
+kʰizəzəŋa 705
+kʰo 706
+kʰoakʰi 707
+kʰobihəŋɡa 708
+kʰobo 709
+kʰobona 710
+kʰola 711
+kʰolana 712
+kʰom 713
+kʰoma 714
+kʰommili 715
+kʰon 716
+kʰontʰai 717
+kʰontʰaini 718
+kʰopʰuzəŋnaize 719
+kʰoze 720
+kʰozuŋada 721
+kʰoɾesə 722
+kʰoɾon 723
+kʰoɾoni 724
+kʰoɾonipʰɾai 725
+kʰoɾosim 726
+kʰoɾsim 727
+kʰoɾəisə 728
+kʰu 729
+kʰubtʰe 730
+kʰubutʰamna 731
+kʰufuɾmano 732
+kʰuliŋnai 733
+kʰulum 734
+kʰuzəŋɡa 735
+kʰuŋnazəda 736
+kʰuɾiɾnado 737
+kʰuɾmanə 738
+kʰuɾum 739
+kʰuɾuŋ 740
+kʰə 741
+kʰəhəzəʋai 742
+kʰəinə 743
+kʰəkʰəi 744
+kʰəlae 745
+kʰələm 746
+kʰələmla 747
+kʰələmnəi 748
+kʰələŋ 749
+kʰələŋnəɡan 750
+kʰəmanimaunizəŋgan 751
+kʰəna 752
+kʰənkʰe 753
+kʰənəmu 754
+kʰənəzəi 755
+kʰənəŋnənau 756
+kʰənəŋsə 757
+kʰətʰai 758
+kʰəzəŋa 759
+kʰəzəŋɡa 760
+kʰəɾni 761
+kʰəʋai 762
+kʰəʋazəŋ 763
+la 764
+laba 765
+labaŋɡaio 766
+labodəŋ 767
+ladaŋ 768
+ladə 769
+lage 770
+lais 771
+lajo 772
+laki 773
+lakin 774
+lakʰaʋai 775
+lakʰe 776
+lakʰi 777
+lakʰim 778
+lakʰiɡən 779
+lama 780
+lamakʰo 781
+lamdem 782
+lamnə 783
+lana 784
+lanae 785
+lanazadaŋ 786
+lanaŋʋa 787
+laodən 788
+laopʰaini 789
+laotʰaini 790
+laotʰaizudi 791
+laotʰaizəɡən 792
+laotʰaiɡən 793
+laotʰeini 794
+laotʰəŋsəzəŋ 795
+lasun 796
+laŋga 797
+laŋəla 798
+laŋɡa 799
+laɡe 800
+laɡi 801
+laɾazəŋgan 802
+laʋonaʋaʋ 803
+laʋədə 804
+lea 805
+lednamenanə 806
+lekʰa 807
+lenahaŋna 808
+lenə 809
+leɹisuɹuŋ 810
+leʋnanə 811
+libonai 812
+lige 813
+ligele 814
+lina 815
+linaie 816
+linna 817
+linnə 818
+linə 819
+lionadehaŋnaɡa 820
+liŋkʰəaidoŋo 821
+liŋkʰənaidoŋo 822
+lo 823
+lobi 824
+loŋa 825
+lə 826
+lədə 827
+ləɡə 828
+ləɡən 829
+ləɡəɾdinei 830
+ma 831
+mabai 832
+mabaide 833
+mablababna 834
+mablabapʰius 835
+mablaʋa 836
+maema 837
+mahaɾauma 838
+maheni 839
+mahɔɹmae 840
+mai 841
+maikɾo 842
+mainas 843
+mainəs 844
+makʰəoŋa 845
+makʰəzəzəŋ 846
+makʰɾazino 847
+malabononaŋa 848
+malinnaeɾ 849
+mamaiti 850
+mamaneŋa 851
+mamonamon 852
+mamu 853
+mamuzi 854
+mamuzia 855
+mamuzəŋɡa 856
+maməndəŋ 857
+maməneizəŋ 858
+maməŋnəi 859
+mana 860
+manahnei 861
+manakʰai 862
+manam 863
+mane 864
+manei 865
+manema 866
+manezəʋai 867
+mani 868
+mankʰəɾən 869
+manne 870
+manse 871
+mansemuakʰə 872
+manə 873
+manəzəŋ 874
+mao 875
+maonəɡənə 876
+masno 877
+masəŋ 878
+masəŋnai 879
+masəŋoi 880
+matʰəŋan 881
+mau 882
+maukʰaunadəŋ 883
+maulaba 884
+maulaoasənən 885
+maulitʰaodən 886
+maunai 887
+maunaŋɡon 888
+maunəŋtʰənə 889
+maupʰuŋnai 890
+maupʰəiməzə 891
+maz 892
+mazəgən 893
+mazəŋgən 894
+maŋbai 895
+maŋnai 896
+maŋnəi 897
+maɡannaɡan 898
+maɾi 899
+maɾk 900
+maɾkʰoa 901
+maɾzaia 902
+maɾə 903
+maʋa 904
+maʋaikʰəna 905
+maʋait 906
+maʋanaɡan 907
+maʋnai 908
+maʋnao 909
+me 910
+meanəi 911
+meisan 912
+meize 913
+meizəŋga 914
+mekʰneibei 915
+mekʰu 916
+memeze 917
+mena 918
+menehai 919
+menibəiɾəzəŋɡa 920
+menifai 921
+menifɾai 922
+menipʰɾai 923
+meniuɾ 924
+menpʰɾai 925
+mensə 926
+menupʰɾai 927
+menəpʰɾai 928
+meo 929
+mesaŋ 930
+mesiŋmalana 931
+metaɾ 932
+mets 933
+metɾ 934
+metɾi 935
+metʰiʋa 936
+mevai 937
+mezaie 938
+meze 939
+mezoi 940
+meŋu 941
+meɾi 942
+meʋai 943
+meʋama 944
+meʋe 945
+mi 946
+mibaŋe 947
+mikʰiziŋi 948
+mili 949
+mininsuŋni 950
+minit 951
+miosəf 952
+misi 953
+mitaɾ 954
+mitçʰei 955
+mitəɾ 956
+mitʰaŋnifai 957
+mitʰumtʰinaŋɡan 958
+mizəoɾanai 959
+miʋazəʋai 960
+mo 961
+moa 962
+mobapəɾni 963
+mobaudusomantʰai 964
+mobla 965
+moblib 966
+mohidən 967
+mohinai 968
+mola 969
+molgʰugul 970
+mominta 971
+mona 972
+monai 973
+moneni 974
+moni 975
+monisa 976
+monisə 977
+monne 978
+monse 979
+montʰai 980
+mopʰaia 981
+moŋale 982
+moŋsi 983
+moŋunamamuzinatʰə 984
+moɡalasai 985
+moɡlidah 986
+mu 987
+mua 988
+muapʰəɾ 989
+muapʰɾai 990
+mudeizəŋga 991
+mukə 992
+mukʰabai 993
+mukʰuɾni 994
+mumuzi 995
+muna 996
+munim 997
+munipʰɾo 998
+munizəŋ 999
+muniɡo 1000
+munnaizei 1001
+munse 1002
+munsi 1003
+muntən 1004
+mununu 1005
+munə 1006
+musei 1007
+muzaiɡan 1008
+muzida 1009
+muŋme 1010
+muŋni 1011
+muŋnifɾai 1012
+muŋnizei 1013
+muŋnəi 1014
+muŋnəzəda 1015
+muŋɡa 1016
+muɹlisim 1017
+muɹtʰeklam 1018
+mɔblib 1019
+mɔkʰuɹəu 1020
+mɔne 1021
+mɔŋneizi 1022
+mə 1023
+mədəŋ 1024
+məhəɾse 1025
+məitʰə 1026
+məma 1027
+məme 1028
+məmse 1029
+məmuzə 1030
+mən 1031
+mənipʰɾai 1032
+mənise 1033
+mənizəŋ 1034
+mənkʰələŋ 1035
+mənkʰəsiəŋ 1036
+mənne 1037
+mənnei 1038
+mənnə 1039
+mənse 1040
+mənsei 1041
+mənsi 1042
+mənsitaɾ 1043
+mənsə 1044
+mənsəsən 1045
+mənsəsəŋ 1046
+mənsəsəɾ 1047
+məntʰaditisiŋ 1048
+məntʰi 1049
+məntʰie 1050
+mənə 1051
+mənəizəŋ 1052
+mənəiɡən 1053
+mənəmənə 1054
+mənəsə 1055
+mənəzəŋ 1056
+məse 1057
+məsei 1058
+məsənŋa 1059
+məsəsaŋ 1060
+məsəsaɾkidau 1061
+məsəsi 1062
+məsəŋ 1063
+mətəŋ 1064
+məzə 1065
+məzəŋ 1066
+məŋan 1067
+məŋna 1068
+məŋnai 1069
+na 1070
+nae 1071
+naga 1072
+nagam 1073
+nagan 1074
+nagoma 1075
+nahahai 1076
+nai 1077
+naia 1078
+naikɾom 1079
+naini 1080
+naintin 1081
+naiɡidəŋ 1082
+nalage 1083
+nambaɾ 1084
+nambaɾə 1085
+nambəɾ 1086
+naməɾə 1087
+nanəlagə 1088
+nanəŋ 1089
+natabtʰai 1090
+nataŋmuna 1091
+naza 1092
+nazaŋa 1093
+naze 1094
+nazə 1095
+nazəŋ 1096
+nazəŋnalan 1097
+naŋmai 1098
+naŋohai 1099
+naŋsaɾgan 1100
+naŋɡuzaieɾ 1101
+naɡeɡizəŋ 1102
+naɡo 1103
+naɾa 1104
+naɾəɡən 1105
+naʋas 1106
+ne 1107
+necʰiŋ 1108
+negizəzəŋ 1109
+nei 1110
+neks 1111
+nekszəŋga 1112
+nesen 1113
+nettezəŋə 1114
+nezə 1115
+ni 1116
+nibei 1117
+nibisim 1118
+nibisin 1119
+nibue 1120
+nidibi 1121
+nidiŋgani 1122
+nigezizəŋ 1123
+nigizizizəm 1124
+nikʰi 1125
+nikʰid 1126
+nimikʰe 1127
+nimuaza 1128
+nimə 1129
+ninnae 1130
+nipʰɾai 1131
+niseb 1132
+nisiziŋzizəŋ 1133
+nistʰasa 1134
+nisəsəŋ 1135
+niunədə 1136
+nizisəŋ 1137
+nizizə 1138
+nizəzai 1139
+nizəʋa 1140
+niçʰam 1141
+niŋtʰam 1142
+niŋtʰənona 1143
+niŋəstaɾozəŋɡa 1144
+niɡemeŋtʰəiza 1145
+niɡezizəm 1146
+niɡezizəŋ 1147
+niʋe 1148
+niʋei 1149
+no 1150
+noha 1151
+nonamədəŋ 1152
+nouə 1153
+noɹmeli 1154
+nu 1155
+nua 1156
+nudau 1157
+nukʰəiʋə 1158
+nuna 1159
+nunamənən 1160
+nunu 1161
+nunə 1162
+nuŋla 1163
+nɔ 1164
+nə 1165
+nəboudəŋ 1166
+nədəŋmədən 1167
+nədəŋməna 1168
+nəio 1169
+nəiɡiʈaŋ 1170
+nəkʰuɹkʰuɹəu 1171
+nələŋa 1172
+nəməi 1173
+nənnaizə 1174
+nənnunamətaŋ 1175
+nəntʰəmonaizə 1176
+nənəmədən 1177
+nənəmədəŋ 1178
+nənəməna 1179
+nənəmənai 1180
+nənəmənə 1181
+nənəŋmona 1182
+nənəŋzae 1183
+nəptʰaoɡan 1184
+nəsi 1185
+nəsə 1186
+nətənekəsəŋ 1187
+nətʰəŋ 1188
+nətʰəŋmona 1189
+nətʰəŋmonalenade 1190
+nəza 1191
+nəzziseni 1192
+nəzə 1193
+nəzəilaɡe 1194
+nəzəu 1195
+nəzəŋ 1196
+nəçʰəŋmona 1197
+nəŋ 1198
+nəŋboadəŋ 1199
+nəŋdan 1200
+nəŋdəmənən 1201
+nəŋinəjizae 1202
+nəŋnai 1203
+nəŋtuŋmənai 1204
+nəŋtʰa 1205
+nəŋtʰaŋmona 1206
+nəŋtʰmona 1207
+nəŋtʰəmona 1208
+nəŋtʰəmoni 1209
+nəŋtʰəmono 1210
+nəŋtʰəməna 1211
+nəŋtʰəmənai 1212
+nəŋtʰəmənə 1213
+nəŋtʰəmətʋa 1214
+nəŋtʰəməŋ 1215
+nəŋtʰən 1216
+nəŋtʰənmə 1217
+nəŋtʰənməna 1218
+nəŋtʰənənə 1219
+nəŋtʰəŋ 1220
+nəŋtʰəŋamazea 1221
+nəŋtʰəŋmona 1222
+nəŋtʰəŋmunni 1223
+nəŋtʰəŋməna 1224
+nəŋtʰəŋmənə 1225
+nəŋtʰəŋəz 1226
+nəŋtʰəŋəze 1227
+nəŋtʰəŋəzə 1228
+nəŋtʰəɡəm 1229
+nəŋə 1230
+nəŋəzəŋa 1231
+nəŋəŋmnəŋ 1232
+nəŋɡən 1233
+nəɡəm 1234
+nəɡənzae 1235
+nəɡəzən 1236
+nəɾə 1237
+obla 1238
+oblai 1239
+oblazəŋ 1240
+ohai 1241
+ohoi 1242
+ohuigoman 1243
+okʰilaize 1244
+okʰul 1245
+ola 1246
+olahinəzə 1247
+olanebi 1248
+olanəŋtʰəmənə 1249
+oldana 1250
+olgʰainə 1251
+om 1252
+omna 1253
+omne 1254
+omni 1255
+omotʰanənəŋtʰə 1256
+omə 1257
+oni 1258
+onli 1259
+ono 1260
+os 1261
+osadni 1262
+osen 1263
+osəŋ 1264
+ozo 1265
+oŋa 1266
+oŋo 1267
+oŋse 1268
+oɾla 1269
+oɾlanegeu 1270
+par 1271
+pastʰaona 1272
+pauaɾ 1273
+paueɾ 1274
+pauvaɾ 1275
+pauəɾ 1276
+pauʋaɾ 1277
+paɾpʰozəŋ 1278
+phinəi 1279
+piksaɾ 1280
+piksaɾə 1281
+pilims 1282
+piɔhai 1283
+plie 1284
+poi 1285
+poin 1286
+posison 1287
+potensiel 1288
+prəpoɾsənel 1289
+puŋla 1290
+puŋoblan 1291
+puɾlu 1292
+puɾluhuli 1293
+pɾoblem 1294
+pɾopoɾsənel 1295
+pɾopoɾsənəl 1296
+pɾəpoɾsənel 1297
+pʰagənnə 1298
+pʰaɾa 1299
+pʰaɾagni 1300
+pʰaɾak 1301
+pʰaɾakni 1302
+pʰaɾakʰə 1303
+pʰaɾami 1304
+pʰaɾao 1305
+pʰaɾaɡ 1306
+pʰaɾaɡa 1307
+pʰaɾaɡabe 1308
+pʰaɾaɡazəɡən 1309
+pʰaɾaɡo 1310
+pʰaɾmə 1311
+pʰaɾməina 1312
+pʰaɾne 1313
+pʰaɾnə 1314
+pʰaɾo 1315
+pʰaɾs 1316
+pʰaɾse 1317
+pʰaɾsəziŋ 1318
+pʰaɾəkuzukʰinae 1319
+pʰaɾənai 1320
+pʰaɾəse 1321
+pʰaɾəŋɡai 1322
+pʰaɾəɡkʰo 1323
+pʰeizəŋdetesiŋ 1324
+pʰi 1325
+pʰia 1326
+pʰiaɡeŋɡəzə 1327
+pʰilament 1328
+pʰinəsə 1329
+pʰiziŋ 1330
+pʰiɾonmoi 1331
+pʰobla 1332
+pʰonazab 1333
+pʰonaŋzabnaɡo 1334
+pʰoza 1335
+pʰoɾa 1336
+pʰoɾaisə 1337
+pʰoɾakʰəi 1338
+pʰoɾesi 1339
+pʰoɾesə 1340
+pʰoɾmula 1341
+pʰoʋai 1342
+pʰukʰulam 1343
+pʰupʰuɾlə 1344
+pʰuɾaŋzab 1345
+pʰuɾməi 1346
+pʰə 1347
+pʰəgən 1348
+pʰənazəʋalase 1349
+pʰəɾa 1350
+pʰəɾak 1351
+pʰəɾə 1352
+pʰəɾəi 1353
+pʰəɾək 1354
+pʰəɾəŋa 1355
+pʰɾai 1356
+rai 1357
+revaiti 1358
+ru 1359
+ruztʰaijaɾ 1360
+ruztʰaijaɾi 1361
+sa 1362
+sabi 1363
+sabonkotʰae 1364
+sabse 1365
+saga 1366
+saimam 1367
+sains 1368
+sainsə 1369
+saintis 1370
+saio 1371
+sajao 1372
+sakiniŋta 1373
+sakʰai 1374
+salamna 1375
+sale 1376
+salea 1377
+sali 1378
+sammɔn 1379
+samon 1380
+san 1381
+sana 1382
+sanaɾə 1383
+sandai 1384
+sansini 1385
+santələzəŋga 1386
+sanu 1387
+sanə 1388
+sanəi 1389
+sanɡa 1390
+saolana 1391
+saos 1392
+sapos 1393
+sarkit 1394
+sasea 1395
+sasi 1396
+sasse 1397
+sati 1398
+satʰi 1399
+sauaɾi 1400
+sauɾai 1401
+sauɾaiɡəm 1402
+sauɾaiɡən 1403
+sauɾaomni 1404
+sauɾə 1405
+sauɾəɡən 1406
+sauʋaɾi 1407
+sauʋaɾizəŋ 1408
+savanneɾi 1409
+savaɾi 1410
+saz 1411
+sazai 1412
+sazəinezəi 1413
+saŋ 1414
+saŋgodi 1415
+saŋkʰontʰai 1416
+saɡodi 1417
+saɾainəiŋ 1418
+saɾkit 1419
+saɾla 1420
+saɾs 1421
+saɾsabaɾ 1422
+saɾsau 1423
+saɾsaɾsi 1424
+saɾskʰa 1425
+saɾskʰə 1426
+saɾsni 1427
+saɾso 1428
+saɾstʰaŋəinəzəŋ 1429
+saɾsəkʰəl 1430
+saɾʋəkʰu 1431
+saʋ 1432
+saʋaeʋasʋi 1433
+saʋaɾan 1434
+se 1435
+sek 1436
+seken 1437
+sekeno 1438
+sekʰolo 1439
+sel 1440
+selpʰoɾni 1441
+semləzəŋ 1442
+sena 1443
+seob 1444
+septaɾ 1445
+sevsənaɡən 1446
+seŋɾuzutʰaijaɾi 1447
+seɾnagaŋ 1448
+seʋa 1449
+seʋai 1450
+seʋen 1451
+si 1452
+siks 1453
+siksti 1454
+sikstie 1455
+sim 1456
+sima 1457
+simbol 1458
+simbola 1459
+simbozəŋditʰənəizə 1460
+simbəl 1461
+siməi 1462
+sio 1463
+sionə 1464
+sisiɾ 1465
+siszen 1466
+siŋknekʰo 1467
+siŋɡo 1468
+siŋɡəl 1469
+siɾfnaŋzabnaita 1470
+siɾiebalaɾie 1471
+siɾitʰaŋnadaɡatʰai 1472
+siɾtʰaŋnadazabtʰaiɡa 1473
+so 1474
+soblaitʰini 1475
+solagibeniuonde 1476
+solamna 1477
+somman 1478
+somnəŋɡen 1479
+sonaɡəbə 1480
+sonne 1481
+soŋ 1482
+soŋdan 1483
+soŋkʰən 1484
+stakʰələmnənə 1485
+steiŋ 1486
+sugan 1487
+suissega 1488
+suisuba 1489
+sula 1490
+sulai 1491
+suman 1492
+sunai 1493
+sunni 1494
+suno 1495
+suzin 1496
+suŋa 1497
+suɹuŋa 1498
+swis 1499
+sə 1500
+səbse 1501
+səbsəhaɡən 1502
+səkʰəluŋ 1503
+səlai 1504
+səlakʰi 1505
+səm 1506
+səman 1507
+sən 1508
+sənaɾnai 1509
+sənaɾo 1510
+sənnaomaɾɡao 1511
+səns 1512
+sənsəsəŋ 1513
+sənəgən 1514
+sənəiəɡən 1515
+sənəɡən 1516
+sənɡodi 1517
+səsse 1518
+səsəimeɡenɡioni 1519
+səuɾaigən 1520
+səuɾəi 1521
+səŋ 1522
+səŋa 1523
+səŋguni 1524
+səŋkontʰai 1525
+səŋkuntʰei 1526
+səŋkʰontʰaini 1527
+səŋkʰontʰei 1528
+səŋlə 1529
+səŋlən 1530
+səŋo 1531
+səŋɡa 1532
+səɾsə 1533
+sɾeŋ 1534
+ta 1535
+taim 1536
+taɾ 1537
+taɾkʰo 1538
+taɾni 1539
+te 1540
+tebəl 1541
+ten 1542
+ti 1543
+tie 1544
+tihaidoŋo 1545
+tihənəeidoŋo 1546
+tiukʰənəŋdəzən 1547
+tiuŋədə 1548
+tono 1549
+tonsimetɾi 1550
+topik 1551
+toŋo 1552
+toŋobetʰikʰoiaɾa 1553
+tu 1554
+tuelf 1555
+tun 1556
+twel 1557
+twelf 1558
+tʰa 1559
+tʰaboŋnai 1560
+tʰahai 1561
+tʰahalakʰinai 1562
+tʰahate 1563
+tʰahati 1564
+tʰahatipʰəɾə 1565
+tʰahatʰi 1566
+tʰahaɡan 1567
+tʰahaɾtʰi 1568
+tʰai 1569
+tʰaie 1570
+tʰaienəŋtʰəmona 1571
+tʰaijo 1572
+tʰaila 1573
+tʰaimnəŋɡən 1574
+tʰaimənait 1575
+tʰakuni 1576
+tʰakʰai 1577
+tʰakʰati 1578
+tʰakʰatʰi 1579
+tʰakʰizio 1580
+tʰamainzə 1581
+tʰamaʋabaɾi 1582
+tʰametba 1583
+tʰametʋa 1584
+tʰamhinba 1585
+tʰamin 1586
+tʰamitba 1587
+tʰamitʋa 1588
+tʰanai 1589
+tʰananəzəŋ 1590
+tʰanaŋdən 1591
+tʰaneŋma 1592
+tʰanəi 1593
+tʰattanpʰɾəni 1594
+tʰatuaɾi 1595
+tʰauɾa 1596
+tʰaŋ 1597
+tʰaŋai 1598
+tʰaŋanənənəi 1599
+tʰaŋaɾas 1600
+tʰaŋbai 1601
+tʰaŋna 1602
+tʰaŋnai 1603
+tʰaŋnala 1604
+tʰaŋzən 1605
+tʰaŋzəŋ 1606
+tʰaɡən 1607
+tʰaɾ 1608
+tʰaɾa 1609
+tʰaɾaibazəŋ 1610
+tʰaɾazəŋ 1611
+tʰaɾni 1612
+tʰeŋnai 1613
+tʰeŋtʰa 1614
+tʰeŋtʰai 1615
+tʰhametʋa 1616
+tʰiduŋtʰeo 1617
+tʰieɾə 1618
+tʰioɾi 1619
+tʰoa 1620
+tʰoɾse 1621
+tʰəiʋazəŋ 1622
+tʰəməuan 1623
+tʰənai 1624
+tʰəniu 1625
+tʰənəmnalan 1626
+tʰəŋai 1627
+tʰəŋbai 1628
+tʰəŋbiohai 1629
+tʰəŋhanaio 1630
+tʰəŋhənajob 1631
+tʰəŋhənə 1632
+tʰəŋna 1633
+tʰəŋnai 1634
+tʰəŋnau 1635
+tʰəŋnə 1636
+tʰəŋo 1637
+tʰəŋoɡə 1638
+tʰəŋzəŋ 1639
+tʰəŋɡa 1640
+tʰəŋɡə 1641
+tʰəŋɡəɾ 1642
+tʰəŋɾa 1643
+tʰəɡən 1644
+tʰəɾəm 1645
+tʰɾi 1646
+t͜səɡənam 1647
+uan 1648
+uanda 1649
+udegazəzi 1650
+udeizəŋ 1651
+udi 1652
+ukʰeni 1653
+unni 1654
+unnisauɾənəzəŋɡa 1655
+utʰa 1656
+uze 1657
+uzeŋ 1658
+uzu 1659
+vai 1660
+vaŋsumau 1661
+vaɾ 1662
+vekʰu 1663
+vese 1664
+vesolaki 1665
+vezewai 1666
+vi 1667
+vidio 1668
+vizəŋɡa 1669
+vol 1670
+volmitaɾ 1671
+volt 1672
+volta 1673
+voltmitaɾ 1674
+voltmitaɾkʰo 1675
+voltmtaɾda 1676
+vəɾsə 1677
+watsaʋu 1678
+za 1679
+zabai 1680
+zabod 1681
+zada 1682
+zadazəŋ 1683
+zade 1684
+zadə 1685
+zae 1686
+zaha 1687
+zahanave 1688
+zahə 1689
+zai 1690
+zaida 1691
+zaie 1692
+zaieɾ 1693
+zainigezizəŋ 1694
+zaipʰəɾai 1695
+zajani 1696
+zaman 1697
+zamanu 1698
+zananagomai 1699
+zatʰəzəŋ 1700
+zaɡən 1701
+zaʋa 1702
+zaʋai 1703
+ze 1704
+zebla 1705
+zeblab 1706
+zeblanikʰiŋ 1707
+zeblazəŋsaɾkʰit 1708
+zeblaŋhi 1709
+zeblaʋe 1710
+zega 1711
+zeikizəŋ 1712
+zeikʰize 1713
+zekʰize 1714
+zesiba 1715
+zesibaŋ 1716
+zeula 1717
+zezəŋ 1718
+zeŋboa 1719
+zeŋnai 1720
+zeŋɡa 1721
+zeʋai 1722
+zeʋla 1723
+zeʋlan 1724
+zi 1725
+zidenzə 1726
+zinei 1727
+zini 1728
+zinini 1729
+zinne 1730
+zinnəi 1731
+ziptʰəŋə 1732
+ziŋzei 1733
+ziɾo 1734
+zodi 1735
+zoveleona 1736
+zoɾs 1737
+zubuŋ 1738
+zude 1739
+zudi 1740
+zudibekʰubakʰai 1741
+zukʰi 1742
+zul 1743
+zunzei 1744
+zuŋ 1745
+zuɾupsa 1746
+zuɾupʰɾa 1747
+zə 1748
+zəbai 1749
+zəbla 1750
+zəblaikʰio 1751
+zəbəd 1752
+zəbəŋ 1753
+zədɐŋ 1754
+zədə 1755
+zədəda 1756
+zədəŋ 1757
+zəhənəi 1758
+zəhəɾai 1759
+zəi 1760
+zəifəɾ 1761
+zəjobla 1762
+zəlamna 1763
+zəmənənə 1764
+zən 1765
+zənənai 1766
+zətʰai 1767
+zəzəŋ 1768
+zəŋ 1769
+zəŋa 1770
+zəŋai 1771
+zəŋda 1772
+zəŋga 1773
+zəŋgə 1774
+zəŋhai 1775
+zəŋmənə 1776
+zəŋnai 1777
+zəŋtʰahati 1778
+zəŋtʰahatipʰəɾəŋ 1779
+zəŋzahao 1780
+zəŋzəŋ 1781
+zəŋɡa 1782
+zəŋɡakʰinadaŋ 1783
+zəŋɡasəŋ 1784
+zəŋɡi 1785
+zəɡən 1786
+zəɳnə 1787
+zəʋa 1788
+zəʋai 1789
+çʰiduŋkʰese 1790
+ŋazə 1791
+ŋuŋtʰumona 1792
+ŋənai 1793
+ŋəŋtʰa 1794
+ŋəŋtʰən 1795
+ə 1796
+əknə 1797
+əls 1798
+əluzəŋ 1799
+ənəi 1800
+ənəŋtʰəmənə 1801
+ərə 1802
+əzəŋ 1803
+əzəŋzə 1804
+əŋmonoze 1805
+əŋnai 1806
+əɾa 1807
+əɾədəŋa 1808
+əɾəzə 1809
+əɾəzəŋ 1810
+ɡa 1811
+ɡai 1812
+ɡanai 1813
+ɡanalazəŋ 1814
+ɡaneɡezizəzəm 1815
+ɡaondiɡəzəzəŋ 1816
+ɡassinəʋəu 1817
+ɡazeŋɡa 1818
+ɡazib 1819
+ɡaɾa 1820
+ɡenunə 1821
+ɡeso 1822
+ɡezezəŋ 1823
+ɡezeɾao 1824
+ɡezeɾo 1825
+ɡezeɾzo 1826
+ɡezeɾzəŋ 1827
+ɡezizəŋ 1828
+ɡezəni 1829
+ɡeɾeman 1830
+ɡi 1831
+ɡibio 1832
+ɡidiŋ 1833
+ɡiziɹo 1834
+ɡizəzəŋ 1835
+ɡiəmakʰələmnə 1836
+ɡo 1837
+ɡohiŋai 1838
+ɡolai 1839
+ɡona 1840
+ɡossolake 1841
+ɡozannipʰɾai 1842
+ɡoŋseni 1843
+ɡubon 1844
+ɡubun 1845
+ɡuʋobdaŋkʰ 1846
+ɡəgədoma 1847
+ɡəmi 1848
+ɡənta 1849
+ɡənze 1850
+ɡəssə 1851
+ɡəssəlakʰi 1852
+ɡəzeula 1853
+ɡəzəjaipi 1854
+ɡəzərzəŋ 1855
+ɡəzəzəŋ 1856
+ɡəɾlei 1857
+ɡəɾlə 1858
+ɡəɾə 1859
+ɡɾakʰozzi 1860
+ɡɾani 1861
+ɡʰənəɡəm 1862
+ɹa 1863
+ɹo 1864
+ɾahmomuda 1865
+ɾai 1866
+ɾauɾainoi 1867
+ɾauɾəŋ 1868
+ɾedi 1869
+ɾenigezizo 1870
+ɾesistens 1871
+ɾezəʋainəŋtʰəmona 1872
+ɾeŋen 1873
+ɾeʋai 1874
+ɾeʋaieti 1875
+ɾeʋaiti 1876
+ɾeʋaitis 1877
+ɾia 1878
+ɾilizioçʰəŋnai 1879
+ɾiplai 1880
+ɾissi 1881
+ɾiwaieti 1882
+ɾoa 1883
+ɾoi 1884
+ɾokʰozəŋɡa 1885
+ɾozəŋ 1886
+ɾuna 1887
+ɾuzutʰai 1888
+ɾuzutʰaiaɾi 1889
+ɾuzutʰaijaɾi 1890
+ɾuzutʰaiɾe 1891
+ɾuzutʰuijiaɾi 1892
+ɾəsə 1893
+ɾəzəze 1894
+ɾəŋ 1895
+ʋa 1896
+ʋai 1897
+ʋaikʰulkʰuɾai 1898
+ʋalbonsi 1899
+ʋan 1900
+ʋasʋiskʰo 1901
+ʋatdahaɾ 1902
+ʋe 1903
+ʋeha 1904
+ʋei 1905
+ʋekʰu 1906
+ʋekʰua 1907
+ʋekʰukʰuso 1908
+ʋekʰəmənəŋ 1909
+ʋekʰənəŋtʰəmənə 1910
+ʋekʰəŋ 1911
+ʋellausiŋsi 1912
+ʋelogoɾu 1913
+ʋenahaiŋen 1914
+ʋenekʰainə 1915
+ʋeni 1916
+ʋenifɾai 1917
+ʋeniozəŋ 1918
+ʋenisən 1919
+ʋenəkʰainə 1920
+ʋepʰupʰuzəŋa 1921
+ʋesean 1922
+ʋeseboŋ 1923
+ʋesemil 1924
+ʋeso 1925
+ʋesolaki 1926
+ʋesəʋa 1927
+ʋeu 1928
+ʋezaʋai 1929
+ʋezeblazəŋ 1930
+ʋezeʋai 1931
+ʋezəi 1932
+ʋezəʋai 1933
+ʋeʋaiti 1934
+ʋeʋase 1935
+ʋi 1936
+ʋia 1937
+ʋidio 1938
+ʋin 1939
+ʋisatʰim 1940
+ʋitʰəŋ 1941
+ʋiʋaitʰai 1942
+ʋolt 1943
+ʋəsəunesə 1944
+ʋəɾdəŋ 1945
+ʝohai 1946
+#0 1947
+<s> 1948
+</s> 1949
